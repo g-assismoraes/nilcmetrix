@@ -200,7 +200,7 @@ no_palavras_metrics = MetricsSet([BasicCounts(),
                           Lsa(),
                           #AIC(),
                           LIWC(),
-                          #GUTEN(),
+                          GUTEN(),
                           EXTRA(),
                           ])
 

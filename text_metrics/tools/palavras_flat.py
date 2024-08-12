@@ -1,6 +1,6 @@
 from __future__ import unicode_literals, print_function, division
 from text_metrics.conf import config
-# import subprocess
+import subprocess
 # import tempfile
 # import os
 # import codecs
@@ -37,23 +37,23 @@ from urllib.request import urlopen
 #
 #     return str(response)
 
-def palavras_flat(t):
-    '''
-    Call a webservice to run the parser Palavras
+# def palavras_flat(t):
+#     '''
+#     Call a webservice to run the parser Palavras
 
-    :param text: the text to be parsed, in unicode.
-    :return: the response string from Palavras
-    '''
-    params = {'sentence': t.raw_content}
-    data = urlencode(params).encode('utf-8')
-    f = urlopen(config['CALL_PALAVRAS_FLAT'], data)
-    response = f.read()
-    f.close()
+#     :param text: the text to be parsed, in unicode.
+#     :return: the response string from Palavras
+#     '''
+#     params = {'sentence': t.raw_content}
+#     data = urlencode(params).encode('utf-8')
+#     f = urlopen(config['CALL_PALAVRAS_FLAT'], data)
+#     response = f.read()
+#     f.close()
 
-    return response.decode('utf-8') \
-                   .replace('\\n', '\n') \
-                   .replace('\\t', '\t') \
-                   .replace('ß', 's')
+#     return response.decode('utf-8') \
+#                    .replace('\\n', '\n') \
+#                    .replace('\\t', '\t') \
+#                    .replace('ß', 's')
 
 def palavras_tree(t):
     '''
@@ -74,30 +74,30 @@ def palavras_tree(t):
                    #  .replace('ß', 's')
 
 
-# def palavras_flat(t):
-#     result = ""
-#     print("RESULT FROM PALAVRAS: ")
-#
-#     try:
-#         #need to be at the same machine where palavras is installed
-#         #default path to palavras /opt/palavras/
-#
-#         value = ''
-#         if isinstance(t, str):
-#            value = t
-#         else:
-#            value = t.raw_content
-#
-#         command = 'echo "{text}" | /opt/palavras/por.pl --dep-retokenize'.format(text=value)
-#         result = subprocess.check_output(command, shell=True)
-#         print(result)
-#
-#         return result.decode('unicode-escape')\
-#             .replace(u"<\xc3\x9f>", "<s>")\
-#             .replace(u"</\xc3\x9f>", "</s>")\
-#             .encode('latin1')\
-#             .decode('utf-8')
-#     except Exception as ex:
-#         print("ERROR PALAVRAS-FLAT:")
-#         print(ex)
-#         return result
+def palavras_flat(t):
+    result = ""
+    print("RESULT FROM PALAVRAS: ")
+
+    try:
+        #need to be at the same machine where palavras is installed
+        #default path to palavras /opt/palavras/
+
+        value = ''
+        if isinstance(t, str):
+           value = t
+        else:
+           value = t.raw_content
+
+        command = 'echo "{text}" | /opt/palavras/por.pl --dep-retokenize'.format(text=value)
+        result = subprocess.check_output(command, shell=True)
+        print(result)
+
+        return result.decode('unicode-escape')\
+            .replace(u"<\xc3\x9f>", "<s>")\
+            .replace(u"</\xc3\x9f>", "</s>")\
+            .encode('latin1')\
+            .decode('utf-8')
+    except Exception as ex:
+        print("ERROR PALAVRAS-FLAT:")
+        print(ex)
+        return result

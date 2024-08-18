@@ -104,11 +104,13 @@ morfosintaxe = ["adjective_ratio", "adverbs", "content_words", "function_words",
                 "second_person_pronouns", "third_person_possessive_pronouns", "third_person_pronouns", "verbs_max",
                 "verbs_min", "verbs_standard_deviation", "first_person_possessive_pronouns", "first_person_pronouns"]
 
+
+
 info_semantica = ["adjectives_ambiguity", "adverbs_ambiguity", "nouns_ambiguity", "verbs_ambiguity", "hypernyms_verbs",
                   "abstract_nouns_ratio", "content_words_ambiguity", "named_entity_ratio_sentence", "named_entity_ratio_text",
                   "negative_words", "positive_words"]
 
-
+print(len(info_semantica))
 
 # Compute distances
 distances = {}
@@ -135,7 +137,7 @@ for f in comparison_data.keys():
         average_distances[f] = float('inf')  # Handle case where no distances were valid
 
 # Output distances and average distances
-print("Detailed Key-by-Key Distances:")
-print(json.dumps(distances, indent=4))
-print("Average Distances by Model:")
-print(json.dumps(average_distances, indent=4))
+# print("Detailed Key-by-Key Distances:")
+# print(json.dumps(distances, indent=4))
+# print("Average Distances by Model:")
+# print(json.dumps(average_distances, indent=4))

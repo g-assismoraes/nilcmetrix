@@ -3,6 +3,10 @@ import text_metrics
 import sys
 import json
 
+import nltk
+nltk.download('punkt')
+
+
 
 
 text = "ouviram do ipiranga, as margens plácidas, o grito retumbante de um povo heróico. eles são legais."

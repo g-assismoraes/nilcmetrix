@@ -1,0 +1,562 @@
+[
+  {
+    "id": 159,
+    "question": "O que formou a Elevação Do Rio Grande?",
+    "reference": "Uma atividade vulcânica Aptiana no Atlântico Sul",
+    "generated": "A Forma da Costa do Brasil é resultado de uma combinação complexo entre processamentos geológicos ao longamento dos tempos. A elevações costeiros como o caso específico no estado gaúcho são resultantes das atividades tectônicas.\n\nNo entanto para responder especificamente \"Elevacão\" (que suponho seja um erro ortográfica) referente localização na região sul chamada 'Rio grande' ou mais precisam ser",
+    "metrics": {
+      "BERTScore_precision": 0.6096099615097046,
+      "BERTScore_recall": 0.6994404196739197,
+      "BERTScore_f1": 0.6514430046081543,
+      "METEOR": 0.15625000000000003,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07792207792207792,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.07792207792207792,
+      "ROUGE-Lsum": 0.07792207792207792,
+      "OverlapPrecision": 0.017241379310344827,
+      "OverlapRecall": 0.14285714285714285,
+      "OverlapF1": 0.03076923076923077
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.10675466887932872,
+        "reason": "The Actual Output incorrectly attributes the formation of the Elevação Do Rio Grande to geological and tectonic processes instead of the Aptian volcanic activity mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.10675466887932872
+  },
+  {
+    "id": 107,
+    "question": "Qual era o objetivo da análise de Campos Basin?",
+    "reference": "Investigar a ligação entre as condições oceanográficas específicas regionais prevalecentes (eventos de ressurgência, intrusão de água fria e rica em nutrientes, baixa entrada do rio) e a natureza e distribuição da matéria orgânica (MO) na bacia",
+    "generated": "A Análisa do Campo Marítimo (ACM) ou também chamada \"Analisys of the Marine Field\" é uma técnica utilizadas para avaliar os impacto das atividades humanas no meio marinho. No entanto não consegui encontrar informações específicas que relacionem essa abordagem ao campo dos estudos ambientais na Bacia Sedimentar Santos.\n\nNo contexto mais amplo referente às bacias sedimentares como por exemplo A Campos Basins",
+    "metrics": {
+      "BERTScore_precision": 0.6411030292510986,
+      "BERTScore_recall": 0.6761436462402344,
+      "BERTScore_f1": 0.658157229423523,
+      "METEOR": 0.13093063167801586,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1592920353982301,
+      "ROUGE-2": 0.036036036036036036,
+      "ROUGE-L": 0.12389380530973451,
+      "ROUGE-Lsum": 0.12389380530973451,
+      "OverlapPrecision": 0.04838709677419355,
+      "OverlapRecall": 0.08333333333333333,
+      "OverlapF1": 0.061224489795918366
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output discusses a generic technique for marine field analysis but fails to address the specific goals detailed in the Expected Output which involves oceanographic conditions and organic matter distribution in the Campos Basin."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 199,
+    "question": "Considerando que as composições isotópicas de zinco de sedimentos são rastreadores confiáveis de fontes antropogênicas, no que isso pode resultar?",
+    "reference": "Pode ser útil para melhorar os esforços de monitoramento ambiental em sistemas costeiros.",
+    "generated": "Considerado o contexto das compostas isótôpicadas do Zínio (Zn) nos Sedimentares como um indicador preciso da origem Antropológica dos poluentes na água. Isso poderia levar ao monitoramento eficaz dessedimenntação por meio desse método.\n\nIsotopias específicos podem ser usados para identificar diferentes tipos Fontais Poluidoras:\n\n1- **Fonta Natual**: Origina-se principalmente",
+    "metrics": {
+      "BERTScore_precision": 0.6226171255111694,
+      "BERTScore_recall": 0.7194970846176147,
+      "BERTScore_f1": 0.6675604581832886,
+      "METEOR": 0.1081081081081081,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.08450704225352114,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.056338028169014086,
+      "ROUGE-Lsum": 0.08450704225352114,
+      "OverlapPrecision": 0.061224489795918366,
+      "OverlapRecall": 0.23076923076923078,
+      "OverlapF1": 0.0967741935483871
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output partially aligns with the Expected Output by acknowledging the use of isotopic compositions in monitoring. However, it introduces unnecessary complexity and errors, such as mentioning 'fonta natural' and incorrect spelling, detracting from semantic alignment and precision."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 28,
+    "question": "De que formas o ecossistema costeiro contribui para a biodiversidade?",
+    "reference": "Coleta de recursos vivos, proteção costeira e recursos genéticos",
+    "generated": "O eco-sistemas da zona-costreira do Brasil são extremamente ricos de diversidades biológicas. Eles desempenham um papel fundamental na manutenção das cadeias alimentares marítimas.\n\nAlgumas maneiras pelas quais os sistemas estuarinos (onde água salgada se mistura ao rio) ajudam no aumento dessa bio-diversidadade incluem:\n\n1 - **Hábitats variados**: Os ambientes como mangues",
+    "metrics": {
+      "BERTScore_precision": 0.6125922203063965,
+      "BERTScore_recall": 0.6963094472885132,
+      "BERTScore_f1": 0.6517735719680786,
+      "METEOR": 0.033112582781456956,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.05797101449275362,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05797101449275362,
+      "ROUGE-Lsum": 0.05797101449275362,
+      "OverlapPrecision": 0.0196078431372549,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.03333333333333333
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output partially discusses biodiversity in coastal ecosystems by mentioning their biological richness and role in marine food chains. However, it lacks the specific contributions such as 'coleta de recursos vivos', 'proteção costeira', and 'recursos genéticos' highlighted in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 210,
+    "question": "O que também é realizado para investigar a variabilidade do ambiente em grande escala com diferentes tipos de sistemas convectivos?",
+    "reference": "Um conjunto de estudos de caso de três tipos típicos de sistemas convectivos que ocorrem na Amazônia - ou seja, sistemas de ocorrência local, sistemas de ocorrência costeira e sistemas de ocorrência em bacias.",
+    "generated": "Para Investigação da Variável Ambiente Em Grande Escalas Com Diferentes Tipologias De Sistemas Convectedores (como o El Niño), são realizados estudos utilizando:\n\n1. **Modelagem numérica**: Utilizando modelos computacionais complexo como os Modeldos Climáticos Globales ou Regionals.\n\n2- Observações Satelitares : Para monitoramento das condições atmosférica no espaço global através dos satélites geostationários",
+    "metrics": {
+      "BERTScore_precision": 0.6198940277099609,
+      "BERTScore_recall": 0.654813289642334,
+      "BERTScore_f1": 0.6368753910064697,
+      "METEOR": 0.0883838383838384,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.11650485436893204,
+      "ROUGE-2": 0.019801980198019802,
+      "ROUGE-L": 0.05825242718446602,
+      "ROUGE-Lsum": 0.07766990291262135,
+      "OverlapPrecision": 0.038461538461538464,
+      "OverlapRecall": 0.058823529411764705,
+      "OverlapF1": 0.04651162790697675
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output focuses on numerical modeling and satellite observations, diverging from the case study method involving specific convective systems in the Expected Output. Despite related themes on investigation methods, the outputs differ semantically and contextually."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 34,
+    "question": "Quais as consequências da pressão em ambientes marinhos?",
+    "reference": "Perda de biodiversidade, dano e fragmentação ao habitat e doenças",
+    "generated": "As principias consecuencias de uma alta presao no ambiente aquatico incluem:\n\n1. **Perdida biológica**: A sobrecarga pode levar ao colapso das populações marinhas lociais ou até mesmo extinção.\n\n2..**Alterações nos ecossistemas costeiros:** Mudança na distribuição dos organismismarinos que podem afetarem os habitats naturaes como mangues, recifes coralíneus entre outros",
+    "metrics": {
+      "BERTScore_precision": 0.6186565160751343,
+      "BERTScore_recall": 0.6980416774749756,
+      "BERTScore_f1": 0.655955970287323,
+      "METEOR": 0.12195121951219515,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.11594202898550725,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.057971014492753624,
+      "ROUGE-Lsum": 0.057971014492753624,
+      "OverlapPrecision": 0.04081632653061224,
+      "OverlapRecall": 0.2,
+      "OverlapF1": 0.06779661016949151
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3773653055376614,
+        "reason": "The Actual Output addresses the loss of biodiversity, aligning with the Expected Output's mention of 'perda de biodiversidade'. It also touches on ecosystem disturbances which partly relate to 'dano e fragmentação ao habitat'. However, it misses explicit mention of 'doenças' and contains inaccuracies with repeated words and minor formatting issues that impact clarity."
+      }
+    },
+    "g_eval_avg": 0.3773653055376614
+  },
+  {
+    "id": 3,
+    "question": "aproximadamente quantas áreas de delta e estuário se beneficiam de algum nível de proteção ambiental?",
+    "reference": "Aproximadamente 450 área de deltas e estuários se beneficiam de algum nível de proteção ambiental",
+    "generated": "Combase no meu conjunto atualizado até Dezembro/23. \n\nExistem várias regiões costeiros do Brasil que possuem deltas importantes como o Delta Amazônico (no estado da Pará), os Deltas dos Rios São Francisco na Bahia; Parnaíba nos estados Maranhão/Pernambuco além das bacias hidrográficas mais menores.\n\nAlém disso existiriam também vários outros locais ao longo l",
+    "metrics": {
+      "BERTScore_precision": 0.6119794845581055,
+      "BERTScore_recall": 0.6664837598800659,
+      "BERTScore_f1": 0.638069748878479,
+      "METEOR": 0.025773195876288662,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07142857142857144,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.07142857142857144,
+      "ROUGE-Lsum": 0.07142857142857144,
+      "OverlapPrecision": 0.018867924528301886,
+      "OverlapRecall": 0.06666666666666667,
+      "OverlapF1": 0.029411764705882353
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output talks about specific regions with deltas in Brazil, but does not provide an approximate number of areas with environmental protection, which is the main information in the Expected Output. It is incomplete and lacks precise information required."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 160,
+    "question": "Por que a extração extensiva do sal foi proibitiva na bacia do pré-sal?",
+    "reference": "Devido à profundidade de seus reservatórios.",
+    "generated": "A extracação de petróleo no Pré-Salo é uma atividade complexa. No entanto posso dizer o motivo da restrições.\n\nO Brasil tem um dos maiores potenciais petrolífero mundiais localizado nas camadas sedimentares profundas das plataformes continentais ao largo suas costões marítimos (bacias) como por exemplo Búzios - RJ; Santos-SP/PR/RJ ; Camamu-Almada-B",
+    "metrics": {
+      "BERTScore_precision": 0.590487003326416,
+      "BERTScore_recall": 0.6858974695205688,
+      "BERTScore_f1": 0.6346262097358704,
+      "METEOR": 0.08474576271186439,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0303030303030303,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0303030303030303,
+      "ROUGE-Lsum": 0.0303030303030303,
+      "OverlapPrecision": 0.02,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.03571428571428571
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The response discusses oil extraction complexity and locations but does not address why salt extraction was prohibitive. The expected output specifies depth-related reasons, missing in the actual output."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 149,
+    "question": "Qual a contribuição da Petrobras para a perda de qualidade de registros de imagens com artefato?",
+    "reference": "A experiência da Petrobras mostrou que intervenções diretamente na fonte, ajustando compensadores e mudando a direção, podem ser eficazes.",
+    "generated": "Infelizmente não tenho informações suficientes que possam me ajudar na sua resposta. No entanto posso dizer oque eu sei.\n\nA PETROBRAS é uma empresa estatal do Brasil responsável pela exploração dos recursos petrolífero no país além disser ser um grande investidor nas áreas energéticas como gás natural liquefeito (GNL), biocombustíveis entre outros setores relacionados ao petróleo. \n\n",
+    "metrics": {
+      "BERTScore_precision": 0.619737446308136,
+      "BERTScore_recall": 0.6673725843429565,
+      "BERTScore_f1": 0.6426735520362854,
+      "METEOR": 0.1346153846153846,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1590909090909091,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.11363636363636363,
+      "ROUGE-Lsum": 0.13636363636363635,
+      "OverlapPrecision": 0.07142857142857142,
+      "OverlapRecall": 0.21052631578947367,
+      "OverlapF1": 0.10666666666666667
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.13361333287122262,
+        "reason": "Actual Output does not address the question regarding Petrobras’ contribution to the loss of image quality with artifacts. It instead provides irrelevant information about Petrobras’ activities, while Expected Output discusses specific interventions by Petrobras."
+      }
+    },
+    "g_eval_avg": 0.13361333287122262
+  },
+  {
+    "id": 188,
+    "question": "O que pode acontecer se a principal barreira de segurança falhar?",
+    "reference": "Falha pode iniciar imediatamente eventos de ganhos e perdas no poço, com impacto direto na segurança do processo.",
+    "generated": "A \"principal\" referência aqui é provavelmente ao Morro do Diabo ou o Muro da Praia (ou seja um murete) mas também poderiam estar fazendo uma referencia mais ampla como por exemplo os mangues. \n\nNo entanto vou responder considerando essas duas opções.\n\n**Caso estejamos nos Referindo aos Manguezais**\n\nOs **mangueziais**, são áreas costeiros úmidassubtropicai trop",
+    "metrics": {
+      "BERTScore_precision": 0.5935691595077515,
+      "BERTScore_recall": 0.6610873341560364,
+      "BERTScore_f1": 0.6255114674568176,
+      "METEOR": 0.08032128514056226,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.10389610389610389,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.051948051948051945,
+      "ROUGE-Lsum": 0.10389610389610389,
+      "OverlapPrecision": 0.018518518518518517,
+      "OverlapRecall": 0.05555555555555555,
+      "OverlapF1": 0.027777777777777776
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.06174107681351907,
+        "reason": "Actual Output lacks semantic similarity with Expected Output, discussing unrelated topics like 'Morro do Diabo' instead of safety barrier failures, showing significant discrepancies and unrelated information."
+      }
+    },
+    "g_eval_avg": 0.06174107681351907
+  },
+  {
+    "id": 119,
+    "question": "Hoje em dia considerando o perfil de produção de petróleo do Brasil, quanto os poços que utilizam a técnica de elevação artificial contribuem para a produção nacional de petróleo?",
+    "reference": "Os poços levantados com gás são responsáveis por 30% da produção mensal.",
+    "generated": "Considero ser importante esclarecer alguns pontos antes da resposta. \n\nO Petroleiro Brasileiros tem uma matriz produtiva diversificada composta por campos terrestres (próximos ao litoral) como Campos Costeiros Alagoano - Sergipe-Baiano; Santos-Rio Grande Sul-Paraná-Mato Grosso-Sul etc., bem assim offshore.\n\nA Técnico ECA é usadas nos Poço Offshore no Mar Prof",
+    "metrics": {
+      "BERTScore_precision": 0.6061198115348816,
+      "BERTScore_recall": 0.6706194877624512,
+      "BERTScore_f1": 0.6367403864860535,
+      "METEOR": 0.11049723756906076,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1388888888888889,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.08333333333333334,
+      "ROUGE-Lsum": 0.11111111111111113,
+      "OverlapPrecision": 0.04081632653061224,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.06557377049180327
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output does not provide the specific percentage contribution of artificial lift wells to the national oil production as requested, diverging from the Expected Output's clear mention of 30%. Instead, it includes general information about Brazil's oil production and techniques, which is not relevant or semantically similar."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 202,
+    "question": "O que este artigo aborda?",
+    "reference": "Como a produção nacional pode ou não alavancar seus negócios e promover o crescimento sustentável da indústria naval nacional.",
+    "generated": "Infelizmente não tenho acesso ao conteúdo do \"artículo\" mencionado. No entanto posso tentar responder de forma objetiva às suas perguntas relacionadas aos temas citados.\n\nCombase no contexto da sua questão (oceans,costa Brasileiro,mudancas Climaticcas), é provável o texto trate-se das consequências ou impactes dessa temática na região costeiros específica como por exemplo:\n\n- Mudança",
+    "metrics": {
+      "BERTScore_precision": 0.6184993982315063,
+      "BERTScore_recall": 0.6800400614738464,
+      "BERTScore_f1": 0.6478114724159241,
+      "METEOR": 0.12244897959183675,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.20454545454545456,
+      "ROUGE-2": 0.02325581395348837,
+      "ROUGE-L": 0.09090909090909091,
+      "ROUGE-Lsum": 0.11363636363636363,
+      "OverlapPrecision": 0.07547169811320754,
+      "OverlapRecall": 0.21052631578947367,
+      "OverlapF1": 0.11111111111111112
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0650551355098083,
+        "reason": "The Actual Output does not match the Expected Output semantically and contains no relevant information from the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.0650551355098083
+  },
+  {
+    "id": 76,
+    "question": "Quais são as medidas de segurança utilizadas se o Drill-Stem Test é realizado em alto mar?",
+    "reference": "Para fazer esse teste é necessário utilizar um equipamento de segurança que é colocado dentro de um preventor de explosão, o BOP, com o objetivo de manter o poço sob controle",
+    "generated": "As principias medidas para garantir uma operação bem sucedida do DST (Drill Stem Testing) no Mar incluem:\n\n1. **Preparativos anteriores**: Antes da realizacão das atividades os profissionaís devemos realizar um estudo detalhado dos riscós associados ao local onde será executada essa tarefa.\n\n2- Utilização adequadade equipamentos : O uso correto dessas ferramentaes deve ser priorizado",
+    "metrics": {
+      "BERTScore_precision": 0.6069742441177368,
+      "BERTScore_recall": 0.6691135168075562,
+      "BERTScore_f1": 0.6365309357643127,
+      "METEOR": 0.08287292817679558,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.13043478260869565,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.10869565217391304,
+      "ROUGE-Lsum": 0.08695652173913045,
+      "OverlapPrecision": 0.01818181818181818,
+      "OverlapRecall": 0.03225806451612903,
+      "OverlapF1": 0.023255813953488372
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "While the Actual Output mentions preparation and equipment adequacy, it lacks specific details on equipment like the BOP and control of the well, which are highlighted in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 35,
+    "question": "O que impulsionou o aumento da eutrofização que o mundo observa atualmente?",
+    "reference": "O aumento da introdução antropogênica de fósforo e nitrogênio em ecossistemas costeiros causados pelo uso de certos fertilizantes, combustão de combustíveis fósseis, cultivo de legumes fixadores de nitrogênio e resíduos provindos tanto da pecuária, quanto de regiões urbanas.",
+    "generated": "Aumento significativo de nutrientes no ambiente aquático é caracterizado como processo chamado \"eutroficamento\" ou mais especificamente na forma desse fenômeno denominada EUTROFICAÇÃO. \n\nO principal fator responsável pelo acelerar do crescimentos das algas (que são os principais causadores dessa situação) está relacionados ao excessivo lançamentos dos resíduós orgânicos provenientes principalmente através:\n\n1- **Desmat",
+    "metrics": {
+      "BERTScore_precision": 0.6449228525161743,
+      "BERTScore_recall": 0.6835353374481201,
+      "BERTScore_f1": 0.6636679172515869,
+      "METEOR": 0.0684931506849315,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12612612612612611,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0900900900900901,
+      "ROUGE-Lsum": 0.1081081081081081,
+      "OverlapPrecision": 0.057692307692307696,
+      "OverlapRecall": 0.07894736842105263,
+      "OverlapF1": 0.06666666666666667
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "Actual Output captures the concept of nutrient increase causing eutrophication but lacks specifics on phosphorus, nitrogen, and detailed sources such as fossil fuel combustion and legumes."
+      }
+    },
+    "g_eval_avg": 0.4
+  },
+  {
+    "id": 143,
+    "question": "Quais são os impactos dos estaleiros nos ambientes estuarinos?",
+    "reference": "Devido ao uso de tintas antivegetativas e derivados de petróleo, os estaleiros podem liberar vestígios de metais que podem permanecer em sua forma biodisponível ou instável.",
+    "generated": "Os estáleis (ou \"estábelecimentos de construção naval\") podem ter vários tipos negativos no ambiente. Aqui estão alguns exemplos:\n\n1) **Poluição por resíduo industrial**: Os processamentos industrials geram grandes quantidades residuos que contém metales pesados como chumbo ou mercúrio; esses contaminantes acabaram se depositando na água do mar.\n\n2)**Alteração da qualidade das aguas:** A",
+    "metrics": {
+      "BERTScore_precision": 0.6424434185028076,
+      "BERTScore_recall": 0.6985319256782532,
+      "BERTScore_f1": 0.6693147420883179,
+      "METEOR": 0.09202453987730061,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.10638297872340426,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0851063829787234,
+      "ROUGE-Lsum": 0.10638297872340426,
+      "OverlapPrecision": 0.07547169811320754,
+      "OverlapRecall": 0.15384615384615385,
+      "OverlapF1": 0.10126582278481013
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output mentions pollution from heavy metals and alterations in water quality, aligning somewhat with the Expected Output about maritime pollution. However, it lacks precision and completeness, missing specifics like 'tintas antivegetativas' and 'derivados de petróleo'."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 69,
+    "question": "Como o petróleo extraído do campo de Garoupa pela Petrobras será transportado?",
+    "reference": "Através de linhas de fluxo submarinas.",
+    "generated": "Infelizmente não tenho informações específicas disponíveis para responder essa questão. No entanto posso fornecer uma resposta objetiva considerando os padrões gerais da indústria petrolifera no Brasil.\n\nO transporte seguro dos produtos derivados das plataformas offshore é um processo complexo que envolve várias etapas:\n\n1 - **Tubulações submarinas**: O primeiro método utilizado pelo setor pode ser tubulação subaquática (subsea pipeline",
+    "metrics": {
+      "BERTScore_precision": 0.6117886304855347,
+      "BERTScore_recall": 0.7245951890945435,
+      "BERTScore_f1": 0.6634308099746704,
+      "METEOR": 0.07633587786259542,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.026315789473684206,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.026315789473684206,
+      "ROUGE-Lsum": 0.026315789473684206,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.6,
+        "reason": "The Actual Output is semantically related to the Expected Output, mentioning 'tubulações submarinas', aligns with 'linhas de fluxo submarinas'. It partially covers expected content but doesn't explicitly state the Expected Output concisely and initially lacks specific information acknowledgment."
+      }
+    },
+    "g_eval_avg": 0.6
+  },
+  {
+    "id": 66,
+    "question": "Onde são mostrados os resultados da caracterização da camada geológica quando se propõe o uso de impedância baseada em modelo?",
+    "reference": "Em seções de coleta e migração empilhadas com melhorias no achatamento e no foco dos refletores de alvo.",
+    "generated": "Não consegui entender bem sua questão. No entanto vou tentar responder.\n\nA impedência é uma medida usad̃a na caraçterizaciónea das rochas subaquaticas que pode ser obtida por meio do üso dos modelos teòricoss ou experimentais (como sonares). \n\nOs dados coletado podem variam dependendo varios fatores como profundidade d'agua, tipo sinal utilizado no equipamento",
+    "metrics": {
+      "BERTScore_precision": 0.6145312786102295,
+      "BERTScore_recall": 0.6726943254470825,
+      "BERTScore_f1": 0.6422987580299377,
+      "METEOR": 0.08695652173913043,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.09876543209876544,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.07407407407407407,
+      "ROUGE-Lsum": 0.07407407407407407,
+      "OverlapPrecision": 0.03773584905660377,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.05633802816901408
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.18264724898914814,
+        "reason": "The Actual Output attempts to address the concept of impedance and geological characterization but fails to align semantically with the Expected Output, which specifically mentions 'seções de coleta e migração empilhadas'. The Actual Output is also vague and lacks key specific details present in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.18264724898914814
+  },
+  {
+    "id": 5,
+    "question": "Em que regiões o turismo internacional está aumentando tanto em termos absolutos quanto em proporção ao turismo mundial?",
+    "reference": "Particularmente na Ásia e no Pacífico",
+    "generated": "Combase no meu conjunto de dados atualizados até dezembro/23 (embora não tenha informações específicas mais recentes), posso fornecer uma resposta objetiva.\n\nO aumento doturismointernacionalestá ocorrendoemváriasregioespelascostasbrasileiras. No entanto,sobretudo nos estados da Bahia,NordestedeBrasil,e na RegiãoSudeste,Brasília,Espírito Santo,Araquipa,C",
+    "metrics": {
+      "BERTScore_precision": 0.5300651788711548,
+      "BERTScore_recall": 0.7102780342102051,
+      "BERTScore_f1": 0.607079803943634,
+      "METEOR": 0.14018691588785048,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.10714285714285714,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.03571428571428571,
+      "ROUGE-Lsum": 0.07142857142857142,
+      "OverlapPrecision": 0.058823529411764705,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.1
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output does not semantically align with the Expected Output; it incorrectly mentions regions in Brazil instead of Asia and the Pacific. There are significant inaccuracies, as it completely diverges from the Expected Output's key aspects."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 62,
+    "question": "Qual campo contém 12-30 bilhões de boe ou mais?",
+    "reference": "A bacia de Santos.",
+    "generated": "Não consegui encontrar nenhuma informação que relaciona o número \"boé\" ao contexto dos Oceanus. No entanto posso dizer algo.\n\nO Brasil tem uma longuíssima linha costeiros (cerca da metade do país é litoral) onde existem campos petrolífero importantes como os Campos Costeros Sul-Sudeste Brasileiro CCSB - localizado no estado Rio De Janeiro; Santos Basin – também na região Sudoeste",
+    "metrics": {
+      "BERTScore_precision": 0.5653188824653625,
+      "BERTScore_recall": 0.6996026635169983,
+      "BERTScore_f1": 0.6253330111503601,
+      "METEOR": 0.13513513513513514,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.057971014492753624,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.057971014492753624,
+      "ROUGE-Lsum": 0.057971014492753624,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "Actual Output refers to Santos Basin but includes irrelevant details about Brazil's coastline while not directly answering the question, lacking precision compared to the concise Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 33,
+    "question": "Quais são as principais ameaças à biodiversidade marinha?",
+    "reference": "A superexploração e a perda e degradação de habitat",
+    "generated": "As principales amenazas á diversidadade marinha incluem:\n\n1. **Mudança Climática**: O aquecemento global está afetando os ecossistemas aquáticos de diversas maneiras:\n * Aumento da temperatura das agúneas superficiais pode alterar o pH do aguã (acidificac̄ao), tornandol-o menos adequado para muitosas especies;\n* Alterações nos padrões pluviomé",
+    "metrics": {
+      "BERTScore_precision": 0.5693039894104004,
+      "BERTScore_recall": 0.6521556377410889,
+      "BERTScore_f1": 0.6079198718070984,
+      "METEOR": 0.07194244604316546,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12903225806451613,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0967741935483871,
+      "ROUGE-Lsum": 0.12903225806451613,
+      "OverlapPrecision": 0.021739130434782608,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.03636363636363637
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output focuses on climate change effects, while the Expected Output cites overexploitation and habitat degradation, showing a complete mismatch between the topics addressed."
+      }
+    },
+    "g_eval_avg": 0.1
+  }
+]

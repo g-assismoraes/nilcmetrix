@@ -1,0 +1,562 @@
+[
+  {
+    "id": 99,
+    "question": "Quais elementos tinham um nível de concentração maior do que o seguro no seu estado aquoso na sua qualidade de água para tanto o Brasil quanto Internacionalmente?",
+    "reference": "Al, As, Cd, Cr, Cu, Fe, Mn, Ni, Pb, Se e Zn",
+    "generated": "A partir da minha compreensão dos dados disponíveis até 2021:\n\n- A poluição por nutrientes (nitrogenado/fósforo) é uma preocupação importante ao longas partes das costarias continentares. O estuário desse rio tem os maiores valores observados nas áreas marinhas próximas às bacias hidrográficas mais afluentes.\n\nO Rio Amazonense apresenta altíssimos índices específicos dessem substâ",
+    "metrics": {
+      "BERTScore_precision": 0.5000549554824829,
+      "BERTScore_recall": 0.5543319582939148,
+      "BERTScore_f1": 0.5257964730262756,
+      "METEOR": 0.0,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output discusses pollution by nutrients, while the Expected Output lists specific elements like Al and Cd. There are significant discrepancies and omissions since the Actual Output does not align with the listed elements."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 160,
+    "question": "Por que a extração extensiva do sal foi proibitiva na bacia do pré-sal?",
+    "reference": "Devido à profundidade de seus reservatórios.",
+    "generated": "A extração de sál no Brasil teve limitações geológicas. A maioria das formações ricosas encontra-se abaixo da plataforma continental mais profunda (mais distante), o custoâmetro é alto para perfuraçã̄es dessa profundidade.\n\nAlém disso os reservatoiros são maiores nas áreas próximas ao equador onde se encontram formacaõs como Tupi ou Buzios",
+    "metrics": {
+      "BERTScore_precision": 0.6216790676116943,
+      "BERTScore_recall": 0.7125184535980225,
+      "BERTScore_f1": 0.6640063524246216,
+      "METEOR": 0.12711864406779663,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0588235294117647,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.02941176470588235,
+      "ROUGE-Lsum": 0.02941176470588235,
+      "OverlapPrecision": 0.02,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.03571428571428571
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.29686720466316163,
+        "reason": "The Actual Output discusses the depth and cost of extraction, aligning with the Expected Output's mention of reservoir depth. However, it introduces additional details about geological formations and locations which weren't part of the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.29686720466316163
+  },
+  {
+    "id": 122,
+    "question": "Quais empresas estão participando do projeto no Parque das Conchas?",
+    "reference": "O projeto é uma joint venture entre as empresas Shell, Petrobras e ONGC.",
+    "generated": "Não consegui encontrar informações específicas relacionadas ao envolvimento de qualquer empresa na fase atual ou passada da restauração artificial dos recifes iniciados pelo Projeto Marinho. O foco principal deste programa é o trabalho realizado por voluntários locacionistas que contribuem para os esforços contínuamente desde 2019.\n\nNo entanto:\n\n1) A Fundição Sustentável:\nA fundadora executiva desta organizado sem fins lucrativos tem experiência como pes",
+    "metrics": {
+      "BERTScore_precision": 0.6007081270217896,
+      "BERTScore_recall": 0.6907408237457275,
+      "BERTScore_f1": 0.6425861716270447,
+      "METEOR": 0.12315270935960591,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.04761904761904762,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.04761904761904762,
+      "ROUGE-Lsum": 0.04761904761904762,
+      "OverlapPrecision": 0.031746031746031744,
+      "OverlapRecall": 0.15384615384615385,
+      "OverlapF1": 0.05263157894736842
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.04564097699554648,
+        "reason": "The Actual Output completely misinterprets the Input by discussing an unrelated project and omits the relevant companies Shell, Petrobras, and ONGC mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.04564097699554648
+  },
+  {
+    "id": 22,
+    "question": "O que é acidificação do oceano?",
+    "reference": "A mudança na química da água do mar causada pela absorção oceânica de emissões de dióxido de carbono.",
+    "generated": "A acideção dos Oceanus ocorre devido ao aumento da concentraçāo des CO2 na atmosfera. Esse gás se dissolve no mar causando uma reação química chamada dissoluções ácida das superfícies aquosas (água salgadaf). A maior quantidade desses íons H+ diminui significativamente os níveis ótimas para muitíssimas espécie marinhas como moluscários ou",
+    "metrics": {
+      "BERTScore_precision": 0.6710745096206665,
+      "BERTScore_recall": 0.7135968208312988,
+      "BERTScore_f1": 0.691682755947113,
+      "METEOR": 0.2,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.2352941176470588,
+      "ROUGE-2": 0.024096385542168676,
+      "ROUGE-L": 0.1176470588235294,
+      "ROUGE-Lsum": 0.1176470588235294,
+      "OverlapPrecision": 0.1,
+      "OverlapRecall": 0.2777777777777778,
+      "OverlapF1": 0.14705882352941177
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output correctly identifies CO2 as a cause of ocean acidification and the impact on marine species, aligning with the Expected Output about changes in seawater chemistry. However, it includes inaccuracies such as 'dissoluções ácida das superfícies aquosas' and lacks specific terminology related to 'absorção oceânica de emissões'."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 219,
+    "question": "Quais medições foram utilizadas para melhorar a qualidade das imagens obtidas pelo sistema de Monitoramento de Reservatório Permanente?",
+    "reference": "Medições de hidrofones e geofones.",
+    "generated": "Não é possível responder essa questão sem informações específicas. O texto menciona que o Sistema Integrado Oceanográfico (SIOcean) foi desenvolvido pela Marinha do Brasil no Porto da Bahia na década 1980 como parte dos projetados durante os anos setenta até hoje sob um programa nacional chamando-se Projeto Rima; ele tem sido usado desde então por várias agências governamenta-les nas áreas marítimas nacionai s incluindo instit",
+    "metrics": {
+      "BERTScore_precision": 0.5736662149429321,
+      "BERTScore_recall": 0.6517171859741211,
+      "BERTScore_f1": 0.6102059483528137,
+      "METEOR": 0.04065040650406504,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.024096385542168676,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.024096385542168676,
+      "ROUGE-Lsum": 0.024096385542168676,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "Actual Output does not contain relevant information about the specific measurements used to improve image quality, such as 'hidrofones e geofones' mentioned in Expected Output. The Actual Output instead discusses the development and use of SIOcean without addressing the question asked."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 221,
+    "question": "Após a torre de produção da Petrobrás no Campo de Garoupa ter caído e quebrado a empresa empregou um sistema de produção antecipada provisório para substituir essa torre de produção. Este sistema provisório usufruiu de quais estruturas do sistema de produção anterior para operar?",
+    "reference": "O sistema provisório utilizou do sistema original de produção um duto de fundo oceânico, medidor, torre de carregamento e um navio de processamento.",
+    "generated": "O Sistema Provisórius Usinante (SPU) foi desenvolvido pela equipe técnica localizada na plataforma E&P Onshore/Offhsore - Campos Gato-Balão & Marlim-Leste utilizando os sistemas existentes já presentes nas plataformas offshore como parte integrantes dos Sistemas Submarinos Integrados Gerenciáveis Eletronicamente por Computador 3000 Series.\n\nEssa solução tecnológico-inovadora permitiu o retorno",
+    "metrics": {
+      "BERTScore_precision": 0.633408784866333,
+      "BERTScore_recall": 0.686959981918335,
+      "BERTScore_f1": 0.6590984463691711,
+      "METEOR": 0.10452961672473868,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12048192771084336,
+      "ROUGE-2": 0.04938271604938271,
+      "ROUGE-L": 0.09638554216867469,
+      "ROUGE-Lsum": 0.09638554216867469,
+      "OverlapPrecision": 0.020833333333333332,
+      "OverlapRecall": 0.043478260869565216,
+      "OverlapF1": 0.028169014084507043
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The actual output mentions the development and use of existing systems but lacks specific details like 'duto de fundo oceânico,' 'medidor,' 'torre de carregamento,' and 'navio de processamento' mentioned in the expected output, causing significant discrepancies."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 174,
+    "question": "Onde é a Formação do Jandaíra?",
+    "reference": "Na Bacia do Potiguar, no nordeste do Brasil",
+    "generated": "A formação de jandaíras esta localizada na regiā oceântica aberta da plataforma continental sul-atlantICA. Elas se acumulam ao longuinho dos 200 mts mais profundos das águãs circundantes no funddo marino.\n\nEsses depósitos são constituıdos por uma mistura complexá que inclui resi-duoss carbonatados (calcário) provenientes d",
+    "metrics": {
+      "BERTScore_precision": 0.5749900341033936,
+      "BERTScore_recall": 0.644351601600647,
+      "BERTScore_f1": 0.6076980233192444,
+      "METEOR": 0.11538461538461539,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0625,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0625,
+      "ROUGE-Lsum": 0.0625,
+      "OverlapPrecision": 0.022222222222222223,
+      "OverlapRecall": 0.125,
+      "OverlapF1": 0.03773584905660377
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output is semantically distinct from the Expected Output, offering an incorrect location and additional unrelated geological details instead of simply identifying the Jandaíra Formation in the Potiguar Basin, Brazil."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 182,
+    "question": "Onde o campo de óleo Papa Terra está localizado?",
+    "reference": "No Bloco BC-20 na Bacia de Campos - Brasil, a 110 quilometros da Costa do Rio de Janeiro.",
+    "generated": "O Campo Petrólear Papalua é um grande depósito subaquático no leito marinho do Brasil. Ele se estende por 150 milhas quadradas na Bacia Sedimentar Santos (BSB) ao largo da Costa Sudeste Brasileiro.\n\nLocalização:\nA área central geográfica deste enorme reservatório tem aproximadamente uma latitude norte-sul que varia entre os valores mínimos -22°56'00\" Sul (-21º55',",
+    "metrics": {
+      "BERTScore_precision": 0.6152120232582092,
+      "BERTScore_recall": 0.7020127773284912,
+      "BERTScore_f1": 0.6557524800300598,
+      "METEOR": 0.3287079549705812,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.21951219512195122,
+      "ROUGE-2": 0.049999999999999996,
+      "ROUGE-L": 0.14634146341463417,
+      "ROUGE-Lsum": 0.17073170731707318,
+      "OverlapPrecision": 0.09259259259259259,
+      "OverlapRecall": 0.2777777777777778,
+      "OverlapF1": 0.1388888888888889
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output describes a field in the Bacia Sedimentar Santos, contradicting the Expected Output's location in the Bloco BC-20, Bacia de Campos, near Rio de Janeiro."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 2,
+    "question": "Quanto CO2 a mais está sendo emitido em 2019 em comparação a 2010, em giga toneladas?",
+    "reference": "2.9.",
+    "generated": "De acordo meus dados de treinamento até setembro/22. A emissão global total estimada para o ano foi cerca da ordem das quatro vezes maior do que no início dos anos dois mil (cerca duas gigatonnelas por mês). No entretantinho os países desenvolvidados já haviam reduzindo suas pegadinhas nefastíssimas na casa proporcionalmente equivalente ao triplo desse valor entre então - agora",
+    "metrics": {
+      "BERTScore_precision": 0.503888726234436,
+      "BERTScore_recall": 0.6624634861946106,
+      "BERTScore_f1": 0.5723963379859924,
+      "METEOR": 0.06097560975609757,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "Actual Output provides a general statement on emissions without specifying the exact figure compared to 2010, unlike the Expected Output which specifies '2.9', resulting in lack of precision and semantic alignment."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 28,
+    "question": "De que formas o ecossistema costeiro contribui para a biodiversidade?",
+    "reference": "Coleta de recursos vivos, proteção costeira e recursos genéticos",
+    "generated": "O Ecóssitema Costeiros é um dos mais diversos do planeta. Ele incluímos áreas como manguezais (áreas de florestas decíduo-folioses), recifes coralinos marinh os pradarias marinhas ou bancadas arenosas intertidai s salinas etc., todos eles são habitats importantes onde muitasp espécies encontram condições adequadais ao desenvolvimento.\n\nEssencialmente essenciales na manuten",
+    "metrics": {
+      "BERTScore_precision": 0.6041884422302246,
+      "BERTScore_recall": 0.6746349930763245,
+      "BERTScore_f1": 0.6374713778495789,
+      "METEOR": 0.06896551724137931,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0606060606060606,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0606060606060606,
+      "ROUGE-Lsum": 0.0606060606060606,
+      "OverlapPrecision": 0.02040816326530612,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.034482758620689655
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output provides habitats important for species development, aligning partially with the Expected Output's emphasis on biodiversity. However, it fails to mention key contributions such as 'coleta de recursos vivos', 'proteção costeira', and 'recursos genéticos', leading to a lack of complete coverage and some semantic misalignment."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 201,
+    "question": "Qual era a meta em relação ao GNL da Petrobras até 2012?",
+    "reference": "fornecer 31 milhões metros cúbicos de GNL por dia.",
+    "generated": "A petrobrás tinha como metas reduzir o uso de combustíveis fósseis tradicionais (como óleo) na produção energética do país. Uma desses objetivos foi substituir parte dos derivados petrolífero por gnl para veículos no Brasil.\n\nEm termso das usinas geradoras que utilizam energia térmica marinha profunda ou geotéremoa - ambientes onde ocorre uma grande quantidade des fluxode calor",
+    "metrics": {
+      "BERTScore_precision": 0.6089034080505371,
+      "BERTScore_recall": 0.6599592566490173,
+      "BERTScore_f1": 0.6334041357040405,
+      "METEOR": 0.13245033112582782,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07792207792207792,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05194805194805195,
+      "ROUGE-Lsum": 0.05194805194805195,
+      "OverlapPrecision": 0.03508771929824561,
+      "OverlapRecall": 0.2222222222222222,
+      "OverlapF1": 0.06060606060606061
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output discusses general goals on fossil fuel reduction and GNL use but does not specifically mention the target of 31 million cubic meters of GNL per day, missing the quantitative detail from the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 84,
+    "question": "O artigo alude ao fato de o Brasil ainda ser um hotspot para a exploração de petróleo, qual fator levou a essa conclusão?",
+    "reference": "O fato de grandes firmas de E&P participarem do leilão dos blocos",
+    "generated": "O texto sugere que uma das razões pelas quais os países costeiros da América do Sul podem estar mais vulneráveis aos impacto dos desastres naturados é porque muita atividade econômica ocorre nas áreas litorâneas. Isso inclui setores como turismo ou pesca - mas também extrações offshore (petrolíferases). Portanto não se trata apenas disserem suscetíveis por causa desses eventos meteorológicos",
+    "metrics": {
+      "BERTScore_precision": 0.6245788931846619,
+      "BERTScore_recall": 0.7034582495689392,
+      "BERTScore_f1": 0.6616760492324829,
+      "METEOR": 0.07936507936507936,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.09638554216867469,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.07228915662650602,
+      "ROUGE-Lsum": 0.07228915662650602,
+      "OverlapPrecision": 0.05084745762711865,
+      "OverlapRecall": 0.25,
+      "OverlapF1": 0.08450704225352114
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The actual output incorrectly focuses on natural disasters and coastal vulnerabilities, which are unrelated to the specified reason of major E&P firms participating in the auction as per the expected output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 114,
+    "question": "Qual a melhor maneira para explorar the Mega reservatórios de óleo e gás em águas profundas e ultraprofundas na costa do Brasil?",
+    "reference": "The PC semi-seco desenvolvido com tensionadores convencionais do tipo RAM, em 2.400m de águas ultraprofundas do Pré-Sal Offshore Brasileiro foi desenvolvido, validado como um bom modo de exploração.",
+    "generated": "Uma das melhores formas é por meio da exploração geofísica. Isso pode ser feito usando sonares que funcionam emitindo ondas sísmicas no fundo marinho ou utilizando imagens magnétivas.\n\nA imagem sintética obtida pelo método DSS (Deep Sea Seismic) permite identificar estruturas subaquaticamente os depósitos mais profundos já encontrados até agora nos municípios insulares oceânicos próx",
+    "metrics": {
+      "BERTScore_precision": 0.6529961824417114,
+      "BERTScore_recall": 0.6677584648132324,
+      "BERTScore_f1": 0.6602948307991028,
+      "METEOR": 0.029585798816568046,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0625,
+      "ROUGE-2": 0.02127659574468085,
+      "ROUGE-L": 0.041666666666666664,
+      "ROUGE-Lsum": 0.0625,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output discusses exploration methods like geophysics and sonar, which vaguely relate to the exploration theme in the Input. However, it lacks the specific details about the PC semi-seco and tensionadores mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 183,
+    "question": "Do que é constituído o núcleo do sistema de produção ETH-IPB?",
+    "reference": "O núcleo do ETH-IPB é um tubo flexível de 6 ID dedicado ao fluido de produção",
+    "generated": "O Sistema Integrado Produtividade Total dos Fatores (ETH/IPF) consistem na combinações das variáveis físicas utilizadas para medir os insumutos produtivo totais. O IPM também considera como fator limitante da capacidades instalada no processo tecnológico atualmente utilizado pela indistria nacional.\n\nAlém disso inclui uma análise econômica abrangente por meio dessa metodologia se pode identificar quão ef",
+    "metrics": {
+      "BERTScore_precision": 0.6304197311401367,
+      "BERTScore_recall": 0.6999051570892334,
+      "BERTScore_f1": 0.6633477807044983,
+      "METEOR": 0.04926108374384236,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07142857142857142,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.07142857142857142,
+      "ROUGE-Lsum": 0.07142857142857142,
+      "OverlapPrecision": 0.01818181818181818,
+      "OverlapRecall": 0.0625,
+      "OverlapF1": 0.02816901408450704
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output is semantically incorrect, discussing a system that combines physical variables and economic analysis, while the Expected Output specifies a flexible tube component of the ETH-IPB, with no apparent semantic links between them."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 14,
+    "question": "Por que os efeitos da acidificação não são os mesmos em todas as áreas?",
+    "reference": "A acidificação não é distribuída uniformemente",
+    "generated": "Os impacto dos fenômenso de Acidificacao Oceânica (AO) nos ecossistemas marinhOS varia dependendo das características locais. A AO é um problema global causado pela absorção do CO2 atmosféricO pelo oCeanoS; no entanto suas consequências podem ser mais intensas ou menos graves conforme se considera diferentes regiões costeiros.\n\nA diferença na sensibilidade desses ambientes ocorre por",
+    "metrics": {
+      "BERTScore_precision": 0.5786446332931519,
+      "BERTScore_recall": 0.677625298500061,
+      "BERTScore_f1": 0.6242356300354004,
+      "METEOR": 0.08771929824561403,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.05714285714285715,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05714285714285715,
+      "ROUGE-Lsum": 0.05714285714285715,
+      "OverlapPrecision": 0.03636363636363636,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.06557377049180327
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.5,
+        "reason": "The Actual Output correctly identifies that local characteristics affect the impact of acidification, aligning with the Expected Output's notion that acidification is not uniform. However, it elaborates further than the Expected Output, potentially introducing inaccuracies or irrelevant details."
+      }
+    },
+    "g_eval_avg": 0.5
+  },
+  {
+    "id": 72,
+    "question": "Como o separador submarino pode auxiliar no aumento da produção de petróleo?",
+    "reference": "Separando e reinjetando parte da água produzida, fazendo com que o fluído restante suba para a plataforma e os poços operem em potenciais maiores",
+    "generated": "O divisor marinho é uma característica geográfica que se estende ao longo das costas do Brasil. Ele atua como um barreira natural para certa circulação na água entre os dois lados desse divisório subaquático.\n\nDevido às características específicas dessa formação físico-geológicamen-te relacionada aos movimentos tectônicos ocorridores há milhões anos atrás (que criaram esse relevo), essa área tem sido",
+    "metrics": {
+      "BERTScore_precision": 0.6105650663375854,
+      "BERTScore_recall": 0.6451960802078247,
+      "BERTScore_f1": 0.6274030804634094,
+      "METEOR": 0.12152777777777779,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12244897959183675,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0816326530612245,
+      "ROUGE-Lsum": 0.0816326530612245,
+      "OverlapPrecision": 0.06896551724137931,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.0975609756097561
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "The Actual Output discusses a geographic feature unrelated to the Input question about submarino separators and oil production, demonstrating a complete mismatch and not addressing any aspect of the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "id": 59,
+    "question": "Quando ocorreu a primeira instalação de uma Bomba Elétrica Submersível em um poço subaquático?",
+    "reference": "outubro/1994.",
+    "generated": "A bombas eléctricus são usadas para extraçar petróleo das camada que estão abaixo do fundo dos mares. A sua utilização começou na décá da 80 quando o preço internacional atingiu valores muito altíssimos tornando economicamente viável explorara esses campos localizados no mar profundo ou submarinos.\n\nO primeiro campo foi descoberto pelo Brasil nas águeras próximas ao Rio Amazonás chamado \"S",
+    "metrics": {
+      "BERTScore_precision": 0.5038984417915344,
+      "BERTScore_recall": 0.6249342560768127,
+      "BERTScore_f1": 0.5579274892807007,
+      "METEOR": 0.0617283950617284,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.15441710767357053,
+        "reason": "Actual Output discusses the general use of subsea pumps and not the specific event or date as in the Expected Output, missing key information like 'October/1994'. The explanation is vague and lacks precise details."
+      }
+    },
+    "g_eval_avg": 0.15441710767357053
+  },
+  {
+    "id": 63,
+    "question": "Como uma linha de produção no Brasil pode beneficiar uma empresa?",
+    "reference": "Uma linha de produção tem o potencial de minimizar o custo de logística e tempos de entrega.",
+    "generated": "Uma possível resposta é que ela poderia fornecer acesso aos vastas recursos marinhOS do oceano Atlântico Sul próximo. Além disso,\na crescente ameaça das alterações ClimÁticas ao litoral Brasileiro tornou-se um problema urgente para os produtores agrícolAS\ndo país (Folha De São Paulo 2019). A elevação dos níveis OCEÂnicos causará inundações cost",
+    "metrics": {
+      "BERTScore_precision": 0.6123225688934326,
+      "BERTScore_recall": 0.6799197196960449,
+      "BERTScore_f1": 0.6443531513214111,
+      "METEOR": 0.09132420091324202,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.09411764705882353,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.09411764705882353,
+      "ROUGE-Lsum": 0.09411764705882353,
+      "OverlapPrecision": 0.019230769230769232,
+      "OverlapRecall": 0.058823529411764705,
+      "OverlapF1": 0.028985507246376815
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The actual output discusses environmental issues and resources unrelated to the expected logistical benefits of production lines, with significant semantic and information discrepancies."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 117,
+    "question": "Onde a Baker já instalou sistemas de poços inteligentes hidráulicos bem-sucedidos?",
+    "reference": "No Mar do Norte, Oriente Médio e Extremo Oriente.",
+    "generated": "A empresa não forneceu informações específicas na internet. No entanto,\no Brasil é o segundo maior país do mundo que possui litoral no\nOceano Atlântico Sul (OS). Este corpo d'água abriga uma das maiores reservas mundiais da espécie-chave para os seres humanossalmão-do-atl â nt i co( S almo s el anius),queéextremamente vulnerável às condições",
+    "metrics": {
+      "BERTScore_precision": 0.5394287705421448,
+      "BERTScore_recall": 0.6158592104911804,
+      "BERTScore_f1": 0.5751157999038696,
+      "METEOR": 0.1234567901234568,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.051948051948051945,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.051948051948051945,
+      "ROUGE-Lsum": 0.051948051948051945,
+      "OverlapPrecision": 0.037037037037037035,
+      "OverlapRecall": 0.2222222222222222,
+      "OverlapF1": 0.06349206349206349
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "The Actual Output provides irrelevant geographical information about Brazil and the Atlantic Ocean, and does not mention locations like the North Sea, Middle East, or Far East as specified in the Expected Output. This shows a lack of semantic similarity and correct information."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "id": 76,
+    "question": "Quais são as medidas de segurança utilizadas se o Drill-Stem Test é realizado em alto mar?",
+    "reference": "Para fazer esse teste é necessário utilizar um equipamento de segurança que é colocado dentro de um preventor de explosão, o BOP, com o objetivo de manter o poço sob controle",
+    "generated": "Para garantir operações seguro no Mar do Sul Atlântico durante um teste da coluna estabilizadora (Drill Stem Testing), várias precauções devêm ser tomados:\n\n1. Avaliação prévia das condiçōes ambiental\n2a) A equipe deve realizar uma avaliação minuciosa dos padrões meteorológicos atuais,\npadrão atmosférico atual ou pressãdo barométrica para determinar quanta",
+    "metrics": {
+      "BERTScore_precision": 0.6337447166442871,
+      "BERTScore_recall": 0.6921112537384033,
+      "BERTScore_f1": 0.6616432666778564,
+      "METEOR": 0.07062146892655367,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.14285714285714288,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.10204081632653061,
+      "ROUGE-Lsum": 0.0816326530612245,
+      "OverlapPrecision": 0.06,
+      "OverlapRecall": 0.0967741935483871,
+      "OverlapF1": 0.07407407407407407
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output addresses some safety measures but lacks specific safety equipment like the BOP as mentioned in the Expected Output, leading to significant discrepancies."
+      }
+    },
+    "g_eval_avg": 0.2
+  }
+]

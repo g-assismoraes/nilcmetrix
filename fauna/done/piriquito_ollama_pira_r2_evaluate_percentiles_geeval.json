@@ -1,0 +1,562 @@
+[
+  {
+    "id": 190,
+    "question": "Como ambiguidades na detecção de óleo foram resolvidas?",
+    "reference": "Com a ajuda de informações auxiliares de fontes conhecidas de poluição.",
+    "generated": "● A Petrobras realizou uma série completa do processo para detectar o vazamento no campo da bacia petrolífera amazônica (BPA). O trabalho envolveu equipes multidisciplinares que incluíram geólogos experientes; engenheiros químicos especializados nas técnicas mais avançadas usadas por empresas internacionais especializadas nesse tipo específico dos trabalhos offshore – como os submarinos não tripulados ou drones usados pela empresa alemã TUV Rheinland GmbH. Os especialistas também contaram ainda outros profissionais altamente qualificados",
+    "metrics": {
+      "BERTScore_precision": 0.6201381683349609,
+      "BERTScore_recall": 0.7059640884399414,
+      "BERTScore_f1": 0.6602737903594971,
+      "METEOR": 0.05434782608695652,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.043010752688172046,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.043010752688172046,
+      "ROUGE-Lsum": 0.043010752688172046,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output focuses on Petrobras' detection process using advanced technology and multidisciplinary teams, while the Expected Output emphasizes using auxiliary information from known pollution sources. There is a lack of semantic alignment regarding the methods of resolving oil detection ambiguities."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 192,
+    "question": "Qual otimização de produção foi testada para melhorar a elevação da linha de fluxo?",
+    "reference": "Gestão da espuma do caixão.",
+    "generated": "■ Aumentar o número total dos tanques; ou seja aumentar os volumes disponíveis no tanque 1 (T1), aumentando assim sua capacidade máxima disponível do volume útil que pode ser armazenado por unidade móvel na área ocupada pelo pátio interno deste mesmo reservatório (100.000 m²). O aumento desta quantidade resultaria numa maior disponibilidade interna ao longo das linhas internas existentes neste sistema logístico existente hoje (250 km), sendo possível uma melhor distribuição destes produtos entre seus diversos pontos comerciais dentro desse",
+    "metrics": {
+      "BERTScore_precision": 0.5900555849075317,
+      "BERTScore_recall": 0.6665982007980347,
+      "BERTScore_f1": 0.6259957551956177,
+      "METEOR": 0.10416666666666669,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.061855670103092786,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.061855670103092786,
+      "ROUGE-Lsum": 0.061855670103092786,
+      "OverlapPrecision": 0.0125,
+      "OverlapRecall": 0.2,
+      "OverlapF1": 0.023529411764705885
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "The Actual Output discusses increasing the number of tanks and their volumes, while the Expected Output is about foam management in a coffin, indicating a complete mismatch in topics."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "id": 6,
+    "question": "Quais são os riscos que envolvem a segurança alimentar da indústria de frutos do mar?",
+    "reference": "Os riscos provêm da contaminação por patógenos (particularmente das descargas de esgoto não tratado e resíduos animais) e toxinas (muitas vezes da proliferação de algas).",
+    "generated": " Aumento dos custos para produção; aumento das despesas operacionais (transporte); diminuição na produtividade devido ao uso inadequado ou ausência total no manejo correto por parte daqueles envolvidos diretamente nas atividades produtivas como pescadores artesanais/industriaizáveis etc.; redução nos níveis nutricional necessários aos animais marinhos utilizados pela cadeia agroalimentar marinha gerando prejuízos financeiros às empresas envolvidas direta-ou indiretamente neste processo além disso o consumo desses produtos pode ser prejudicado pelo",
+    "metrics": {
+      "BERTScore_precision": 0.6408033967018127,
+      "BERTScore_recall": 0.677456796169281,
+      "BERTScore_f1": 0.6586205363273621,
+      "METEOR": 0.08695652173913043,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.14545454545454545,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.09090909090909091,
+      "ROUGE-Lsum": 0.09090909090909091,
+      "OverlapPrecision": 0.028985507246376812,
+      "OverlapRecall": 0.08,
+      "OverlapF1": 0.0425531914893617
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output does not align semantically with the Expected Output on risks related to contaminations like pathogens and toxins; instead, it focuses largely on operational and financial aspects, lacking specific identification of contamination risks mentioned as essential."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 9,
+    "question": "Quando a perda de todas as pescarias comerciais deve acontecer?",
+    "reference": "Muitas projeções estimam a perda de todas as pescarias comerciais para a metade do século, mas esta informação não é confiável.",
+    "generated": "► O Brasil tem uma das maiores populações marinhas do mundo (cerca 200 milhões). A pesca comercial é responsável por cercas 10% dessa população marinha no país; o restante são peixes nativos que vivem na natureza ou nas águas costeiras da região amazônica – onde há muito pouca água doce para os animais marinhos se alimentarem durante todo ano! Os cientistas estimam um aumento médio anual entre 2% até 4%, dependendo dos fatores climáticos locais como temperatura média mais alta nos próximos anos…",
+    "metrics": {
+      "BERTScore_precision": 0.6301975846290588,
+      "BERTScore_recall": 0.6989675760269165,
+      "BERTScore_f1": 0.6628035306930542,
+      "METEOR": 0.11705685618729099,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15384615384615385,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.08547008547008546,
+      "ROUGE-Lsum": 0.08547008547008546,
+      "OverlapPrecision": 0.04819277108433735,
+      "OverlapRecall": 0.19047619047619047,
+      "OverlapF1": 0.07692307692307693
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output provides irrelevant information about Brazilian marine life and fails to address the specific question regarding the timing of loss for commercial fisheries. It doesn't mention projections or timelines like the Expected Output does."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 216,
+    "question": "Quem enviou uma carta para a empresa de engenharia americana Global Industries?",
+    "reference": "Petrobras",
+    "generated": "■ Uma pessoa que trabalha na área ambiental da companhia; ou seja um funcionário do departamento responsável pela gestão dos recursos hídricos (água). A mensagem foi enviada ao gerente executivo global das empresas Globalservices Inc., Thomas Jorstad Jr.. O assunto era o projeto \"Plataforma Marítima\" no Brasil – Projeto Porto Sul - cujo custo estimado é US$ 1,8 bilhões. No corpo desta correspondência constava os seguintes dados pessoais : nome completo,",
+    "metrics": {
+      "BERTScore_precision": 0.4944547712802887,
+      "BERTScore_recall": 0.6747560501098633,
+      "BERTScore_f1": 0.5707035064697266,
+      "METEOR": 0.0,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "The Actual Output mentions an environmental area employee sending a letter, focusing on a project in Brazil, whereas the Expected Output states Petrobras sent it. There's a complete misalignment and contradiction regarding the sender's identity."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "id": 10,
+    "question": "Que fatores podem afetar as propriedades das comunidades de peixes nas áreas costeiras?",
+    "reference": "Características físicas e químicas do habitat, profundidade, tipos de sedimentos, comunidades bentônicas, níveis de contaminantes, níveis de oxigênio e perturbação do fundo do mar.",
+    "generated": " Aumento da temperatura do oceano; aumento dos níveis oceânicos (maré alta); diminuição ou ausência total na disponibilidade hídrica para os animais marinhos devido ao aquecimento global que afeta o nível médio d'água no Oceano Atlântico Norte – Pacífico Sul até cercas 200 m acima dele. O fenômeno El Niño pode causar um grande impacto nos ecossistemas costeiros por aumentar significativamente temperaturas médias anuais durante períodos prolongados, afetando principalmente espécies marinhas herb",
+    "metrics": {
+      "BERTScore_precision": 0.6460368633270264,
+      "BERTScore_recall": 0.6858351230621338,
+      "BERTScore_f1": 0.6653413772583008,
+      "METEOR": 0.07183908045977012,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.10256410256410257,
+      "ROUGE-2": 0.017391304347826084,
+      "ROUGE-L": 0.08547008547008547,
+      "ROUGE-Lsum": 0.08547008547008547,
+      "OverlapPrecision": 0.027777777777777776,
+      "OverlapRecall": 0.08333333333333333,
+      "OverlapF1": 0.041666666666666664
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output focuses on ocean temperature and El Niño, while the Expected Output lists habitat characteristics, sediment types, and contaminant levels, showing they are completely different."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 207,
+    "question": "Dentre outros ganhos, quais são os valores monetários que o artigo indica que podem ser reduzidos com a transformação digital em OPEX e CAPEX , respectivamente?",
+    "reference": "Aproximadamente 7 milhões de dólares e entre 60 e 100 milhões de dólares.",
+    "generated": "● Redução de custos operacionais (OPEx) – Aumento da eficiência operacional; redução do tempo para execução das atividades diárias dos navios por meio automatização ou digitalização desses processos internos ao navio como controle automático no sistema eletrônico embarcado nos equipamentos eletrônicos instalados nas embarcações marítimas tais quanto sistemas anti-incêndio/alarme contra incêndios entre outras funções essenciais na segurança marítima além disso também é possível reduzir gastos relacionados aos combustíveis utilizados pelos motores elétricos existentes",
+    "metrics": {
+      "BERTScore_precision": 0.5481180548667908,
+      "BERTScore_recall": 0.6063271760940552,
+      "BERTScore_f1": 0.5757551193237305,
+      "METEOR": 0.04950495049504951,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07207207207207207,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05405405405405405,
+      "ROUGE-Lsum": 0.05405405405405405,
+      "OverlapPrecision": 0.0273972602739726,
+      "OverlapRecall": 0.15384615384615385,
+      "OverlapF1": 0.04651162790697674
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output fails to mention the specific monetary values of 7 million dollars and between 60 and 100 million dollars for OPEX and CAPEX reduction. It focuses instead on general benefits of digital transformation, which does not match the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 52,
+    "question": "onde está sendo conduzida a vigilância da produção do pré-sal?",
+    "reference": "A iniciativa está sendo conduzida na Petrobras por meio de um plano corporativo denominado GIOp (Gestão Integrada de Operações)",
+    "generated": "● A Petrobras tem investido R$ 1,8 bilhão por ano na construção de plataformas para exploração no Pré Sal; o valor é maior que os investimentos feitos pela empresa nos últimos dez anos (R $ 1,3 bilhões). O investimento total previsto até 2020 será superior ao orçamento anual dos ministérios das Minas Energia (11,2%), Ciência Tecnologia Inovações (22,7%), Desenvolvimento Agrário (30,9%). Os recursos serão destinados principalmente aos estados produtores como Rio Grande Do Sul (53,",
+    "metrics": {
+      "BERTScore_precision": 0.6034006476402283,
+      "BERTScore_recall": 0.6763424873352051,
+      "BERTScore_f1": 0.6377927660942078,
+      "METEOR": 0.12367491166077739,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12962962962962962,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.1111111111111111,
+      "ROUGE-Lsum": 0.1111111111111111,
+      "OverlapPrecision": 0.06666666666666667,
+      "OverlapRecall": 0.2631578947368421,
+      "OverlapF1": 0.10638297872340426
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "Actual Output mostly discusses financial investments and some geographical focus but does not mention GIOp, lacking alignment with the Expected Output's emphasis on Petrobras' corporate plan."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 99,
+    "question": "Quais elementos tinham um nível de concentração maior do que o seguro no seu estado aquoso na sua qualidade de água para tanto o Brasil quanto Internacionalmente?",
+    "reference": "Al, As, Cd, Cr, Cu, Fe, Mn, Ni, Pb, Se e Zn",
+    "generated": " O sal marinho é uma substância composta por cloreto (Cl) + sódio(Na). A quantidade total desses dois íons presentes nos mares brasileiros varia entre 0,001 % até 0,05% da massa líquida dos corpos d'água oceânicos; sendo assim os níveis mais elevados são encontrados nas regiões costeiras onde há presença significativa das águas marinhas continentais ou marinhos rasos como ocorre ao longo litoral Brasiliano. Os valores médios observados durante todo ano variam muito pouco devido aos diferentes tipos",
+    "metrics": {
+      "BERTScore_precision": 0.5179445743560791,
+      "BERTScore_recall": 0.5829649567604065,
+      "BERTScore_f1": 0.5485347509384155,
+      "METEOR": 0.0,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.05666606707351339,
+        "reason": "The Actual Output discusses the concentration of oceanic ions like Cl and Na in Brazil, unrelated to the Expected Output list of elements (Al, As, Cd, Cr, Cu, Fe, Mn, Ni, Pb, Se, Zn) relevant to water quality. No semantic or factual alignment is found."
+      }
+    },
+    "g_eval_avg": 0.05666606707351339
+  },
+  {
+    "id": 76,
+    "question": "Quais são as medidas de segurança utilizadas se o Drill-Stem Test é realizado em alto mar?",
+    "reference": "Para fazer esse teste é necessário utilizar um equipamento de segurança que é colocado dentro de um preventor de explosão, o BOP, com o objetivo de manter o poço sob controle",
+    "generated": "● O teste deve ser feito somente no local indicado pelo cliente; • A embarcação que realizará os testes não pode ter mais do dobro da capacidade máxima permitida para navegação costeira (até 500 pessoas);• Os equipamentos utilizados devem estar devidamente calibrados antes dos procedimentos operacionais serem iniciados ou substituídos por outros similares conforme recomendado pela empresa contratada responsável pelos serviços técnicos especializados necessários ao projeto offshore/offshore drilling site test and evaluation program – SSTEP",
+    "metrics": {
+      "BERTScore_precision": 0.6368672847747803,
+      "BERTScore_recall": 0.6840842962265015,
+      "BERTScore_f1": 0.6596319079399109,
+      "METEOR": 0.10610079575596817,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15652173913043477,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.08695652173913043,
+      "ROUGE-Lsum": 0.08695652173913043,
+      "OverlapPrecision": 0.02666666666666667,
+      "OverlapRecall": 0.06451612903225806,
+      "OverlapF1": 0.03773584905660377
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output contains inaccuracies and lacks alignment with the Expected Output; it discusses calibration and vessel capacity, which are irrelevant, and omits essential information about the preventor de explosão, BOP."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 181,
+    "question": "Quais são os testes realizados para a simulação?",
+    "reference": "Teste de calibração e teste de validação",
+    "generated": "● Testes de estabilidade; teste hidrostático (teste do nível da água); testagem elétrica/eletrônica dos equipamentos instalados no navio-plataforma que serão utilizados na perfuração marítima ou subsea – como por exemplo o sistema elétrico instalado nos navios submarinos convencionais -, além das instalações elétricas instaladas nas plataformas terrestres localizadas próximas ao local onde será realizada uma futura exploração petrolífera offshore. Os sistemas elétricos devem ser capazes não só atender aos requisitos técnicos exigidos pela",
+    "metrics": {
+      "BERTScore_precision": 0.6092127561569214,
+      "BERTScore_recall": 0.7489591836929321,
+      "BERTScore_f1": 0.6718965172767639,
+      "METEOR": 0.10563380281690143,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1020408163265306,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.061224489795918366,
+      "ROUGE-Lsum": 0.061224489795918366,
+      "OverlapPrecision": 0.0273972602739726,
+      "OverlapRecall": 0.2857142857142857,
+      "OverlapF1": 0.05
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.10140636301941572,
+        "reason": "The actual output mentions 'Testes de estabilidade', 'teste hidrostático', and 'testagem elétrica/eletrônica', which are not relevant to the expected output focused on 'Teste de calibração e teste de validação', showcasing complete deviation without similarity."
+      }
+    },
+    "g_eval_avg": 0.10140636301941572
+  },
+  {
+    "id": 137,
+    "question": "Qual a produção de gás no estado da Bahia em 2010?",
+    "reference": "A produção de gás do estado é de 11 milhões de m3 / dia de gás em 2010",
+    "generated": "■ A Petrobras produzia cercas 2,4 milhões m3/dia (m3) na Bacia do Recôncavo; 1,8 milhão MWh por ano para o mercado livre nacional através dos gasodutos que ligam os campos produtores ao terminal flutuante localizado próximo às plataformas marítimas localizadas nos municípios baianos das cidades costeiras onde se localizavam esses poços exploratórios como Cairuçu-Candeias ou Pojuca – Camaçari - Salvador. Esses dados",
+    "metrics": {
+      "BERTScore_precision": 0.6297160387039185,
+      "BERTScore_recall": 0.7452716827392578,
+      "BERTScore_f1": 0.6826381683349609,
+      "METEOR": 0.08771929824561404,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.19148936170212766,
+      "ROUGE-2": 0.043478260869565216,
+      "ROUGE-L": 0.12765957446808512,
+      "ROUGE-Lsum": 0.12765957446808512,
+      "OverlapPrecision": 0.04838709677419355,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.07500000000000001
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output mentions gas production but gives incorrect figures and details compared to the Expected Output. The Actual Output states production as 2.4 million m3/day in the Bacia do Recôncavo and includes unrelated energy metrics, while the Expected Output specifies 11 million m3/day for Bahia. The core aspect, the production number, is inaccurately covered."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 221,
+    "question": "Após a torre de produção da Petrobrás no Campo de Garoupa ter caído e quebrado a empresa empregou um sistema de produção antecipada provisório para substituir essa torre de produção. Este sistema provisório usufruiu de quais estruturas do sistema de produção anterior para operar?",
+    "reference": "O sistema provisório utilizou do sistema original de produção um duto de fundo oceânico, medidor, torre de carregamento e um navio de processamento.",
+    "generated": "● O Sistema foi construído utilizando-se o que havia sido produzido anteriormente na planta; ou seja os equipamentos utilizados foram retirados dos antigos poços produtores (Poço Produtor) onde eram produzidos antes das obras serem concluídas até então não haviam nenhum equipamento novo sendo utilizado por isso houve uma substituição parcial entre estes dois sistemas produtivos anteriores pela utilização destes novos recursos tecnológicos disponíveis atualmente nos campos petrolíferos brasileiros como é exemplo deste caso específico citado acima.",
+    "metrics": {
+      "BERTScore_precision": 0.6229517459869385,
+      "BERTScore_recall": 0.6800222992897034,
+      "BERTScore_f1": 0.6502372026443481,
+      "METEOR": 0.07961783439490447,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07079646017699115,
+      "ROUGE-2": 0.018018018018018018,
+      "ROUGE-L": 0.07079646017699115,
+      "ROUGE-Lsum": 0.07079646017699115,
+      "OverlapPrecision": 0.013157894736842105,
+      "OverlapRecall": 0.043478260869565216,
+      "OverlapF1": 0.020202020202020204
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "Actual Output mentions using pre-existing equipment from old wells, which partially aligns with Expected Output indicating usage of existing structures; however, it lacks specific details like ocean floor pipe, meter, loading tower, and processing ship mentioned in Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 85,
+    "question": "Um determinado bloco chamou mais atenção do que os outros, embora houvesse apenas um licitante. Quem foi este licitante e como é chamado o bloco?",
+    "reference": "A licitante foi a Shell e o bloco é Campos",
+    "generated": "Êste Bloco de blocos (BB) está localizado no Oceano Atlântico Norte próximo ao litoral da África Ocidental; tem uma área aproximada estimada entre 1.500.000 km² até 2.000.000km2. O nome deste BB corresponde aos nomes dos países participantes na Rodada das Nações Unidas para Partilha Equitativa dessa Área Descoberta – Brasil, Angola/Angola /Portugal ; Moçambique - Guiné-Bissau : Cabo Verde(Cabo verde). A Bacia Amazônica Brasilia também faz parte desse",
+    "metrics": {
+      "BERTScore_precision": 0.566283106803894,
+      "BERTScore_recall": 0.6695823669433594,
+      "BERTScore_f1": 0.6136156320571899,
+      "METEOR": 0.08982035928143714,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.06896551724137931,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.022988505747126436,
+      "ROUGE-Lsum": 0.022988505747126436,
+      "OverlapPrecision": 0.014705882352941176,
+      "OverlapRecall": 0.1,
+      "OverlapF1": 0.02564102564102564
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "Actual Output discusses unrelated geographic details and participants without naming Shell or the Campos block, which are explicitly mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 102,
+    "question": "Quais são as categorias de instrumentos de governança das Reservas Extrativistas Marinhas (MERs)?",
+    "reference": "Instrumentos de regularização fundiária / marítima e reconhecimento de beneficiários, planejamento do uso de território, espaços institucionais de discussão e deliberação assim como políticas públicas.",
+    "generated": "● Instrumentos econômicos; - Licenciamento ambiental para atividades econômicas nas MES – Áreas Especiais da Marinha do Brasil que possuem potencial econômico relevante ou histórico significativo no contexto nacional/regional como o turismo náutico na região nordeste dos estados brasileiros onde se localizam os principais centros marítimos nacionais tais quais Salvador-Bahia, Recife–PE entre outros. A exploração desses recursos naturais deve ser feita por meio licitação público visando garantir um equilíbrio socio",
+    "metrics": {
+      "BERTScore_precision": 0.6356340646743774,
+      "BERTScore_recall": 0.6665941476821899,
+      "BERTScore_f1": 0.6507461071014404,
+      "METEOR": 0.07692307692307693,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1565217391304348,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.10434782608695652,
+      "ROUGE-Lsum": 0.10434782608695652,
+      "OverlapPrecision": 0.04285714285714286,
+      "OverlapRecall": 0.12,
+      "OverlapF1": 0.0631578947368421
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "O Output Real diverge das categorias esperadas ao não mencionar instrumentos de regularização ou planejamento e foca em instrumentos econômicos e licenciamento ambiental, que não aparecem no Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 24,
+    "question": "Qual a taxa de crescimento estimada em porcentagem nos países Ásia-Pacífico ?",
+    "reference": "A taxa estimada é de 10 % ao ano.",
+    "generated": "► A Ásia Pacífico é o continente mais populoso do mundo (com cercas 9 bilhões). O aumento populacional na região está relizado principalmente no Sudeste Asiático, onde os números são maiores que nas outras regiões da área geográfica conhecida como Asia Pacific Region ou APR para abreviar sua sigla inglesa : Austrália + Nova Zelândia+ Indonésia = 7% ao ano!!! Os outros continentes também estão crescendo muitíssimo rápido mas não tanto quanto este! No",
+    "metrics": {
+      "BERTScore_precision": 0.5418253540992737,
+      "BERTScore_recall": 0.6945884227752686,
+      "BERTScore_f1": 0.6087697148323059,
+      "METEOR": 0.2954399486191394,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.06521739130434782,
+      "ROUGE-2": 0.022222222222222223,
+      "ROUGE-L": 0.06521739130434782,
+      "ROUGE-Lsum": 0.06521739130434782,
+      "OverlapPrecision": 0.04054054054054054,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.07228915662650603
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.19353720330808216,
+        "reason": "Actual Output discusses population growth in the Asia-Pacific region but provides incorrect numerical growth rate and additional unrelated information instead of simply stating the 10% growth as in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.19353720330808216
+  },
+  {
+    "id": 178,
+    "question": "Qual estação do ano o vento 10-m sopra mais fraco sobre a ESGA?",
+    "reference": "Outono.",
+    "generated": " O verão é um período de transição entre estações quentes (primavera) ou frias(inverno). A temperatura média anual da região sul/sudeste no Brasil varia muitas vezes ao longo dos anos devido às variações na latitude das regiões que compõem essa área geográfica; por isso os verões são geralmente bem quente enquanto inversamente proporcional aos períodos frios característicos dessa época. No entanto, durante esse mesmo mês ocorre uma diminuição significativa nas temperaturas médias anuais para essas áreas",
+    "metrics": {
+      "BERTScore_precision": 0.4546317458152771,
+      "BERTScore_recall": 0.6419005990028381,
+      "BERTScore_f1": 0.5322750210762024,
+      "METEOR": 0.048543689320388356,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.06137900298315603,
+        "reason": "The Actual Output discusses seasonal temperature variations unrelated to wind patterns or strength over ESGA, lacking any reference to 'Outono', the correct thematic concept in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.06137900298315603
+  },
+  {
+    "id": 88,
+    "question": "Quais são as principais características do estuário oligo-mesohalino de Paracuari?",
+    "reference": "Alta hidrodinâmica local e fonte de nutrientes do rio Paracuari e da baía Marajó.",
+    "generated": " O litoral é formado por um conjunto complexo composto pelo mar aberto (mar territorial) ao norte; o oceano Atlântico no sul/sudoeste da península amazônica ocidental – Oceano Amazônico ou Mar Negro Brasiliano - ; os rios Amazonas, Tapajós(Amazonas), Madeira / Araguaia na região nordeste até chegar aos estados brasileiros das regiões Norte Central. Os lagos dos Rios Solimões & Juruá que formam uma área hidrográfica chamada \"Canal",
+    "metrics": {
+      "BERTScore_precision": 0.6449564099311829,
+      "BERTScore_recall": 0.7075520753860474,
+      "BERTScore_f1": 0.6748057007789612,
+      "METEOR": 0.14818075117370894,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.022727272727272724,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.022727272727272724,
+      "ROUGE-Lsum": 0.022727272727272724,
+      "OverlapPrecision": 0.014705882352941176,
+      "OverlapRecall": 0.07142857142857142,
+      "OverlapF1": 0.024390243902439025
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output is completely about different geographic features unrelated to the characteristics of the estuary oligo-mesohalino of Paracuari as described in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 66,
+    "question": "Onde são mostrados os resultados da caracterização da camada geológica quando se propõe o uso de impedância baseada em modelo?",
+    "reference": "Em seções de coleta e migração empilhadas com melhorias no achatamento e no foco dos refletores de alvo.",
+    "generated": "● A resposta deve ser dada na forma escrita ou oral (com auxílio do quadro). O texto escrito pode conter citações diretas dos autores citados no artigo; caso contrário deverá apresentar uma síntese das informações obtidas por meio desse estudo para que seja possível sua aplicação prática ao cotidiano escolar/universitário como ferramenta didática-pedagógica nas aulas práticas relacionadas aos temas abordados pelo trabalho científico apresentado pelos alunos participantes deste projeto pedagógico interdisciplinar desenvolvido pela Universidade Federal",
+    "metrics": {
+      "BERTScore_precision": 0.5999590158462524,
+      "BERTScore_recall": 0.6421261429786682,
+      "BERTScore_f1": 0.620326817035675,
+      "METEOR": 0.08,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0909090909090909,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.03636363636363636,
+      "ROUGE-Lsum": 0.03636363636363636,
+      "OverlapPrecision": 0.02666666666666667,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.04301075268817204
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "The Actual Output does not address the question of where results are shown when using model-based impedance, unlike the Expected Output which specifies 'seções de coleta e migração empilhadas'. There is no semantic alignment or relevant information in the Actual Output compared to the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "id": 120,
+    "question": "Quais os resultados dos métodos na recuperação do derramamento de petróleo próximo ao Rio Barigui?",
+    "reference": "As trincheiras parecem ter removido a maior parte do produto livre do setor adjacente ao local do derramamento e o tratamento dos pântanos conseguiu restaurar sua vegetação.",
+    "generated": "● A equipe da Petrobras realizou o trabalho para identificar onde ocorreu esse acidente; • O local foi isolado por barreiras que impedem sua contaminação ambiental (barreira física);• Os tanques foram lacrados após análise técnica realizada pela empresa contratada pelo governo federal – CPRM/INPE - Instituto Nacional De Pesquisas Espaciais / Universidade Federal Do Paraná.",
+    "metrics": {
+      "BERTScore_precision": 0.6320539116859436,
+      "BERTScore_recall": 0.7081000208854675,
+      "BERTScore_f1": 0.667919397354126,
+      "METEOR": 0.09584664536741215,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1411764705882353,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.09411764705882353,
+      "ROUGE-Lsum": 0.09411764705882353,
+      "OverlapPrecision": 0.05454545454545454,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.07317073170731707
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output describes actions by Petrobras and isolation measures, which are unrelated to the Expected Output’s focus on trenching and vegetation restoration. There is a lack of semantic alignment and presence of omissions with the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.2
+  }
+]

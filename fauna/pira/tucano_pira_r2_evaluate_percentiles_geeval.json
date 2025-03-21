@@ -1,0 +1,562 @@
+[
+  {
+    "id": 40,
+    "question": "Quais são os principais tipos de pressão que aumentam o risco de extinção das aves marinhas atualmente?",
+    "reference": "Capturas acidentais das aves marinhas e esgotamento de suas presas causados pela atividade pesqueira.",
+    "generated": "Compreender vários fatores ambientais como pressão, temperatura, salinidade do oceano e, mais recentemente, alterações climáticas, é essencial para compreender melhor quais pressões podem aumentar significativamente ou diminuir potencialmente um número significativo dos animais ameaçados pelas aves. Aqui estão alguns exemplos:\n\n1. Pressão da água fria - A mudança na circulação atmosférica devido às temperaturas crescentes pode levar ao aumento nas correntes frias no Oceano Atlântico Norte. Este aquecimento altera drasticamente certas espécies piscícolas migratórias, incluindo algumas populações endémicas costeiras",
+    "metrics": {
+      "BERTScore_precision": 0.6160755753517151,
+      "BERTScore_recall": 0.7055231332778931,
+      "BERTScore_f1": 0.6577723622322083,
+      "METEOR": 0.11160714285714285,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.03669724770642201,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.018348623853211007,
+      "ROUGE-Lsum": 0.018348623853211007,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The actual output focuses on environmental factors like temperature and salinity instead of addressing fishing activities and accidental captures, which are crucial points mentioned in the expected output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 160,
+    "question": "Por que a extração extensiva do sal foi proibitiva na bacia do pré-sal?",
+    "reference": "Devido à profundidade de seus reservatórios.",
+    "generated": "A exploração de sal, particularmente o extrato extenso da Bacia Pré-Salt, teve impactos ambientais significativos devido ao uso excessivo durante séculos para fins industriais como fertilizantes agrícolas, produtos químicos industriais, produção química e, eventualmente, geração elétrica. A proibição desta atividade levou às preocupações ambientais, sociais (sobre os efeitos nos ecossistemas marinhos) económicas (efeitos nas indústrias pesqueiras, no turismo costeiro etc.).\n\nPara abordar estas preocupações, foram implementadas medidas destinadas a, entre outras coisas, reduzir ou eliminar",
+    "metrics": {
+      "BERTScore_precision": 0.556372344493866,
+      "BERTScore_recall": 0.6678241491317749,
+      "BERTScore_f1": 0.6070249080657959,
+      "METEOR": 0.09677419354838711,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.042105263157894736,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.021052631578947368,
+      "ROUGE-Lsum": 0.021052631578947368,
+      "OverlapPrecision": 0.013333333333333334,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.02469135802469136
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output diverges significantly from the Expected Output by focusing on environmental, social, and economic impacts rather than the depth of the reservoirs as mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 34,
+    "question": "Quais as consequências da pressão em ambientes marinhos?",
+    "reference": "Perda de biodiversidade, dano e fragmentação ao habitat e doenças",
+    "generated": "Compreender o impacto das pressões ambientais nos ecossistemas do oceano é essencial para entender os efeitos de longo alcance que essas forças podem ter na vida marinha e, por extensão, nas comunidades humanas. As principais implicações são:\n\n1. Impactos diretos no ecossistema:\n  a. Acidificação dos mares devido ao aumento global ou diminuição significativa (pelo dióxido carbono atmosférico) - Esta mudança pode levar um declínio significativo num número crescente espécies como corais moles (halophytes), ostras (Ostrea s",
+    "metrics": {
+      "BERTScore_precision": 0.6249604225158691,
+      "BERTScore_recall": 0.7010060548782349,
+      "BERTScore_f1": 0.6608026027679443,
+      "METEOR": 0.10695187165775402,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.10101010101010101,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0808080808080808,
+      "ROUGE-Lsum": 0.10101010101010101,
+      "OverlapPrecision": 0.02631578947368421,
+      "OverlapRecall": 0.2,
+      "OverlapF1": 0.046511627906976744
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The actual output addresses the impacts on marine ecosystems, which aligns with expected themes such as biodiversity loss, but lacks specificity and detail matching expected outcomes like habitat damage and diseases."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 185,
+    "question": "Quais das variabilidades em grande escala mais importantes o BESM-OA2.5 poderá reproduzir?",
+    "reference": "Particularmente sobre o Oceano Atlântico (por exemplo, a Oscilação do Atlântico Norte, o Modo Meridional do Atlântico e a Circulação de Virada Meridional do Atlântico) e os modos extratropicais que ocorrem em ambos os hemisférios.",
+    "generated": "Compreender os principais fatores que influenciam várias variáveis de longo alcance, como temperatura da água, salinidade do oceano ou correntes marítimas, é crucial para prever tendências futuras no comportamento dos ecossistemas marinhos. O Banco Europeu Setorial Oceanográfico (BEOS) - também conhecido por sua sigla inglesa ESB-OCENO), fornece dados valiosos relacionados às condições ambientais nos mares europeus.\n\nO banco tem uma equipe dedicada ao estudo dessas flutuações globais na superfície marinha através d'\"o Observatório Oceânico Global",
+    "metrics": {
+      "BERTScore_precision": 0.6280605792999268,
+      "BERTScore_recall": 0.6601573824882507,
+      "BERTScore_f1": 0.6437090635299683,
+      "METEOR": 0.1565995525727069,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1395348837209302,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.062015503875968984,
+      "ROUGE-Lsum": 0.046511627906976744,
+      "OverlapPrecision": 0.05333333333333334,
+      "OverlapRecall": 0.11428571428571428,
+      "OverlapF1": 0.07272727272727274
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output does not directly address which large-scale variabilities the BESM-OA2.5 can reproduce. It mentions factors like temperature and salinity but fails to specify particular variabilities like the North Atlantic Oscillation listed in the Expected Output. There are significant omissions and discrepancies in terms of content related to specific Atlantic variabilities."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 51,
+    "question": "Qual a profundidade e volume de petróleo estimado de Albacora?",
+    "reference": "Possui de 230m a 1900m e volume de 4,4 bilhões de de bbl",
+    "generated": "Com o meu conhecimento, os dados disponíveis para Albacorosa são limitados. Para responder às suas perguntas:\n\n1. Aprofundamento do óleo estimado: O tamanho da reserva estimada é desconhecido. No entanto, sabe-se que existem vários tipos diferentes desses reservatórios petrolíferos, incluindo reservas offshore (recursos abaixo das águas costeiras) como albasca.\n\n2. Volume total potencial dos recursos potenciais. De acordo com um estudo publicado pela Agência Internacional (AIE) no final desta década, estima que, se todo esse",
+    "metrics": {
+      "BERTScore_precision": 0.5606263875961304,
+      "BERTScore_recall": 0.5612394213676453,
+      "BERTScore_f1": 0.5609327554702759,
+      "METEOR": 0.04784688995215311,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.041237113402061855,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.041237113402061855,
+      "ROUGE-Lsum": 0.041237113402061855,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output fails to correctly provide the depth and volume information on Albacora as in the Expected Output, mentioning vague and incorrect details such as unknown reserve sizes instead of the specific 230m to 1900m depth and 4.4 billion bbl volume."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 126,
+    "question": "Quão longe da costa está o reservatório encontrado pela Petrobras na Bacia de Campos contendo estimadamente 0.6 bilhões de barris de petróleo pesado?",
+    "reference": "Aproximadamente 80 km da costa",
+    "generated": "Compreender os recursos do oceano é essencial para responder às perguntas relacionadas aos locais geográficos específicos mencionados no contexto fornecido. O Brasil tem uma extensa costa, incluindo reservas significativas como campos petrolíferos offshore.\n\nAgora, vamos analisar se esses dados estão disponíveis ou não perto das costas brasileiras. A partir dos meus conhecimentos gerais, posso fornecer-lhe informações precisas:\n\nO local onde você mencionou que há um depósito estimado por Petrobras, localizado dentro da bacia Off Shore, contém aproximadamente 0,60 milhões (barril) b",
+    "metrics": {
+      "BERTScore_precision": 0.5422871708869934,
+      "BERTScore_recall": 0.6886636018753052,
+      "BERTScore_f1": 0.6067723035812378,
+      "METEOR": 0.10948905109489053,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.06185567010309278,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.020618556701030927,
+      "ROUGE-Lsum": 0.041237113402061855,
+      "OverlapPrecision": 0.012345679012345678,
+      "OverlapRecall": 0.2,
+      "OverlapF1": 0.023255813953488372
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "O Output Atual falha em fornecer a localização específica de 80 km da costa encontrada no Output Esperado, fornecendo informações imprecisas sobre a capacidade do reservatório. Não há alinhamento semântico com a questão de distância, contendo confusão sobre '0.60 milhões' em vez de 0.6 bilhões de barris."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 203,
+    "question": "Como é possível compensar transientes de pressão de fundo de poço rápidos, como sobretensão e swab induzidos por elevação?",
+    "reference": "Um estrangulamento de fundo de poço combinado com circulação contínua é uma das soluções potenciais.",
+    "generated": "Para responder corretamente às perguntas dadas:\n\n1. Compensação Transiente do Fundo Poço Rápido (TSPC): A TPSC, também conhecida pelo acrônimo STP, refere-se ao fenômeno onde o nível da água sobe, mas não retorna aos níveis normais. Isso pode ocorrer devido a, entre outros fatores, uma súbita mudança na temperatura ou nas condições atmosféricas, levando assim para um aumento repentino no volume total das águas superficiais.\n\n2. Mudanças Climáticas Globais (CGMs). As",
+    "metrics": {
+      "BERTScore_precision": 0.5815837383270264,
+      "BERTScore_recall": 0.6462099552154541,
+      "BERTScore_f1": 0.6121960282325745,
+      "METEOR": 0.12931034482758622,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15238095238095237,
+      "ROUGE-2": 0.019417475728155338,
+      "ROUGE-L": 0.1142857142857143,
+      "ROUGE-Lsum": 0.1142857142857143,
+      "OverlapPrecision": 0.028169014084507043,
+      "OverlapRecall": 0.13333333333333333,
+      "OverlapF1": 0.046511627906976744
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "The Actual Output discusses unrelated concepts such as TSPC and changes in climate, which are not relevant to the Expected Output's context of oil well pressure transients and suggests using bottom-hole choking with continuous circulation."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "id": 173,
+    "question": "Quais são algumas consequências do efeito estufa em baías e estuários?",
+    "reference": "Mudança na posição da linha costeira, inundações de terra e impactos nas zonas húmidas.",
+    "generated": "Etapa 1: Entendendo o conceito de efeitos da temperatura na vida marinha.\nO aquecimento global é um fenômeno que resulta no aumento das temperaturas médias globais devido ao acúmulo contínuo dos gases responsáveis pelo Efeito Estufa, como dióxido de\ncarbono, metano (CH4) e, eventualmente, óxido nitroso (N2O). Esses gases, quando liberados para atmosfera, contribuem significativamente às alterações climáticas, incluindo eventos extremos relacionados aos padrões meteorológicos, secas prolongadas ou inundações.\n\nEfeitos específicos:\n\n1. A",
+    "metrics": {
+      "BERTScore_precision": 0.6168075203895569,
+      "BERTScore_recall": 0.7180961966514587,
+      "BERTScore_f1": 0.6636090874671936,
+      "METEOR": 0.148936170212766,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1568627450980392,
+      "ROUGE-2": 0.02,
+      "ROUGE-L": 0.0784313725490196,
+      "ROUGE-Lsum": 0.11764705882352941,
+      "OverlapPrecision": 0.0410958904109589,
+      "OverlapRecall": 0.21428571428571427,
+      "OverlapF1": 0.06896551724137932
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output vaguely mentions climate effects but lacks direct relevance to bays and estuaries. It doesn't address shoreline changes or wetland impacts like the Expected Output. It also misses discussing flooding specifics."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 17,
+    "question": "Quais serão os impactos da acidificação dos oceanos?",
+    "reference": "Ela afetará grandes interesses econômicos e poderá colocar a segurança alimentar em risco",
+    "generated": "Compreender o impacto potencial das alterações climáticas, como descrito na questão fornecida, é essencial para responder adequadamente. A resposta fornecida centra-se nos efeitos potenciais de uma maior concentração atmosférica do dióxido Carbono (CO2) devido às atividades humanas, especificamente no aumento ou diminuição significativa nas concentrações marinhas desse gás.\n\nAgora, vamos discutir alguns aspectos-chave relacionados aos impactos, que incluem:\n\n1. Acidez aumentada: O CO2 tem um efeito ácido significativo quando se dissolve numa solução aquosa. Quando absorvido pelos",
+    "metrics": {
+      "BERTScore_precision": 0.5783504843711853,
+      "BERTScore_recall": 0.6435374617576599,
+      "BERTScore_f1": 0.6092051267623901,
+      "METEOR": 0.02415458937198068,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.019417475728155338,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.019417475728155338,
+      "ROUGE-Lsum": 0.019417475728155338,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1531209373373756,
+        "reason": "The actual output discusses increased ocean acidity and relates it to CO2, but fails to mention economic interests or food security risks highlighted in the expected output."
+      }
+    },
+    "g_eval_avg": 0.1531209373373756
+  },
+  {
+    "id": 88,
+    "question": "Quais são as principais características do estuário oligo-mesohalino de Paracuari?",
+    "reference": "Alta hidrodinâmica local e fonte de nutrientes do rio Paracuari e da baía Marajó.",
+    "generated": "O estuário Oligomeso-halina da Ilha Grande é um ecossistema único localizado na foz dos rios Pará Mirim, Araguaia Pequeno (Paranaguá) no estado brasileiro Maranhão. O principal aspecto deste sistema marinho meso-halo-soline consiste nas seguintes características, que se alinham bem entre si:\n\n1. Estuários Mesohaleinos - Estes sistemas costeiros têm uma estreita relação simbiótica envolvendo os ecossistemas aquáticos (rio-marinhos), particularmente o manguez",
+    "metrics": {
+      "BERTScore_precision": 0.6062562465667725,
+      "BERTScore_recall": 0.6733736991882324,
+      "BERTScore_f1": 0.6380547881126404,
+      "METEOR": 0.15321601941747576,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.04597701149425288,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.04597701149425288,
+      "ROUGE-Lsum": 0.04597701149425288,
+      "OverlapPrecision": 0.01639344262295082,
+      "OverlapRecall": 0.07142857142857142,
+      "OverlapF1": 0.026666666666666665
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output does not mention Paracuari or Marajó directly, missing key aspects like hydrodynamics and nutrient sources, instead mentioning unrelated locations and characteristics."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 73,
+    "question": "Qual foi a conclusão sobre o estudo dos molhes curvos que estava sendo programado para ser instalado no porto de Santos?",
+    "reference": "o layout dos molhes deste estudo conseguiriam manter a profundidade de acesso do canal, porém com um volume de dragagem muito menor do que o do sistema atual.",
+    "generated": "Compreender os estudos do Molhe Curvo é essencial ao discutir qualquer projeto ou instalação marítima relacionada aos portos brasileiros. O Porto Santos, localizado na cidade litorânea brasileira, São Vicente, faz parte da região Sudeste. A localização geográfica única desta área torna-a um local ideal tanto como ponto estratégico quanto uma porta natural entre dois continentes.\n\nO Estudo proposto pelo Ministério das Relações Exteriores (MRE) visava instalar três muros curvas (conhecidos localmente por \"molhés\") nas águas costeiras brasileiras durante",
+    "metrics": {
+      "BERTScore_precision": 0.6152793765068054,
+      "BERTScore_recall": 0.6628686785697937,
+      "BERTScore_f1": 0.6381880640983582,
+      "METEOR": 0.125,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.11764705882352942,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.06722689075630252,
+      "ROUGE-Lsum": 0.08403361344537814,
+      "OverlapPrecision": 0.02564102564102564,
+      "OverlapRecall": 0.07142857142857142,
+      "OverlapF1": 0.03773584905660377
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output discusses the importance of the study of curved breakwaters at the Port of Santos and provides context, but does not address the conclusion about maintaining channel depth with less dredging, as mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 167,
+    "question": "Qual é a importância das politicas públicas para as áreas costeiras?",
+    "reference": "Assegurar a qualidade de vida da população costeira e a proteção dos recursos dos eco sistemas.",
+    "generated": "As políticas públicas, como os regulamentos de zoneamento, licenças ambientais adequadas (licenças) ou planos diretores municipais, desempenham um papel crucial na proteção da integridade ecológica, do desenvolvimento sustentável e, por extensão, dos recursos naturais nas zonas litorâneas. Aqui estão alguns aspectos importantes dessas políticas, juntamente aos efeitos que elas têm:\n\n1. Zonas Costeira Protegidas (ZCP): As leis nacionais protegem o litoral, estabelecendo limites físicos rigorosos ao desenvolvimento, incluindo restrições às atividades industriais pesadas, construção naval pesada",
+    "metrics": {
+      "BERTScore_precision": 0.6229479908943176,
+      "BERTScore_recall": 0.7316185235977173,
+      "BERTScore_f1": 0.6729241609573364,
+      "METEOR": 0.22267206477732793,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1651376146788991,
+      "ROUGE-2": 0.056074766355140186,
+      "ROUGE-L": 0.11009174311926606,
+      "ROUGE-Lsum": 0.12844036697247707,
+      "OverlapPrecision": 0.06578947368421052,
+      "OverlapRecall": 0.3125,
+      "OverlapF1": 0.10869565217391304
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output addresses the role of public policies in protecting coastal integrity and sustainable development, similar to the Expected Output's focus on quality of life and ecosystem protection but misses the specific mention of quality of life and ecosystem resources."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 82,
+    "question": "Quais espécies o estudo referenciou nas relações comprimento-comprimento (RCC)?",
+    "reference": "Gobiesox barbatulus, Bathygobius geminatus, Labrisomus nuchipinnis, Malacoctenus delalandii, Lutjanus alexandrei",
+    "generated": "O estudo, que se refere às Relações de Comprimentos-Relacionamento (CRC) entre os organismos marinhos no Oceano Atlântico Sul (SAS), na Costa Brasileira (BCR) e, mais especificamente, ao longo da Plataforma Continental do Brasil (PCB), utilizou um conjunto diversificado desses estudos para fornecer uma compreensão abrangente das interações ecológicas dentro dos ecossistemas costeiros.\n\nO CRC, também conhecido como relação tamanho-comprimento (TSAR, T-squared Relationship ou simplesmente TSRA - Tabela 1",
+    "metrics": {
+      "BERTScore_precision": 0.5198806524276733,
+      "BERTScore_recall": 0.5156877636909485,
+      "BERTScore_f1": 0.5177757143974304,
+      "METEOR": 0.09478672985781991,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output does not reference any species, focusing instead on general information about ecological interactions and methodologies, which diverges significantly from the species-specific list provided in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 139,
+    "question": "O que contribuiu para o excelente desempenho produtivo dos reservatórios do Pré-Sal?",
+    "reference": "As alterações hidrotermais tiveram forte impacto na porosidade, permeabilidade e heterogeneidade, contribuindo, juntamente com o fraturamento associado, para o excelente desempenho produtivo dos reservatórios do Pré-Sal.",
+    "generated": "O sucesso excepcional da produção de petróleo nos campos petrolíferos offshore no Brasil está principalmente ligado às condições geológicas únicas encontradas na plataforma continental brasileira, especificamente nas bacias sedimentares marinhas costeiras. Estas áreas são caracterizadas por um clima subártico temperado, águas rasas ricas e, muitas vezes, temperaturas mais frias durante os meses quentes.\n\nA localização geográfica das reservas pré-sal, localizadas abaixo desta camada rochosa rica sob alta pressão atmosférica, permite uma extração eficiente, permitindo taxas elevadas tanto quanto possível",
+    "metrics": {
+      "BERTScore_precision": 0.646288275718689,
+      "BERTScore_recall": 0.6664376854896545,
+      "BERTScore_f1": 0.6562082767486572,
+      "METEOR": 0.13623978201634876,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.11475409836065574,
+      "ROUGE-2": 0.016666666666666666,
+      "ROUGE-L": 0.0983606557377049,
+      "ROUGE-Lsum": 0.0983606557377049,
+      "OverlapPrecision": 0.012658227848101266,
+      "OverlapRecall": 0.038461538461538464,
+      "OverlapF1": 0.01904761904761905
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.23632966379462134,
+        "reason": "The Actual Output discusses geographic and climate conditions affecting oil production but omits critical aspects such as hydrothermal alterations and fracturing impact, leading to significant misalignment with the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.23632966379462134
+  },
+  {
+    "id": 61,
+    "question": "Qual a possível causa da diferença nos dados divulgados pela Petrobas e pelo BG Group sobre a quantidade de barris?",
+    "reference": "Os dados do BG Group foram divulgados antes da apresentação dos resultados do quarto trimestre.",
+    "generated": "Com o meu conhecimento, os dois principais fatores que contribuem para diferenças na divulgação dos níveis totais do petróleo por petrolíferas como Petrobras (PETR4) (BOVB3) ou British Gás (GASM) são:\n\n1. Diferenças nas metodologias utilizadas:\n  a. A metodologia utilizada pelas empresas é diferente - uma usa medições diretas (barril) enquanto outra utiliza estimativas baseadas no volume total.\n \n2. Preços diferentes utilizados pelos fornecedores:\n\na. Petróleo bruto vendido diretamente ao consumidor final (CPG),",
+    "metrics": {
+      "BERTScore_precision": 0.5676364898681641,
+      "BERTScore_recall": 0.6848211288452148,
+      "BERTScore_f1": 0.6207466721534729,
+      "METEOR": 0.08510638297872342,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.08247422680412371,
+      "ROUGE-2": 0.02105263157894737,
+      "ROUGE-L": 0.08247422680412371,
+      "ROUGE-Lsum": 0.08247422680412371,
+      "OverlapPrecision": 0.027777777777777776,
+      "OverlapRecall": 0.13333333333333333,
+      "OverlapF1": 0.04597701149425287
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output discusses potential reasons like methodological differences and pricing, which do not relate to the timing of data release mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 22,
+    "question": "O que é acidificação do oceano?",
+    "reference": "A mudança na química da água do mar causada pela absorção oceânica de emissões de dióxido de carbono.",
+    "generated": "A Acidez dos Oceanos refere-se ao aumento da concentração de ácidos carbônicos na água marinha. Este fenômeno ocorre devido às atividades humanas, como o escoamento agrícola, os resíduos industriais e, mais recentemente, uma mudança significativa nas emissões provenientes das indústrias petrolíferas, refinarias navais (offshore) ou usinas elétricas.\n\nA principal causa deste processo são processos naturais relacionados aos ciclos biogeoquímicos dentro desses ecossistemas aquáticos. Os principais fatores contribuintes para este efeito incluem:\n\n1. Erosão",
+    "metrics": {
+      "BERTScore_precision": 0.6346672177314758,
+      "BERTScore_recall": 0.7298233509063721,
+      "BERTScore_f1": 0.6789273619651794,
+      "METEOR": 0.17578125,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.17857142857142858,
+      "ROUGE-2": 0.03636363636363636,
+      "ROUGE-L": 0.10714285714285714,
+      "ROUGE-Lsum": 0.10714285714285714,
+      "OverlapPrecision": 0.0958904109589041,
+      "OverlapRecall": 0.3888888888888889,
+      "OverlapF1": 0.15384615384615383
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.25524307782324335,
+        "reason": "Semantically, the Actual Output explains ocean acidity, but inaccurately attributes causes, failing to emphasize CO2 absorption as the main factor. It omits completeness by focusing on other incorrect factors like agricultural runoff and erosion."
+      }
+    },
+    "g_eval_avg": 0.25524307782324335
+  },
+  {
+    "id": 196,
+    "question": "Que agentes podem alterar o efeito da acidificação e do aquecimento dos oceanos na fisiologia das algas calcificantes?",
+    "reference": "Química da água do mar, estressores globais/locais e fisiologias específicas das espécies.",
+    "generated": "Compreender os efeitos específicos de vários agentes, como emissões antroposféricas, atividades humanas (como poluição por nutrientes) e, mais recentemente, alterações climáticas, no oceano é crucial para compreender melhor suas interações. Vamos explorar esses fatores-chave:\n\n1. Emissões Antrópicas:\n\nAs principais fontes humanas, incluindo escoamento agrícola, resíduos industriais não tratados ou descarte inadequado (principalmente plásticos), contribuem significativamente tanto diretamente quanto indiretamente ao aumento global nos níveis globais de dióxido nitroso (NO2) devido",
+    "metrics": {
+      "BERTScore_precision": 0.6135075092315674,
+      "BERTScore_recall": 0.706116795539856,
+      "BERTScore_f1": 0.6565625667572021,
+      "METEOR": 0.07009345794392523,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0588235294117647,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.019607843137254905,
+      "ROUGE-Lsum": 0.03921568627450981,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output fails to address the specific agents like sea water chemistry, global/local stressors, or specific species' physiologies from the Expected Output, instead focusing on emissions and pollution which are only partially related."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 14,
+    "question": "Por que os efeitos da acidificação não são os mesmos em todas as áreas?",
+    "reference": "A acidificação não é distribuída uniformemente",
+    "generated": "Os impactos das alterações climáticas, particularmente na qualidade do oceano (ácidos) podem diferir entre diferentes regiões costeiras devido às diferenças nas condições ambientais, nos ecossistemas marinhos locais e, possivelmente, aos níveis de atividade humana. Aqui está uma explicação detalhada dos fatores específicos por trás dessas variações:\n\n1. Aumento global no nível médio marítimo (MLAN): O aumento contínuo desde o início deste século tem sido principalmente impulsionado pela elevação média global, ou MLE. Esta mudança é impulsionada pelo derretimento",
+    "metrics": {
+      "BERTScore_precision": 0.5921029448509216,
+      "BERTScore_recall": 0.6682460308074951,
+      "BERTScore_f1": 0.6278743743896484,
+      "METEOR": 0.03424657534246576,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07692307692307693,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.057692307692307696,
+      "ROUGE-Lsum": 0.057692307692307696,
+      "OverlapPrecision": 0.01282051282051282,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.023809523809523808
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output provides some relevant context about regional differences affecting ocean acidification impacts, hinting at various local factors, but it lacks semantic similarity and does not concisely match the brevity of the Expected Output focusing specifically on uneven distribution."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 76,
+    "question": "Quais são as medidas de segurança utilizadas se o Drill-Stem Test é realizado em alto mar?",
+    "reference": "Para fazer esse teste é necessário utilizar um equipamento de segurança que é colocado dentro de um preventor de explosão, o BOP, com o objetivo de manter o poço sob controle",
+    "generated": "Sim, como um modelo baseado no meu conhecimento, os seguintes passos podem ser seguidos para garantir uma operação segura do Teste da Linha-Derramamento (DLT) subaquático:\n\n1. Treinamento adequado dos funcionários envolvidos na realização deste teste. Os trabalhadores devem receber treinamento abrangente que cubra todos aspectos das operações marítimas sob pressão, incluindo procedimentos adequados durante testes submersos.\n\n2. Equipamentos especializados apropriados (como mergulhadores treinados, equipamentos autônomos ou sistemas automatizados) estão disponíveis quando necessário. Esses dispositivos fornecem suporte adicional",
+    "metrics": {
+      "BERTScore_precision": 0.6342658996582031,
+      "BERTScore_recall": 0.6983002424240112,
+      "BERTScore_f1": 0.66474449634552,
+      "METEOR": 0.15463917525773196,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.180327868852459,
+      "ROUGE-2": 0.016666666666666666,
+      "ROUGE-L": 0.0819672131147541,
+      "ROUGE-Lsum": 0.09836065573770492,
+      "OverlapPrecision": 0.03896103896103896,
+      "OverlapRecall": 0.0967741935483871,
+      "OverlapF1": 0.05555555555555556
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "O Actual Output foca em treinamento de funcionários e equipamentos especializados, mas omite o uso de preventor de explosão (BOP), que é crucial no Expected Output para controlar o poço, criando uma contradição."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 205,
+    "question": "Qual foi a primeira unidade flutuante do Brasil?",
+    "reference": "A primeira unidade flutuante do Brasil entrou em operação em 1977 na Bacia de Campos.",
+    "generated": "Antes de fornecer uma resposta detalhada para sua pergunta, vamos primeiro entender o contexto da questão. A questão, \"O que era originalmente um navio brasileiro?\" refere-se ao antigo barco pesqueiro chamado \"Unidade Flutuante, também conhecida como UFF\" ou \"UFO\". Este tipo específico é mencionado na passagem fornecida, afirmando:\n\n'Uffa', 'ufos'. O termo UFOs (Ultra-Fast) significa navios voadores não identificados.\n\nO segundo ponto importante nesta informação está relacionado às alterações climáticas,",
+    "metrics": {
+      "BERTScore_precision": 0.6144494414329529,
+      "BERTScore_recall": 0.7034940719604492,
+      "BERTScore_f1": 0.655963659286499,
+      "METEOR": 0.18067325800376646,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12631578947368421,
+      "ROUGE-2": 0.021505376344086023,
+      "ROUGE-L": 0.08421052631578947,
+      "ROUGE-Lsum": 0.10526315789473685,
+      "OverlapPrecision": 0.04285714285714286,
+      "OverlapRecall": 0.2,
+      "OverlapF1": 0.07058823529411765
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output contains unrelated information about UFOs and lacks any mention of the Bacia de Campos or the year 1977, leading to significant semantic discrepancies from the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  }
+]

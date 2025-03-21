@@ -1,0 +1,43 @@
+Distances to Reference: sabiazinho_pira_reference.json
+
+--- Metric Group: simplicidade ---
+Model: sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 1.1496516823770493
+  Std Dist: 0.4311630379306875
+
+--- Metric Group: coesao_referencial ---
+Model: sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 1.1120880643351057
+  Std Dist: 0.7388877163027451
+
+--- Metric Group: coesao_semantica ---
+Model: sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 1.6073999267368229
+  Std Dist: 0.5931178998544595
+
+--- Metric Group: complexidade_sintatica ---
+Model: sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.7205572217316071
+  Std Dist: 0.2610879948818483
+
+--- Metric Group: leiturabilidade ---
+Model: sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.7606145577767961
+  Std Dist: 0.3340893247069474
+
+--- Metric Group: morfosintaxe ---
+Model: sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 1.7451583109849698
+  Std Dist: 0.5281521147012758
+
+--- Metric Group: info_semantica ---
+Model: sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.9403793596052072
+  Std Dist: 0.29962791666314537
+
+--- Metric Group: all ---
+Model: sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 3.3620885326940537
+  Std Dist: 0.7059120274248135
+
+Done.

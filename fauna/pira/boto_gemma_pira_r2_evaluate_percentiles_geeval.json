@@ -1,0 +1,562 @@
+[
+  {
+    "id": 59,
+    "question": "Quando ocorreu a primeira instalação de uma Bomba Elétrica Submersível em um poço subaquático?",
+    "reference": "outubro/1994.",
+    "generated": "Infelizmente não tenho acesso às informações específicas necessárias para responder exatamente quando foi instalada pela vez o primeiro sistema elétrico submergible pump no Brasil ou globalmente.\n\nNo entanto posso fornecer algumas dicas que podem ajudar na sua pesquisa : 1) Pesquise os primeiros registros da indústria petrolífera do mundo, pois é provável ter sido onde essas tecnologias foram desenvolvidas inicialmente;2 ) procure por organizações como associações industriais (por exemplo., Associação Brasileira das Empresas Petroleiras), universidades",
+    "metrics": {
+      "BERTScore_precision": 0.5027963519096375,
+      "BERTScore_recall": 0.5895355343818665,
+      "BERTScore_f1": 0.5427220463752747,
+      "METEOR": 0.04901960784313726,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output does not provide the specific date 'outubro/1994' as the Expected Output does, failing in semantic similarity and precision. It offers general research tips instead, which is not aligned or comprehensive."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 33,
+    "question": "Quais são as principais ameaças à biodiversidade marinha?",
+    "reference": "A superexploração e a perda e degradação de habitat",
+    "generated": "As principales amenazas para la biodiverisidad marina son las siguientes :\n\n1) **Cambio climático:** El cambio de temperatura del agua y el aumento en los niveles medios globales pueden afectar significativamente al hábitat marino, desplazando especies marinas hacia aguas más frías o alterando sus ciclos reproductivos. La acidificación oceánica también puede dañar organismos con esqueletos calcáreous como corales arrecifal es que proporcionan hábitats esencialespara una gran variedadde vida silvestremarina;",
+    "metrics": {
+      "BERTScore_precision": 0.5898742079734802,
+      "BERTScore_recall": 0.6748139262199402,
+      "BERTScore_f1": 0.6294916868209839,
+      "METEOR": 0.09433962264150944,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0449438202247191,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.02247191011235955,
+      "ROUGE-Lsum": 0.02247191011235955,
+      "OverlapPrecision": 0.014492753623188406,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.02564102564102564
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "Actual output mentions climate change, which is a threat but does not align with the expected output focusing on overexploitation and habitat degradation."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 84,
+    "question": "O artigo alude ao fato de o Brasil ainda ser um hotspot para a exploração de petróleo, qual fator levou a essa conclusão?",
+    "reference": "O fato de grandes firmas de E&P participarem do leilão dos blocos",
+    "generated": "O texto não fornece informações suficientes ou contexto específico que permita concluir se os recursos do subsolo brasileiro são explorados por empresas petrolíferas no momento atual (2019).\n\nPara responder adequadamente às suas perguntas/requisitos específicos da tarefa acima mencionada, preciso ter acesso aos dados fornecidos pelo \"artigo\" mencionado na sua solicitação. Sem esse conteúdo adicional disponível publicamente online através das fontes acessíveis atualmente disponíveis via Google Search Engine Results Page(SERP), é impossível fornecer",
+    "metrics": {
+      "BERTScore_precision": 0.6021608114242554,
+      "BERTScore_recall": 0.694816529750824,
+      "BERTScore_f1": 0.645179033279419,
+      "METEOR": 0.04784688995215311,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.06,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.06,
+      "ROUGE-Lsum": 0.06,
+      "OverlapPrecision": 0.027777777777777776,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.04761904761904762
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output fails to address the Expected Output; it lacks the semantic content about large firms participating in block auctions that is central to the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 134,
+    "question": "Onde a Petrobras está avaliando um potencial reservatório do pré-sal?",
+    "reference": "Bacia de Santos na costa do Brasil",
+    "generated": "A Petrobrás tem explorado o Potencial de Reservatórios Pré Sal na Bacia Sedimentar da Foz Amazonas/Solimões no Brasil desde 2013 para avaliar sua viabilidade comercial como uma fonte futura possível ou não apenas por meio das descobertas existentes mas também através dos novos poços que estão sendo perfurados atualmente.",
+    "metrics": {
+      "BERTScore_precision": 0.6267229318618774,
+      "BERTScore_recall": 0.7456199526786804,
+      "BERTScore_f1": 0.681020975112915,
+      "METEOR": 0.22123893805309738,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12121212121212119,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.09090909090909091,
+      "ROUGE-Lsum": 0.09090909090909091,
+      "OverlapPrecision": 0.08163265306122448,
+      "OverlapRecall": 0.5714285714285714,
+      "OverlapF1": 0.14285714285714285
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.19999999999999998,
+        "reason": "The Actual Output incorrectly identifies 'Foz Amazonas/Solimões' instead of the 'Bacia de Santos' as evaluated in the Expected Output, lacking semantic alignment. It omits the specific location mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.19999999999999998
+  },
+  {
+    "id": 14,
+    "question": "Por que os efeitos da acidificação não são os mesmos em todas as áreas?",
+    "reference": "A acidificação não é distribuída uniformemente",
+    "generated": "Os impactos de la acidez no océano variam en diferentes regiones debido al impacto combinado del cambio climático y las características locales específicas.\n\nAquí hay algunos factores clave para considerar :\n\n\n* **Absorción local CO2:** Las zonas costeras con alta productividad biológica absorben más dióxido carbono (CO <sub>two</sub> ), lo cual aumenta su susceptibilidad potencialmente mayor hacia el aumento ácido oceánico.. La región brasileña tiene una gran cantidad diversa ecosistemas marinos ricos como manglares",
+    "metrics": {
+      "BERTScore_precision": 0.5643956661224365,
+      "BERTScore_recall": 0.6520501375198364,
+      "BERTScore_f1": 0.6050648093223572,
+      "METEOR": 0.0,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.04347826086956521,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.021739130434782605,
+      "ROUGE-Lsum": 0.021739130434782605,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "Input and Expected Output convey reasons for varying acidification impacts, but Actual Output introduces additional, specific factors and regional examples beyond the Expected Output's scope, causing semantic misalignment."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 203,
+    "question": "Como é possível compensar transientes de pressão de fundo de poço rápidos, como sobretensão e swab induzidos por elevação?",
+    "reference": "Um estrangulamento de fundo de poço combinado com circulação contínua é uma das soluções potenciais.",
+    "generated": "Para responder adequadamente às suas perguntas relacionadas aos transients da coluna d'água do mar causados ​​por eventos específicos (como o overshoot ou os golpes), precisamos considerar vários fatores relacionados ao oceano brasileiro no contexto das alterações nas condições ambientais globais devido to clima mudança.\n\n1) Compreendendo Transições na Coluna D’Água Marinha : Os transistores são variação temporária nos parâmetros físicos/químicos dentro dos sistemas aquáticos que ocorrem rapidamente após",
+    "metrics": {
+      "BERTScore_precision": 0.6056561470031738,
+      "BERTScore_recall": 0.6536401510238647,
+      "BERTScore_f1": 0.6287339925765991,
+      "METEOR": 0.04566210045662101,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0784313725490196,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.058823529411764705,
+      "ROUGE-Lsum": 0.0784313725490196,
+      "OverlapPrecision": 0.014705882352941176,
+      "OverlapRecall": 0.06666666666666667,
+      "OverlapF1": 0.024096385542168672
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output diverges significantly from the Expected Output. It discusses ocean-related phenomena, whereas the Expected Output provides a direct method related to well pressure management, showing a lack of semantic similarity."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 159,
+    "question": "O que formou a Elevação Do Rio Grande?",
+    "reference": "Uma atividade vulcânica Aptiana no Atlântico Sul",
+    "generated": "A elevoção do rio grande foi formada pela tectônica de placas, especificamente pelo movimento da placa sul-americana se afastando das bordas leste/oeste dos continentes na América Central (e o Caribe) durante os últimos 10 milhões anos. Este processo resultante é conhecido como \"divergência\".\n\nO Brasil está localizado no continente Sul Americano; portanto., sua localização geográfica não desempenha um papel direto nas causas geológicas para formar uma elevações específicas dentro ou ao",
+    "metrics": {
+      "BERTScore_precision": 0.5977143049240112,
+      "BERTScore_recall": 0.6786532402038574,
+      "BERTScore_f1": 0.6356174349784851,
+      "METEOR": 0.1048951048951049,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.08695652173913043,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.06521739130434782,
+      "ROUGE-Lsum": 0.06521739130434782,
+      "OverlapPrecision": 0.028169014084507043,
+      "OverlapRecall": 0.2857142857142857,
+      "OverlapF1": 0.05128205128205127
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.19113825168946302,
+        "reason": "The Actual Output incorrectly attributes the formation of the Elevação Do Rio Grande to tectonic activity, whereas the Expected Output specifies it was due to Aptian volcanic activity. There are significant inaccuracies and discrepancies affecting semantic similarity and precision."
+      }
+    },
+    "g_eval_avg": 0.19113825168946302
+  },
+  {
+    "id": 131,
+    "question": "Como a Petrobrás aumentou sua capacidade de produção de petróleo em 100 mil bpd?",
+    "reference": "com o início das operações do navio flutuante de produção, armazenamento e escoamento (FPSO) de Marlim Sul, no campo de Marlim Sul, na bacia de Campos.",
+    "generated": "A Petrobras não anunciou um aumento recente na produtividade do óleo bruto para atingir os objetivos da empresa ou atender às demandas globais por energia renovável/não-renováveis ​​e outras necessidades energéticas emergentes no Brasil (principalmente o consumo interno).\n\nNo entanto, é importante notar que existem vários fatores relacionados ao clima global como aquecimento das águas oceânicas devido aos efeitos dos gases estufa nas emissões humanas; tempestades mais frequente s / intensas causadas pelo",
+    "metrics": {
+      "BERTScore_precision": 0.625293493270874,
+      "BERTScore_recall": 0.6234637498855591,
+      "BERTScore_f1": 0.6243772506713867,
+      "METEOR": 0.12328767123287672,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.14678899082568808,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.09174311926605505,
+      "ROUGE-Lsum": 0.12844036697247707,
+      "OverlapPrecision": 0.06944444444444445,
+      "OverlapRecall": 0.19230769230769232,
+      "OverlapF1": 0.10204081632653061
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output fails to mention Marlim Sul FPSO, a crucial detail for the increase in production. While it discusses global climate factors, these are irrelevant to the specific query about production capacity increase."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 4,
+    "question": "Em que setor trabalha a maioria das marinheiras?",
+    "reference": "Balsa e cruzeiro.",
+    "generated": "A maior parte dos marítimos trabalham no transporte de mercadorias por via aquática (ou seja navios comerciais).",
+    "metrics": {
+      "BERTScore_precision": 0.6340784430503845,
+      "BERTScore_recall": 0.6986719965934753,
+      "BERTScore_f1": 0.6648099422454834,
+      "METEOR": 0.08928571428571429,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "O Actual Output discorre sobre marítimos em geral e não especifica marinheiras, como no Input. Ele menciona navios comerciais, que não se alinha exatamente com balsa e cruzeiro do Expected Output, mostrando um desalinhamento semântico e factual."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 218,
+    "question": "Onde foi implantado o sistema de gravação para o piloto de Monitoramento de Reservatório Permanente da Petrobras?",
+    "reference": "Sobre o Campo de Jubarte, na Bacia de Santos.",
+    "generated": "O Sistema Gravador do Piloto Permanent Reservoir Monitoring System (PRMS) não é um termo ou projeto conhecido na literatura científica atualizada relacionada aos Oceanus Brasil Coastline Climate Change Studies. Portanto, eu recomendo que você revise suas fontes informacionais mais recentes no campo dos estudos científicos relacionados ao monitorar os reservatórios permanentes nas costas brasileiras sob condições cambiantes das alterações Climáticas..",
+    "metrics": {
+      "BERTScore_precision": 0.5850252509117126,
+      "BERTScore_recall": 0.6610589027404785,
+      "BERTScore_f1": 0.6207223534584045,
+      "METEOR": 0.15243902439024393,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.08,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05333333333333334,
+      "ROUGE-Lsum": 0.05333333333333334,
+      "OverlapPrecision": 0.016666666666666666,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.028985507246376812
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "The Actual Output does not provide any relevant information or correct response to the question asked in Input, completely missing the Expected Output about 'Campo de Jubarte, na Bacia de Santos.'"
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "id": 150,
+    "question": "Qual é a porcentagem de petroleo produzido globalmente na exploração de águas profundas?",
+    "reference": "Apenas 4% do total do volume produzido pela industria do petróleo.",
+    "generated": "A proporção exata do petróleo que vem da produção offshore profunda varia ao longo dos anos devido às descobertas contínuas no mar profundo das reservas existentes ou novas áreas exploradas para extrair o óleo bruto mais difícil acessível nas profundezas oceânicas (acima 50 metros).\n\nNo entanto, uma estimativa aproximada pode ser feita considerando os dados disponíveis até agora. Atualmente cercada pelo mundo todo tem um total estimado anual médio entre US $12-US$3",
+    "metrics": {
+      "BERTScore_precision": 0.5973002910614014,
+      "BERTScore_recall": 0.7164350748062134,
+      "BERTScore_f1": 0.6514658331871033,
+      "METEOR": 0.1888324873096447,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.08421052631578947,
+      "ROUGE-2": 0.043010752688172046,
+      "ROUGE-L": 0.06315789473684211,
+      "ROUGE-Lsum": 0.08421052631578947,
+      "OverlapPrecision": 0.027777777777777776,
+      "OverlapRecall": 0.18181818181818182,
+      "OverlapF1": 0.04819277108433734
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.09823461679786945,
+        "reason": "The Actual Output does not specify the percentage of oil from deep water production as the Expected Output does, which clearly states it as 4%. The Actual Output instead gives a vague description about deep-sea discoveries and financial estimations, not percentages."
+      }
+    },
+    "g_eval_avg": 0.09823461679786945
+  },
+  {
+    "id": 52,
+    "question": "onde está sendo conduzida a vigilância da produção do pré-sal?",
+    "reference": "A iniciativa está sendo conduzida na Petrobras por meio de um plano corporativo denominado GIOp (Gestão Integrada de Operações)",
+    "generated": "A monitorização de produções Pré Sal é realizada principalmente na Bacia Sedimentar Santos offshore no Brasil.",
+    "metrics": {
+      "BERTScore_precision": 0.6891242861747742,
+      "BERTScore_recall": 0.6750427484512329,
+      "BERTScore_f1": 0.6820108890533447,
+      "METEOR": 0.07281553398058252,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.2631578947368421,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.21052631578947367,
+      "ROUGE-Lsum": 0.21052631578947367,
+      "OverlapPrecision": 0.1875,
+      "OverlapRecall": 0.15789473684210525,
+      "OverlapF1": 0.17142857142857143
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output mentions the location as 'Bacia Sedimentar Santos' whereas the Expected Output refers to an initiative at Petrobras called GIOp, showing a clear context misalignment."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 88,
+    "question": "Quais são as principais características do estuário oligo-mesohalino de Paracuari?",
+    "reference": "Alta hidrodinâmica local e fonte de nutrientes do rio Paracuari e da baía Marajó.",
+    "generated": "O estuário oligomeso haliniano da Paraíba é um sistema costeiro único que se destaca por suas propriedades hidrográficas distintivas devido ao impacto das atividades humanas na região sul/sudeste brasileiro (Brasil).\n\nAqui estão algumas informações detalhadas para responder às perguntas específicas fornecidas no prompt original; No entanto, como não há uma resposta direta disponível nas fontes disponíveis atualmente acessíveis online ou offline relacionadas aos dados específicos solicitados pelo usuário sem mais contexto adicional específico relacionado diretamente o tópico solicitado",
+    "metrics": {
+      "BERTScore_precision": 0.591465175151825,
+      "BERTScore_recall": 0.6688988208770752,
+      "BERTScore_f1": 0.6278033256530762,
+      "METEOR": 0.06880733944954129,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.055045871559633024,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.055045871559633024,
+      "ROUGE-Lsum": 0.055045871559633024,
+      "OverlapPrecision": 0.01282051282051282,
+      "OverlapRecall": 0.07142857142857142,
+      "OverlapF1": 0.021739130434782608
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output discusses a different estuary and lacks specific details about the Paracuari, contrary to the Expected Output which mentions local hydrodynamics and nutrient sources."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 85,
+    "question": "Um determinado bloco chamou mais atenção do que os outros, embora houvesse apenas um licitante. Quem foi este licitante e como é chamado o bloco?",
+    "reference": "A licitante foi a Shell e o bloco é Campos",
+    "generated": "Combase no meu entendimento dos dados fornecidos (um único participante de leilão), não posso fornecer informações específicas ou detalhes adicionais sem contexto adicional para identificar quem era esse libidor específico nem qual nome dado ao bloqueio se aplicou nesse cenário particular.\n\nPara responder adequadamente às suas perguntas precisaria saber quais são esses blocos específicos na questão da licença/leiloeiro; A localização geográfica desses locais pode ser útil também porque diferentes regiões podem ter seus próprios termos relacionados aos recursos",
+    "metrics": {
+      "BERTScore_precision": 0.5627503991127014,
+      "BERTScore_recall": 0.6558284759521484,
+      "BERTScore_f1": 0.6057347059249878,
+      "METEOR": 0.05780346820809249,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.058252427184466014,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.058252427184466014,
+      "ROUGE-Lsum": 0.058252427184466014,
+      "OverlapPrecision": 0.01282051282051282,
+      "OverlapRecall": 0.1,
+      "OverlapF1": 0.022727272727272728
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output fails to identify the bidder and block name, which are specifically 'Shell' and 'Campos' in the Expected Output. It also does not provide any relevant or accurate information that matches the specifics required."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "id": 136,
+    "question": "Por que a Petrobras quer investir no nordeste Bahia?",
+    "reference": "Para expandir as redes locais de gás, aumentar a produção de petróleo e gás e melhorar as capacidades de refino.",
+    "generated": "A Petrobrás está investindo na região do Nord-Este da Baía devido ao potencial de descobertas significativas offshore (na água) para petróleo natural gasoso não convencional chamado \"shale\".\n\nAqui estão os principais fatores por trás dessa decisão estratégica :\n\n\n1). Potencial geológico significativo - A área possui uma estrutura geological complexas conhecida como o bloco pré sal, onde grandes reservas petrolíferass podem ser encontradas. 2 ). Recursos naturais abundantes O Brasil é um dos",
+    "metrics": {
+      "BERTScore_precision": 0.6180516481399536,
+      "BERTScore_recall": 0.685731053352356,
+      "BERTScore_f1": 0.6501347422599792,
+      "METEOR": 0.10676156583629894,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15238095238095237,
+      "ROUGE-2": 0.01941747572815534,
+      "ROUGE-L": 0.11428571428571428,
+      "ROUGE-Lsum": 0.11428571428571428,
+      "OverlapPrecision": 0.0273972602739726,
+      "OverlapRecall": 0.1,
+      "OverlapF1": 0.04301075268817204
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output mentions potential discoveries offshore and geological significance, which relate to investment incentives, but these do not align with expanding local gas networks or production improvements in the Expected Output, showing significant discrepancies."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "id": 18,
+    "question": "O que pode levar ao crescimento excessivo de algas em recifes de corais?",
+    "reference": "A extinção de peixes herbívoros e o excesso de nutrientes vindos dos esgotos e da agricultura",
+    "generated": "O excesso do desenvolvimento das plantas aquáticas (algas) nos ecossistemas marinhos como os récifes coralinos é um problema crescente causado por uma variedade complexas fatores interligados relacionados às alterações no ambiente marinho devido aos impactos da mudança climática global.\n\nAqui está o resumo dos principais pontos para entender melhor este fenômeno complexo : 1). Aumento na concentração média mundial nas águas oceânicas;2); aumento médio anual mais quente ;3), acidificação general",
+    "metrics": {
+      "BERTScore_precision": 0.6284070014953613,
+      "BERTScore_recall": 0.7138327956199646,
+      "BERTScore_f1": 0.6684014201164246,
+      "METEOR": 0.08849557522123894,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12244897959183673,
+      "ROUGE-2": 0.020833333333333336,
+      "ROUGE-L": 0.061224489795918366,
+      "ROUGE-Lsum": 0.0816326530612245,
+      "OverlapPrecision": 0.05714285714285714,
+      "OverlapRecall": 0.25,
+      "OverlapF1": 0.09302325581395347
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output mentions excessive algal growth and its connection to environmental changes. However, it lacks specific causes like the extinction of herbivorous fish and the influx of nutrients from sewage and agriculture, which are crucial in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 222,
+    "question": "O que o levantamento sísmico de cabo rebocado de azimute completo descrito no artigo pretende fazer?",
+    "reference": "Ele pretende fornecer informações de alta qualidade de forma eficiente.",
+    "generated": "O levantamento sísmica do Cabo Rebotado Azimuthal Full (FSAR) tem como principal objectivo mapear os recursos subaquáticos da plataforma continental costeira ao longo das costas brasileiras para fins geológicos/geofísicais específicos relacionados às alterações na temperatura superficial dos Oceanus Atlântico Sul durante um período prolongado devido aos efeitos globais causados pelas actividades humanas relacionadas nas últimas décadas.\n\nPara atingir este fim específico, FSRA utiliza uma técnica avançada chamada",
+    "metrics": {
+      "BERTScore_precision": 0.5821269750595093,
+      "BERTScore_recall": 0.6924597024917603,
+      "BERTScore_f1": 0.63251793384552,
+      "METEOR": 0.029411764705882356,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.02197802197802198,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.02197802197802198,
+      "ROUGE-Lsum": 0.02197802197802198,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2229802308943117,
+        "reason": "The Actual Output mentions mapping underwater resources and changes in ocean temperature, which heavily diverges from the Expected Output's goal of providing high-quality information efficiently. While there is some relevance to gathering data efficiently for geological purposes, the Actual Output contains notable deviations from the simplicity and focus of the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.2229802308943117
+  },
+  {
+    "id": 57,
+    "question": "No Brasil, onde estão localizados os campos de petróleo?",
+    "reference": "Em grandes profundidades.",
+    "generated": "No litoral brasileiro há vários locais que abrigam grandes reservas petrolíferas offshore (fora da terra). Os principais são o pré-sal no Mar do Sul/Sudeste; Campos Basin off Rio Grande Do Norte and Espírito Santo State na Costa Leste Brasileira ; Santos basin ao largo das cidades litorâneas como São Paulo, Guarujá /Santos  e Ubatuba.\n\nO campo Pré Sal é um dos maiores depósitos conhecidos globalmente para este recurso natural estratégico vital aos países",
+    "metrics": {
+      "BERTScore_precision": 0.5488619208335876,
+      "BERTScore_recall": 0.6866781115531921,
+      "BERTScore_f1": 0.6100837588310242,
+      "METEOR": 0.08695652173913045,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.023529411764705882,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.023529411764705882,
+      "ROUGE-Lsum": 0.023529411764705882,
+      "OverlapPrecision": 0.0136986301369863,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.02631578947368421
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output provides detailed locations of oil fields along the Brazilian coast, which is more specific than the Expected Output. However, it fails to mention the depth characteristic highlighted in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "id": 116,
+    "question": "Qual o interesse da Petrobras em levantamento artificial?",
+    "reference": "A Petrobras está estudando formas de exploração de gás em alto mar. O levantamento artificial é uma delas.",
+    "generated": "A Petrobrás tem um grande interés en el Levantamiento Artificial porque permite que la empresa explore y produzca petróleo de manera más eficiente desde las plataformas offshore brasileñas ubicadas frente al litoral del país sudamericano.\n\nEl Brasil tiene una extensa plataforma continental con grandes reservas petroleras subacuáticas, pero estas se encuentran principalmente bajo aguas profundas (más allá 10 metros) donde es difícil accederlas sin tecnología avanzada como los barcos especializados para perforación submarina llamados \"plataformas flotantes",
+    "metrics": {
+      "BERTScore_precision": 0.6488146185874939,
+      "BERTScore_recall": 0.7073812484741211,
+      "BERTScore_f1": 0.6768332719802856,
+      "METEOR": 0.07662835249042145,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07547169811320754,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.056603773584905655,
+      "ROUGE-Lsum": 0.056603773584905655,
+      "OverlapPrecision": 0.02631578947368421,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.0425531914893617
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.19411410170415705,
+        "reason": "The Actual Output is entirely in Spanish while the question and Expected Output are in Portuguese. It focuses on oil production efficiency from offshore platforms, contradicting the Expected Output, which mentions offshore gas exploration as the interest of Petrobras in artificial lifting."
+      }
+    },
+    "g_eval_avg": 0.19411410170415705
+  },
+  {
+    "id": 21,
+    "question": "O que o padrão de \"gradiente latitudinal\" descreve?",
+    "reference": "Uma redução no número de espécies do equador até os polos.",
+    "generated": "O gradientes longitudinais se referem ao fato da temperatura do oceano aumentar na direção dos trópicos (equador) para os polos no hemisfério norte ou sul; isso ocorre porque mais energia solar é absorvida por áreas próximas aos equadores devido às suas maiores inclinações solares durante todo ano comparadas nas regiões polares onde há menos luz direta disponível mesmo quando está claro fora como resultado das menores ângulos incidentes entre raios sol/terra.\n\n",
+    "metrics": {
+      "BERTScore_precision": 0.636644721031189,
+      "BERTScore_recall": 0.7506285309791565,
+      "BERTScore_f1": 0.6889539361000061,
+      "METEOR": 0.23299939283545842,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.13043478260869565,
+      "ROUGE-2": 0.022222222222222227,
+      "ROUGE-L": 0.10869565217391304,
+      "ROUGE-Lsum": 0.10869565217391304,
+      "OverlapPrecision": 0.04225352112676056,
+      "OverlapRecall": 0.2727272727272727,
+      "OverlapF1": 0.07317073170731707
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.07224326719136205,
+        "reason": "The Actual Output incorrectly describes a gradient longitudinal related to temperature, whereas the Expected Output correctly describes a latitudinal gradient related to species distribution. There is a complete mismatch in context and information."
+      }
+    },
+    "g_eval_avg": 0.07224326719136205
+  }
+]

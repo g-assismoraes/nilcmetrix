@@ -65,23 +65,34 @@ def compute_avg_std_for_group(reference_data, comparison_data, metrics_subset):
     """
 
     # 1) Compute distances for each text key
+    # Transformar a referência em lista ordenada de entradas
+    reference_entries = list(reference_data.values())
+    
+    # Garantir que todos os modelos tenham o mesmo número de entradas
+    num_entries = len(reference_entries)
+    
+    # Armazenar distâncias por modelo
     distances = {}
-    for text_key, ref_entry in reference_data.items():
-        # If reference has no metrics or they are empty, skip
-        if not ref_entry['metrics']:
+
+    for model_file, model_data in comparison_data.items():
+        model_entries = list(model_data.values())
+        
+        if len(model_entries) != num_entries:
+            print(f"[AVISO] Modelo {model_file} tem {len(model_entries)} entradas, esperado: {num_entries}")
+            distances[model_file] = [float('inf')]
             continue
 
-        for model_file, model_data in comparison_data.items():
-            # Make sure the same text_key exists & has metrics
-            if text_key in model_data and model_data[text_key]['metrics']:
-                dist_val = euclidean_distance(
-                    ref_entry['metrics'],
-                    model_data[text_key]['metrics'],
-                    metrics_subset
-                )
-                distances.setdefault(model_file, []).append(dist_val)
+        for ref_entry, comp_entry in zip(reference_entries, model_entries):
+            if not ref_entry['metrics'] or not comp_entry['metrics']:
+                continue
+            dist_val = euclidean_distance(
+                ref_entry['metrics'],
+                comp_entry['metrics'],
+                metrics_subset
+            )
+            distances.setdefault(model_file, []).append(dist_val)
 
-    # 2) Compute average and standard deviation per model
+    # Calcular média e desvio padrão por modelo
     average_distances = {}
     std_distances = {}
 
@@ -94,13 +105,6 @@ def compute_avg_std_for_group(reference_data, comparison_data, metrics_subset):
             average_distances[model_file] = mean_val
             std_distances[model_file] = std_val
         else:
-            # If no valid distances, we can mark as inf
-            average_distances[model_file] = float('inf')
-            std_distances[model_file] = float('inf')
-
-    # Also cover models that never appeared in 'distances'
-    for model_file in comparison_data.keys():
-        if model_file not in average_distances:
             average_distances[model_file] = float('inf')
             std_distances[model_file] = float('inf')
 
@@ -111,16 +115,16 @@ def compute_avg_std_for_group(reference_data, comparison_data, metrics_subset):
 
 # List of JSON filenames
 json_filenames = [
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\recogna_reference.json", 
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\bode_318B_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\boto_gemma_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\cabra_llama8b_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\gpt_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\gptmini_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\piriquito_ollama_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\fauna\pira\\sabia_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\fauna\pira\\sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    "C:\\Users\\gabri\\Documents\\GitHub\\nilcmetrix\\fauna\\pira\\fauna\pira\\fauna\pira\\tucano_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    "sabiazinho_pira_reference.json", 
+    #"bode_318B_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    # "boto_gemma_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    # "cabra_llama8b_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    # "gpt_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    # "gptmini_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    # "piriquito_ollama_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    # "sabia_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
+     "sabiazinho_pira_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    #"tucano_pira_r2_evaluate_percentiles_geeval_metrics_generated.json",
 ]
 
 # 1) Load all JSON data

@@ -1,0 +1,542 @@
+[
+  {
+    "question": "Quem são as pessoas que mais se beneficiam da alimentação baseada em peixes?",
+    "reference": "Pessoas pobres rurais",
+    "generated": "As pessoas que mais se beneficiam da alimentação baseada em peixes incluem comunidades costeiras e ribeirinhas, que dependem da pesca como fonte principal de proteína e sustento. Além disso, populações em países em desenvolvimento, onde o peixe é uma parte essencial da dieta, e consumidores em geral que buscam uma alimentação saudável e rica em ômega-3 também se beneficiam. A pesca sustentável pode contribuir para a segurança alimentar e a economia local.",
+    "metrics": {
+      "BERTScore_precision": 0.5586627721786499,
+      "BERTScore_recall": 0.6335170865058899,
+      "BERTScore_f1": 0.593739926815033,
+      "METEOR": 0.04716981132075472,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.023529411764705882,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.023529411764705882,
+      "ROUGE-Lsum": 0.023529411764705882,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output expands on communities that benefit from fish-based diets, partially aligning with the Expected Output's focus on rural poor. However, it includes additional details not present in the Expected Output, like consumers seeking omega-3 and sustainable fishing for economic benefits, which dilute the intended focal point on rural poverty."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "Qual foi o resultado do teste da valvula de baixo cisalhamento?",
+    "reference": "Ela apresentou pelo menos um leve benefício, permitindo ter melhor qualidade da água após sedimentação.",
+    "generated": "O teste da válvula de baixo cisalhamento geralmente se refere a um procedimento técnico em engenharia, especialmente em contextos de fluidos e mecânica de solos. No entanto, sem um contexto específico sobre qual teste ou aplicação você está se referindo, não posso fornecer uma resposta precisa. Se você puder fornecer mais detalhes sobre o teste ou o contexto em que ele foi realizado, ficarei feliz em ajudar!",
+    "metrics": {
+      "BERTScore_precision": 0.6136175990104675,
+      "BERTScore_recall": 0.6730483174324036,
+      "BERTScore_f1": 0.6419604420661926,
+      "METEOR": 0.0881057268722467,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.06593406593406594,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.04395604395604396,
+      "ROUGE-Lsum": 0.04395604395604396,
+      "OverlapPrecision": 0.029850746268656716,
+      "OverlapRecall": 0.13333333333333333,
+      "OverlapF1": 0.048780487804878044
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output does not provide specific information about the test results like the Expected Output does. It lacks details on the test's outcome, such as the valve's benefits. It offers general information about valve tests without addressing the specific result required."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "question": "Quais são as medidas de segurança utilizadas se o Drill-Stem Test é realizado em alto mar?",
+    "reference": "Para fazer esse teste é necessário utilizar um equipamento de segurança que é colocado dentro de um preventor de explosão, o BOP, com o objetivo de manter o poço sob controle",
+    "generated": "As medidas de segurança utilizadas durante o Drill-Stem Test (DST) em alto mar incluem:\n\n1. **Equipamentos de segurança**: Utilização de sistemas de controle de pressão e válvulas de segurança para evitar vazamentos.\n\n2. **Monitoramento contínuo**: Implementação de sistemas de monitoramento em tempo real para detectar variações de pressão e temperatura.\n\n3. **Treinamento da equipe**: Capacitação da equipe para lidar com emergências e procedimentos de evacuação.\n\n",
+    "metrics": {
+      "BERTScore_precision": 0.6428594589233398,
+      "BERTScore_recall": 0.6974675059318542,
+      "BERTScore_f1": 0.6690510511398315,
+      "METEOR": 0.14248704663212433,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.25,
+      "ROUGE-2": 0.03636363636363637,
+      "ROUGE-L": 0.17857142857142858,
+      "ROUGE-Lsum": 0.17857142857142858,
+      "OverlapPrecision": 0.07692307692307693,
+      "OverlapRecall": 0.16129032258064516,
+      "OverlapF1": 0.10416666666666667
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "Actual Output discusses relevant safety measures such as pressure control, monitoring, and team training, but omits specific mention of the BOP, which is crucial in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "O que pode acontecer se a principal barreira de segurança falhar?",
+    "reference": "Falha pode iniciar imediatamente eventos de ganhos e perdas no poço, com impacto direto na segurança do processo.",
+    "generated": "Se a principal barreira de segurança falhar, pode ocorrer a inundação de áreas costeiras, resultando em perda de habitat, danos a infraestruturas e deslocamento de comunidades. Além disso, a salinização de fontes de água doce e a degradação de ecossistemas marinhos, como manguezais e recifes de corais, podem ser intensificadas. As mudanças climáticas, como o aumento do nível do mar e eventos climáticos extremos, podem agr",
+    "metrics": {
+      "BERTScore_precision": 0.6591252088546753,
+      "BERTScore_recall": 0.7049891948699951,
+      "BERTScore_f1": 0.6812861561775208,
+      "METEOR": 0.17578125000000003,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.16842105263157894,
+      "ROUGE-2": 0.021505376344086023,
+      "ROUGE-L": 0.12631578947368421,
+      "ROUGE-Lsum": 0.12631578947368421,
+      "OverlapPrecision": 0.09090909090909091,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.14285714285714288
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "A Resposta Atual foca em consequências ambientais de falhas de barreiras de segurança, enquanto a Esperada está especificamente relacionada a impactos imediatos na segurança do processo, revelando discrepâncias semânticas significativas."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "O que a Petrobras teve que fazer para manter o ritmo de desenvolvimento dos recursos petrolíferos offshore do Brasil?",
+    "reference": "Eles tiveram que aumentar o orçamento em 63%.",
+    "generated": "A Petrobras teve que investir em tecnologias avançadas de exploração e produção, como plataformas de perfuração em águas profundas e ultraprofundas, além de desenvolver projetos de sustentabilidade para minimizar os impactos ambientais. A empresa também precisou adaptar suas operações às mudanças climáticas, implementando medidas de mitigação e adaptação, e fortalecer a segurança operacional para lidar com os desafios impostos por condições climáticas extremas e a elevação do nível do mar. Além disso, a Petrobras buscou parcerias e investimentos",
+    "metrics": {
+      "BERTScore_precision": 0.5826897025108337,
+      "BERTScore_recall": 0.6985801458358765,
+      "BERTScore_f1": 0.6353938579559326,
+      "METEOR": 0.11428571428571432,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.057692307692307696,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.057692307692307696,
+      "ROUGE-Lsum": 0.057692307692307696,
+      "OverlapPrecision": 0.02564102564102564,
+      "OverlapRecall": 0.25,
+      "OverlapF1": 0.04651162790697674
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output mentions investments in technology, sustainability, and partnerships, which relate to development efforts, but it does not address the specific budget increase of 63% mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "O que formou a Elevação Do Rio Grande?",
+    "reference": "Uma atividade vulcânica Aptiana no Atlântico Sul",
+    "generated": "A Elevação do Rio Grande é uma estrutura geológica submarina formada principalmente por processos tectônicos, relacionados à atividade das placas tectônicas na região. Ela se localiza na plataforma continental do Brasil, próxima à costa do estado do Rio Grande do Sul. A formação dessa elevação está associada à atividade vulcânica e ao levantamento do fundo oceânico, resultando em um relevo submarino que influencia a dinâmica das correntes oceânicas e a biodiversidade local. Além disso, as",
+    "metrics": {
+      "BERTScore_precision": 0.6381654739379883,
+      "BERTScore_recall": 0.7071533799171448,
+      "BERTScore_f1": 0.6708905696868896,
+      "METEOR": 0.21767241379310348,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1075268817204301,
+      "ROUGE-2": 0.04395604395604395,
+      "ROUGE-L": 0.08602150537634409,
+      "ROUGE-Lsum": 0.08602150537634409,
+      "OverlapPrecision": 0.02666666666666667,
+      "OverlapRecall": 0.2857142857142857,
+      "OverlapF1": 0.04878048780487805
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.33055809937621217,
+        "reason": "The Actual Output correctly identifies tectonic activity and volcanic influences similar to the Expected Output, but includes additional details and some geographic information not specified in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.33055809937621217
+  },
+  {
+    "question": "Por que espécies de algas marinhas tolerantes a águas mornas estão substituindo aquelas intolerantes a águas mornas?",
+    "reference": "Por causa da crescente temperatura das águas marinhas.",
+    "generated": "Espécies de algas marinhas tolerantes a águas mornas estão substituindo aquelas intolerantes devido ao aumento da temperatura das águas oceânicas, resultado das mudanças climáticas. Esse aquecimento altera as condições ambientais, favorecendo as algas que conseguem se adaptar a temperaturas mais altas, enquanto as espécies menos tolerantes enfrentam estresse, redução na reprodução e eventual extinção local. Essa mudança pode impactar ecossistemas marinhos, afetando a biodiversidade e as cadeias",
+    "metrics": {
+      "BERTScore_precision": 0.6453187465667725,
+      "BERTScore_recall": 0.7811111807823181,
+      "BERTScore_f1": 0.7067514061927795,
+      "METEOR": 0.19354838709677422,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.11627906976744184,
+      "ROUGE-2": 0.04761904761904762,
+      "ROUGE-L": 0.09302325581395347,
+      "ROUGE-Lsum": 0.09302325581395347,
+      "OverlapPrecision": 0.05970149253731343,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.10666666666666667
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "The Actual Output is mostly correct, detailing why warm-water-tolerant algae are replacing intolerant ones due to rising ocean temperatures from climate change, aligning with the Expected Output. However, it goes beyond the concise explanation by including additional context on ecological impacts."
+      }
+    },
+    "g_eval_avg": 0.4
+  },
+  {
+    "question": "Por que as amostras do manguezal do rio Tavares, em Ubatuba, apresentam maiores níveis de concentração de elementos de terras raras?",
+    "reference": "O motivo provável se deve à posição geográfica central do rio Tavares, em Ubatuba, que atravessa grande parte da cidade e recebe grande quantidade de esgoto.",
+    "generated": "As amostras do manguezal do rio Tavares, em Ubatuba, apresentam maiores níveis de concentração de elementos de terras raras devido a fatores como a influência de atividades humanas, como a mineração e a agricultura, que podem liberar esses elementos no ambiente. Além disso, os manguezais atuam como filtros naturais, acumulando sedimentos e poluentes, incluindo elementos de terras raras, que são frequentemente encontrados em rochas e solos. A dinâmica das marés e a",
+    "metrics": {
+      "BERTScore_precision": 0.6732380390167236,
+      "BERTScore_recall": 0.7139042615890503,
+      "BERTScore_f1": 0.6929750442504883,
+      "METEOR": 0.29275277312953923,
+      "BLEU": 0.07782626577453677,
+      "ROUGE-1": 0.18518518518518517,
+      "ROUGE-2": 0.07547169811320754,
+      "ROUGE-L": 0.14814814814814817,
+      "ROUGE-Lsum": 0.14814814814814817,
+      "OverlapPrecision": 0.1111111111111111,
+      "OverlapRecall": 0.3076923076923077,
+      "OverlapF1": 0.163265306122449
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output suggests human activities like mining and agriculture influence rare earth elements, while the Expected Output highlights geographical factors and sewage input. Both discuss sources of contamination, but they point to different causes."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "question": "Onde será usado o HPME?",
+    "reference": "Em projetos desenvolvidos no Golfo do México.",
+    "generated": "O HPME (High-Performance Marine Energy) será usado em diversas aplicações relacionadas à energia marinha, como na geração de energia a partir de ondas e correntes oceânicas. No contexto da costa brasileira, pode ser utilizado para aproveitar o potencial energético das ondas do Atlântico, contribuindo para a matriz energética do país e ajudando a mitigar os efeitos das mudanças climáticas ao reduzir a dependência de combustíveis fósseis.",
+    "metrics": {
+      "BERTScore_precision": 0.622222363948822,
+      "BERTScore_recall": 0.7393990755081177,
+      "BERTScore_f1": 0.6757688522338867,
+      "METEOR": 0.13793103448275865,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.06976744186046513,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.06976744186046513,
+      "ROUGE-Lsum": 0.06976744186046513,
+      "OverlapPrecision": 0.015151515151515152,
+      "OverlapRecall": 0.14285714285714285,
+      "OverlapF1": 0.027397260273972608
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The actual output addresses the use of HPME in marine energy applications and specifically in the context of the Brazilian coast, while the expected output specifies its use in projects in the Gulf of Mexico. The area of application differs significantly, making the response semantically incorrect."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "O que aconteceu com o número de licenças de exploração para mineração do fundo do mar desde 2015?",
+    "reference": "O número de licença teve um aumento notável",
+    "generated": "Desde 2015, o número de licenças de exploração para mineração do fundo do mar no Brasil tem aumentado. Isso se deve ao crescente interesse por recursos minerais submarinos, como metais raros e minerais estratégicos, impulsionado pela demanda global e pela busca por alternativas sustentáveis. No entanto, esse aumento também levanta preocupações ambientais, especialmente em relação aos impactos sobre os ecossistemas marinhos e à biodiversidade.",
+    "metrics": {
+      "BERTScore_precision": 0.6048023700714111,
+      "BERTScore_recall": 0.7615534067153931,
+      "BERTScore_f1": 0.6741865277290344,
+      "METEOR": 0.25833333333333336,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.14457831325301204,
+      "ROUGE-2": 0.09876543209876544,
+      "ROUGE-L": 0.14457831325301204,
+      "ROUGE-Lsum": 0.14457831325301204,
+      "OverlapPrecision": 0.046875,
+      "OverlapRecall": 0.375,
+      "OverlapF1": 0.08333333333333333
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.5983065062652847,
+        "reason": "The Actual Output accurately states that the number of licenses has increased since 2015, aligning with the Expected Output. It adds context about why this increase happened, mentioning global demand and potential environmental concerns, which is additional but relevant information."
+      }
+    },
+    "g_eval_avg": 0.5983065062652847
+  },
+  {
+    "question": "Qual a capacidade produtiva do campo Manati?",
+    "reference": "4,5 milhões de m³",
+    "generated": "O campo de Manati, localizado na costa da Bahia, Brasil, tem uma capacidade produtiva de aproximadamente 1,5 milhões de metros cúbicos de gás natural por dia. Este campo é uma importante fonte de gás para o suprimento energético da região.",
+    "metrics": {
+      "BERTScore_precision": 0.5823937654495239,
+      "BERTScore_recall": 0.7661858797073364,
+      "BERTScore_f1": 0.6617656946182251,
+      "METEOR": 0.1234567901234568,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15384615384615383,
+      "ROUGE-2": 0.12000000000000001,
+      "ROUGE-L": 0.15384615384615383,
+      "ROUGE-Lsum": 0.15384615384615383,
+      "OverlapPrecision": 0.05,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.09090909090909091
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output states a production capacity of 1.5 million m³ per day, contradicting the Expected Output of 4.5 million m³."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "Por que a Reserva Extrativista Marinha de Soure foi criada?",
+    "reference": "Para proteger a biodiversidade do Arquipélago do Marajó e garantir a sustentabilidade dos seus ecossistemas",
+    "generated": "A Reserva Extrativista Marinha de Soure foi criada para proteger os recursos naturais e garantir a sustentabilidade das atividades pesqueiras e extrativistas da comunidade local. A criação da reserva visa preservar a biodiversidade marinha, promover a conservação dos ecossistemas costeiros e assegurar a subsistência das populações que dependem do mar, especialmente em um contexto de mudanças climáticas que ameaçam esses ambientes.",
+    "metrics": {
+      "BERTScore_precision": 0.713392436504364,
+      "BERTScore_recall": 0.8161922693252563,
+      "BERTScore_f1": 0.7613378763198853,
+      "METEOR": 0.3433884297520661,
+      "BLEU": 0.04710490197351326,
+      "ROUGE-1": 0.2619047619047619,
+      "ROUGE-2": 0.12195121951219512,
+      "ROUGE-L": 0.19047619047619047,
+      "ROUGE-Lsum": 0.19047619047619047,
+      "OverlapPrecision": 0.14754098360655737,
+      "OverlapRecall": 0.6,
+      "OverlapF1": 0.23684210526315788
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "The Actual Output accurately describes the primary purpose of protecting biodiversity and sustainability which aligns with the Expected Output, but includes additional context about community benefits which are not mentioned in Expected Output."
+      }
+    },
+    "g_eval_avg": 0.4
+  },
+  {
+    "question": "Quais aprimoramentos precisam ser feitos para se atingir um completo inventário das espécies de peixes do oceano ?",
+    "reference": "Aprimoramentos na infraestrutura taxonômica e biossistemática, e na exploração e na caracterização dos oceanos.",
+    "generated": "Para atingir um completo inventário das espécies de peixes do oceano, os seguintes aprimoramentos são necessários:\n\n1. **Aumento da pesquisa científica**: Investir em expedições oceanográficas e estudos em áreas pouco exploradas, como as profundezas e regiões remotas.\n\n2. **Tecnologia avançada**: Utilizar tecnologias como drones subaquáticos, sensores e inteligência artificial para monitorar e catalogar espécies de forma mais eficiente.\n\n3. **Colaboração internacional**",
+    "metrics": {
+      "BERTScore_precision": 0.6508358120918274,
+      "BERTScore_recall": 0.7346312403678894,
+      "BERTScore_f1": 0.6901994943618774,
+      "METEOR": 0.2333470394736842,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.13043478260869568,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.10869565217391305,
+      "ROUGE-Lsum": 0.08695652173913043,
+      "OverlapPrecision": 0.01639344262295082,
+      "OverlapRecall": 0.07142857142857142,
+      "OverlapF1": 0.026666666666666665
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "The actual output is semantically similar as it lists enhancements like scientific research, advanced technology, and international collaboration which relate to infrastructure, exploration, and characterization efforts in the expected output. However, it lacks explicit mention of taxonomy and biosystematics. The output is coherent and relevant to the query."
+      }
+    },
+    "g_eval_avg": 0.4
+  },
+  {
+    "question": "Por que em algumas regiões o nível do mar irá diminuir e em outras irá aumentar?",
+    "reference": "Porque ele é influenciado por fatores naturais, como a variabilidade de ventos e correntes, e perturbações humanas",
+    "generated": "O nível do mar pode variar em diferentes regiões devido a fatores como a dinâmica das correntes oceânicas, a subsidência ou elevação do solo, a temperatura da água e a salinidade. Em algumas áreas, como regiões costeiras que estão se elevando devido a atividade tectônica, o nível do mar pode parecer diminuir. Em contrapartida, em áreas onde há subsidência ou onde as temperaturas estão aumentando, o nível do mar pode aumentar devido à expansão térmica da água e",
+    "metrics": {
+      "BERTScore_precision": 0.6772789359092712,
+      "BERTScore_recall": 0.7305366396903992,
+      "BERTScore_f1": 0.7029004096984863,
+      "METEOR": 0.1556420233463035,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12844036697247707,
+      "ROUGE-2": 0.01869158878504673,
+      "ROUGE-L": 0.11009174311926605,
+      "ROUGE-Lsum": 0.11009174311926605,
+      "OverlapPrecision": 0.05128205128205128,
+      "OverlapRecall": 0.23529411764705882,
+      "OverlapF1": 0.08421052631578947
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.7,
+        "reason": "The Actual Output covers natural factors affecting sea level changes, aligning with the Expected Output's mention of variability of winds and currents. However, there is less emphasis on human disturbances, creating a slight misalignment."
+      }
+    },
+    "g_eval_avg": 0.7
+  },
+  {
+    "question": "Qual foi a conclusão sobre o estudo dos molhes curvos que estava sendo programado para ser instalado no porto de Santos?",
+    "reference": "o layout dos molhes deste estudo conseguiriam manter a profundidade de acesso do canal, porém com um volume de dragagem muito menor do que o do sistema atual.",
+    "generated": "A conclusão sobre o estudo dos molhes curvos programados para o porto de Santos indicou que a instalação poderia ter impactos negativos significativos no ambiente marinho e na dinâmica sedimentar da região. O projeto foi questionado devido a preocupações relacionadas à erosão costeira, alterações nos ecossistemas locais e possíveis efeitos adversos nas comunidades de pesca. As análises sugeriram a necessidade de considerar alternativas mais sustentáveis para o desenvolvimento portuário, levando em conta as mudanças climáticas e",
+    "metrics": {
+      "BERTScore_precision": 0.6511038541793823,
+      "BERTScore_recall": 0.7142771482467651,
+      "BERTScore_f1": 0.6812290549278259,
+      "METEOR": 0.1962219598583235,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15384615384615385,
+      "ROUGE-2": 0.017391304347826087,
+      "ROUGE-L": 0.11965811965811965,
+      "ROUGE-Lsum": 0.11965811965811965,
+      "OverlapPrecision": 0.09210526315789473,
+      "OverlapRecall": 0.25,
+      "OverlapF1": 0.1346153846153846
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output focuses on environmental impacts and negative aspects, which contrasts with the Expected Output that highlights benefits in reducing dredging volume while maintaining channel depth."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "Do que é constituído o núcleo do sistema de produção ETH-IPB?",
+    "reference": "O núcleo do ETH-IPB é um tubo flexível de 6 ID dedicado ao fluido de produção",
+    "generated": "O núcleo do sistema de produção ETH-IPB é constituído por um conjunto de práticas e tecnologias que visam promover a sustentabilidade e a eficiência na produção agrícola, integrando aspectos econômicos, sociais e ambientais. Isso inclui o uso de técnicas de manejo sustentável, conservação de recursos naturais e adaptação às mudanças climáticas.",
+    "metrics": {
+      "BERTScore_precision": 0.659573495388031,
+      "BERTScore_recall": 0.7750014066696167,
+      "BERTScore_f1": 0.7126437425613403,
+      "METEOR": 0.34413580246913583,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.2857142857142857,
+      "ROUGE-2": 0.14634146341463417,
+      "ROUGE-L": 0.2380952380952381,
+      "ROUGE-Lsum": 0.2380952380952381,
+      "OverlapPrecision": 0.1568627450980392,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.23880597014925373
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output describes practices and technologies for sustainable agriculture, which does not align semantically with the Expected Output that specifies a physical component, a flexible tube for production fluid."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "Como podemos mapear com sucesso sistemas de hidrato de gás natural?",
+    "reference": "Usando um método eletromagnético de fonte controlada.",
+    "generated": "Para mapear com sucesso sistemas de hidrato de gás natural, podemos adotar as seguintes abordagens:\n\n1. **Sensoriamento Remoto**: Utilizar imagens de satélite e técnicas de radar para identificar áreas potenciais de hidratos.\n\n2. **Geofísica Marinha**: Aplicar métodos como sísmica de reflexão e refração para investigar a estrutura do subsolo marinho e localizar depósitos de hidratos.\n\n3. **Perfurações e Amostragens**",
+    "metrics": {
+      "BERTScore_precision": 0.5985071659088135,
+      "BERTScore_recall": 0.6805346012115479,
+      "BERTScore_f1": 0.6368905901908875,
+      "METEOR": 0.09868421052631579,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.05128205128205128,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05128205128205128,
+      "ROUGE-Lsum": 0.05128205128205128,
+      "OverlapPrecision": 0.01694915254237288,
+      "OverlapRecall": 0.14285714285714285,
+      "OverlapF1": 0.030303030303030297
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2642606120765352,
+        "reason": "The actual output includes relevant methods like sensoriamento remoto and geofísica marinha, but it misses highlighting the specific 'método eletromagnético de fonte controlada' mentioned in the expected output."
+      }
+    },
+    "g_eval_avg": 0.2642606120765352
+  },
+  {
+    "question": "A produção de petróleo na bacia de Campos nos primeiros 4 meses de 2004 representam quanto da produção do país?",
+    "reference": "Aproximadamente 80%",
+    "generated": "Nos primeiros 4 meses de 2004, a produção de petróleo na bacia de Campos representou cerca de 80% da produção total de petróleo do Brasil.",
+    "metrics": {
+      "BERTScore_precision": 0.6081925630569458,
+      "BERTScore_recall": 0.6635686159133911,
+      "BERTScore_f1": 0.6346749663352966,
+      "METEOR": 0.340909090909091,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.06451612903225806,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.06451612903225806,
+      "ROUGE-Lsum": 0.06451612903225806,
+      "OverlapPrecision": 0.04,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.07407407407407407
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.9,
+        "reason": "The Actual Output closely matches the Expected Output by stating that production in the bacia de Campos accounted for about 80% of the country's total production, but includes additional context about location and timeframe not specified in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.9
+  },
+  {
+    "question": "O que é abordagem de ecossistema (no escopo de gestão de oceano)?",
+    "reference": "Gestão ambiental, social e econômica das interações humanas com os oceanos e as costas em vários níveis (transfronteiriço, regional, nacional e local)",
+    "generated": "A abordagem de ecossistema na gestão de oceanos refere-se a um método que considera as interações entre os componentes bióticos (organismos vivos) e abióticos (fatores físicos e químicos) de um ecossistema marinho. Essa abordagem busca integrar a conservação da biodiversidade, o uso sustentável dos recursos marinhos e a mitigação dos impactos das mudanças climáticas. Ela enfatiza a importância de entender os ecossistemas como um todo, promovendo a gestão integrada que",
+    "metrics": {
+      "BERTScore_precision": 0.6729941964149475,
+      "BERTScore_recall": 0.6768096685409546,
+      "BERTScore_f1": 0.6748965382575989,
+      "METEOR": 0.20249221183800623,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.21238938053097345,
+      "ROUGE-2": 0.036036036036036036,
+      "ROUGE-L": 0.1415929203539823,
+      "ROUGE-Lsum": 0.1415929203539823,
+      "OverlapPrecision": 0.08571428571428572,
+      "OverlapRecall": 0.2727272727272727,
+      "OverlapF1": 0.13043478260869562
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4822791931725807,
+        "reason": "The Actual Output describes the ecosystem approach in ocean management with emphasis on biotic and abiotic factors and sustainability, aligning partly with the Expected Output's focus on environmental governance. However, it lacks specific mention of human interaction management across various levels (transboundary, regional, national, local) mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.4822791931725807
+  },
+  {
+    "question": "Com base em avaliações de conservação avaliadas pela União Internacional para Conservação da Natureza (UICN), qual é a porcentagem de elasmobrânquios ameaçados ou quase ameaçados de extinção?",
+    "reference": "De acordo com as avaliações de conservação, quase 50 por cento dos elasmobrânquios estão ameaçados ou quase ameaçados de extinção.",
+    "generated": "Cerca de 37% dos elasmobrânquios (tubarões e raias) estão ameaçados ou quase ameaçados de extinção, de acordo com avaliações da União Internacional para Conservação da Natureza (UICN).",
+    "metrics": {
+      "BERTScore_precision": 0.8191136121749878,
+      "BERTScore_recall": 0.9097124934196472,
+      "BERTScore_f1": 0.8620392084121704,
+      "METEOR": 0.6335013721512947,
+      "BLEU": 0.2154897801937284,
+      "ROUGE-1": 0.6984126984126984,
+      "ROUGE-2": 0.5245901639344263,
+      "ROUGE-L": 0.4761904761904762,
+      "ROUGE-Lsum": 0.4761904761904762,
+      "OverlapPrecision": 0.37037037037037035,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.425531914893617
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "The Actual Output states that 37% of elasmobrânquios are at risk, whereas the Expected Output mentions nearly 50%, showing a factual discrepancy; however, both outputs refer to the same evaluation context by UICN, keeping relevance intact."
+      }
+    },
+    "g_eval_avg": 0.4
+  }
+]

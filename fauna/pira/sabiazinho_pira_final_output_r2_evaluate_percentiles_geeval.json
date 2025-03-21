@@ -1,0 +1,542 @@
+[
+  {
+    "question": "Onde a coquina espessa foi depositada durante os primeiros estágios da abertura do Oceano Atlântico Sul, no Cretáceo Inferior?",
+    "reference": "Em uma série de bacias de fendas lacustres que se formaram ao longo da Margem Continental Brasileira.",
+    "generated": "A coquina espessa foi depositada na região da plataforma continental da costa brasileira durante os primeiros estágios da abertura do Oceano Atlântico Sul, no Cretáceo Inferior.",
+    "metrics": {
+      "BERTScore_precision": 0.6971091628074646,
+      "BERTScore_recall": 0.7342286109924316,
+      "BERTScore_f1": 0.7151875495910645,
+      "METEOR": 0.10526315789473684,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.125,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.125,
+      "ROUGE-Lsum": 0.125,
+      "OverlapPrecision": 0.038461538461538464,
+      "OverlapRecall": 0.058823529411764705,
+      "OverlapF1": 0.04651162790697675
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "Actual Output mentions 'plataforma continental da costa brasileira,' while Expected Output specifies 'bacias de fendas lacustres' along the 'Margem Continental Brasileira,' indicating some semantic overlap but incorrect and incomplete geographical detail."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "O que acontece com a produtividade de uma unidade flutuante de armazenamento e transferência quando o olho a ser processado é de alta viscosidade?",
+    "reference": "A produtividade é diminuída.",
+    "generated": "A produtividade de uma unidade flutuante de armazenamento e transferência (FPSO) pode ser afetada pela viscosidade do óleo a ser processado. Se o óleo tem alta viscosidade, isso pode resultar em uma menor taxa de escoamento e, consequentemente, na redução da capacidade de processamento da unidade. Isso ocorre porque a viscosidade do óleo influencia a eficiência",
+    "metrics": {
+      "BERTScore_precision": 0.6283608675003052,
+      "BERTScore_recall": 0.7490549087524414,
+      "BERTScore_f1": 0.6834200620651245,
+      "METEOR": 0.1388888888888889,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.09523809523809525,
+      "ROUGE-2": 0.03278688524590164,
+      "ROUGE-L": 0.09523809523809525,
+      "ROUGE-Lsum": 0.09523809523809525,
+      "OverlapPrecision": 0.03571428571428571,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.06666666666666667
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.8,
+        "reason": "A 'Actual Output' aborda a razão específica pela qual a produtividade é diminuída, mencionando a viscosidade do óleo, compatível com 'Expected Output'. No entanto, inclui explicações adicionais não presentes no 'Expected Output'."
+      }
+    },
+    "g_eval_avg": 0.8
+  },
+  {
+    "question": "Por que o sal grosso garante uma impermeabilidade excelente contra a maioria dos fluidos e gases, até mesmo sobre pressão, comparado com outros geomateriais?",
+    "reference": "Porque o sal grosso possui uma porosidade insignificante",
+    "generated": "O sal grosso, ou halita, é uma forma de sal que possui uma estrutura cristalina bem definida, composta principalmente de cloreto de sódio (NaCl). Essa estrutura cristalina é o que confere ao sal grosso sua excelente impermeabilidade contra a maioria dos fluidos e gases, mesmo sob pressão. Quando os cristais de sal são compactados, as forças intermoleculares entre os íons s",
+    "metrics": {
+      "BERTScore_precision": 0.6374972462654114,
+      "BERTScore_recall": 0.7042229771614075,
+      "BERTScore_f1": 0.6692009568214417,
+      "METEOR": 0.2619718309859155,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.14084507042253522,
+      "ROUGE-2": 0.08695652173913042,
+      "ROUGE-L": 0.14084507042253522,
+      "ROUGE-Lsum": 0.14084507042253522,
+      "OverlapPrecision": 0.08196721311475409,
+      "OverlapRecall": 0.625,
+      "OverlapF1": 0.14492753623188404
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.35784402810490806,
+        "reason": "The Actual Output correctly identifies the structure and composition of rock salt as factors for its impermeability, aligning with the Expected Output's mention of porosity. However, it is more detailed than necessary and omits a direct mention of porosity."
+      }
+    },
+    "g_eval_avg": 0.35784402810490806
+  },
+  {
+    "question": "A quais tipos de eventos e condições naturais o sistema SSVBES está sujeito?",
+    "reference": "A diversos tipos de ações climáticas, como por exemplo marés, ventos, tempestades e escoamento de rios",
+    "generated": "O sistema SSVBES (Sistema de Satélite para Vigilância da Bacia do Atlântico Sul e Equatorial) está sujeito a diversos tipos de eventos e condições naturais, incluindo:\n\n1. **Variações Climáticas**: O sistema pode ser afetado por mudanças climáticas locais e globais, que podem alterar padrões de chuva, temperatura e correntes oceânicas.\n\n2. **At",
+    "metrics": {
+      "BERTScore_precision": 0.6280368566513062,
+      "BERTScore_recall": 0.7468264102935791,
+      "BERTScore_f1": 0.6822999119758606,
+      "METEOR": 0.3717279297347765,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.2469135802469136,
+      "ROUGE-2": 0.12658227848101267,
+      "ROUGE-L": 0.2469135802469136,
+      "ROUGE-Lsum": 0.2469135802469136,
+      "OverlapPrecision": 0.09615384615384616,
+      "OverlapRecall": 0.3125,
+      "OverlapF1": 0.14705882352941177
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4889906964266217,
+        "reason": "The Actual Output mentions 'variações climáticas' broadly, which partially aligns with the Expected Output's specifics like 'marés, ventos, tempestades e escoamento de rios', but lacks direct mention of these specific elements."
+      }
+    },
+    "g_eval_avg": 0.4889906964266217
+  },
+  {
+    "question": "O que foi considerado para avaliar a capacidade do modelo?",
+    "reference": "Consideramos uma região de estuário no Brasil.",
+    "generated": "A capacidade do modelo foi avaliada com base em seu desempenho em tarefas de compreensão e geração de texto, considerando seu conhecimento geral sobre oceanos, a costa brasileira e as mudanças climáticas. Isso incluiu a verificação de sua habilidade em processar e gerar informações relevantes e precisas sobre esses tópicos, bem como sua capacidade de responder a perguntas complexas e inter",
+    "metrics": {
+      "BERTScore_precision": 0.5888150930404663,
+      "BERTScore_recall": 0.673987865447998,
+      "BERTScore_f1": 0.6285291314125061,
+      "METEOR": 0.07299270072992702,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.051948051948051945,
+      "ROUGE-2": 0.02666666666666667,
+      "ROUGE-L": 0.051948051948051945,
+      "ROUGE-Lsum": 0.051948051948051945,
+      "OverlapPrecision": 0.01639344262295082,
+      "OverlapRecall": 0.14285714285714285,
+      "OverlapF1": 0.029411764705882356
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "Actual Output and Expected Output are completely different; one focuses on model evaluation criteria, the other on a geographic region in Brazil."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "A mudança de salinidade nos oceanos é uma evidência convincente do quê?",
+    "reference": "Evidencia a alteração do ciclo de água do oceano global em um período coincidente com seu aquecimento.",
+    "generated": "A mudança de salinidade nos oceanos é uma evidência convincente das alterações na circulação oceânica, que podem ser causadas por mudanças climáticas. Essas alterações na circulação oceânica podem, por sua vez, influenciar o clima global e regional, incluindo o comportamento de correntes marinhas que afetam a costa brasileira.",
+    "metrics": {
+      "BERTScore_precision": 0.6919142007827759,
+      "BERTScore_recall": 0.7372791767120361,
+      "BERTScore_f1": 0.7138767242431641,
+      "METEOR": 0.11574074074074076,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.13157894736842105,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.10526315789473684,
+      "ROUGE-Lsum": 0.10526315789473684,
+      "OverlapPrecision": 0.0625,
+      "OverlapRecall": 0.17647058823529413,
+      "OverlapF1": 0.09230769230769231
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.5,
+        "reason": "Actual Output relates ocean salinity changes to climate-induced alterations in ocean circulation, which is relevant yet not directly mentioned in the Expected Output. Expected Output focuses on changes in the global water cycle coinciding with ocean warming; despite some overlapping themes, there are discrepancies."
+      }
+    },
+    "g_eval_avg": 0.5
+  },
+  {
+    "question": "O que é SAASS e para que foi desenvolvida?",
+    "reference": "SAASS é um sistema autônomo de aquisição de sinais de submarinos. Foi desenvolvido para atender às necessidades de um programa de monitoramento acústico da Petrobrás.",
+    "generated": "SAASS é a sigla para \"Sistema de Acompanhamento e Alerta de Sobrelevação de Águas na Superfície\". Foi desenvolvida para monitorar e prever eventos de maré alta e inundações costeiras, especialmente em áreas urbanas, com o objetivo de mitigar riscos e prevenir danos causados por tais eventos, que podem ser agravados pelas mudanças climáticas.",
+    "metrics": {
+      "BERTScore_precision": 0.6702646017074585,
+      "BERTScore_recall": 0.7235406041145325,
+      "BERTScore_f1": 0.6958844065666199,
+      "METEOR": 0.28144481114778147,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.23529411764705885,
+      "ROUGE-2": 0.024096385542168676,
+      "ROUGE-L": 0.21176470588235294,
+      "ROUGE-Lsum": 0.21176470588235294,
+      "OverlapPrecision": 0.09433962264150944,
+      "OverlapRecall": 0.2,
+      "OverlapF1": 0.1282051282051282
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "Actual Output describes SAASS as a monitoring system for water events, whereas Expected Output defines it as a submarine signal acquisition system for Petrobrás, indicating a complete misalignment."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "question": "Quando foi feita a última descoberta em relação ao campo de Roncador feita pela Petrobras?",
+    "reference": "A descoberta foi feita em 1996.",
+    "generated": "A última descoberta significativa no campo de Roncador, operado pela Petrobras, foi feita em 2013, com a descoberta de uma nova acumulação de óleo e gás. Essa descoberta ampliou a reserva estimada do campo e abriu possibilidades para a produção de mais petróleo e gás na região.",
+    "metrics": {
+      "BERTScore_precision": 0.6402106285095215,
+      "BERTScore_recall": 0.7698582410812378,
+      "BERTScore_f1": 0.6990742683410645,
+      "METEOR": 0.4444444444444444,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.16949152542372883,
+      "ROUGE-2": 0.10526315789473685,
+      "ROUGE-L": 0.16949152542372883,
+      "ROUGE-Lsum": 0.16949152542372883,
+      "OverlapPrecision": 0.10638297872340426,
+      "OverlapRecall": 0.8333333333333334,
+      "OverlapF1": 0.18867924528301885
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output mentions a 2013 discovery, which contradicts the Expected Output's 1996 discovery date. This shows a clear discrepancy and significant inaccuracy in the timeline."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "question": "Em qual navio será instalado o sistema de vaporizador da Hamworthy?",
+    "reference": "Suez Neptune.",
+    "generated": "Não tenho informações atualizadas sobre a instalação específica de sistemas de vaporização da Hamworthy em navios. A Hamworthy é uma empresa que fornece tecnologias de controle de emissões para o setor marítimo, e seus sistemas podem ser instalados em diversos tipos de navios para atender às regulamentações ambientais. Para obter informações precisas sobre a instalação de seus equipamentos, seria necessário consultar diretamente a empresa ou fontes",
+    "metrics": {
+      "BERTScore_precision": 0.5317606925964355,
+      "BERTScore_recall": 0.696340799331665,
+      "BERTScore_f1": 0.6030229330062866,
+      "METEOR": 0.051546391752577324,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.12450850131323717,
+        "reason": "The Actual Output does not provide the specific information about the 'Suez Neptune' as in the Expected Output, thus being completely different in terms of semantic content."
+      }
+    },
+    "g_eval_avg": 0.12450850131323717
+  },
+  {
+    "question": "Quais papéis cruciais a médio/baixo crosta continental parece ter?",
+    "reference": "Estarem envolvidas na gênese da margem passiva e da primeira crosta oceânica.",
+    "generated": "A médio/baixo crosta continental desempenha um papel crucial na regulação do clima e na formação de correntes oceânicas. Ela influencia a temperatura e a salinidade das águas superficiais, o que afeta a densidade e a direção das correntes marítimas. Esses fatores são fundamentais para a distribuição de calor e nutrientes no oceano, impactando ecossist",
+    "metrics": {
+      "BERTScore_precision": 0.678348183631897,
+      "BERTScore_recall": 0.7618762254714966,
+      "BERTScore_f1": 0.7176899909973145,
+      "METEOR": 0.19999999999999998,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.10389610389610389,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.07792207792207793,
+      "ROUGE-Lsum": 0.07792207792207793,
+      "OverlapPrecision": 0.05555555555555555,
+      "OverlapRecall": 0.25,
+      "OverlapF1": 0.0909090909090909
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0979646686290073,
+        "reason": "The actual output discusses climate regulation and ocean currents, while the expected output focuses on geological processes like passive margin genesis and oceanic crust formation, reflecting semantic misalignment and contradiction."
+      }
+    },
+    "g_eval_avg": 0.0979646686290073
+  },
+  {
+    "question": "Quais estratégias primárias para derramamentos de óleo originados por empreendimentos de exploração são definidas pelas leis ambientais no Brasil?",
+    "reference": "Contenção e coleta de óleo",
+    "generated": "As estratégias primárias para derramamentos de óleo originados por empreendimentos de exploração no Brasil, conforme definidas pelas leis ambientais, incluem:\n\n1. **Prevenção**: Implementação de medidas de segurança rigorosas para evitar vazamentos, como manutenção constante de equipamentos e sistemas de contenção de vazamentos.\n\n2. **Monitoramento**: Vigilância constante das operações de exploração e transporte de",
+    "metrics": {
+      "BERTScore_precision": 0.5933087468147278,
+      "BERTScore_recall": 0.7414182424545288,
+      "BERTScore_f1": 0.6591458916664124,
+      "METEOR": 0.17391304347826086,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.14285714285714285,
+      "ROUGE-2": 0.08823529411764705,
+      "ROUGE-L": 0.11428571428571428,
+      "ROUGE-Lsum": 0.14285714285714285,
+      "OverlapPrecision": 0.05660377358490566,
+      "OverlapRecall": 0.6,
+      "OverlapF1": 0.10344827586206896
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output mentions prevention and monitoring, which are related but do not match the Expected Output of containment and collection, indicating partial semantic similarity with significant discrepancies."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "question": "Após a torre de produção da Petrobrás no Campo de Garoupa ter caído e quebrado a empresa empregou um sistema de produção antecipada provisório para substituir essa torre de produção. Este sistema provisório usufruiu de quais estruturas do sistema de produção anterior para operar?",
+    "reference": "O sistema provisório utilizou do sistema original de produção um duto de fundo oceânico, medidor, torre de carregamento e um navio de processamento.",
+    "generated": "Após a queda da torre de produção da Petrobrás no Campo de Garoupa, a empresa utilizou um sistema de produção antecipada provisório conhecido como \"Floating Production Storage and Offloading\" (FPSO). Esse tipo de sistema é uma embarcação que serve tanto como plataforma de produção quanto como armazenamento e descarregamento de petróleo e gás. O FPSO é ancorado próximo ao local da produção e recebe o petróleo",
+    "metrics": {
+      "BERTScore_precision": 0.6871676445007324,
+      "BERTScore_recall": 0.7621706128120422,
+      "BERTScore_f1": 0.722728431224823,
+      "METEOR": 0.24429967426710095,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.2941176470588235,
+      "ROUGE-2": 0.08,
+      "ROUGE-L": 0.196078431372549,
+      "ROUGE-Lsum": 0.196078431372549,
+      "OverlapPrecision": 0.13636363636363635,
+      "OverlapRecall": 0.391304347826087,
+      "OverlapF1": 0.20224719101123592
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.30662606084324895,
+        "reason": "The Actual Output correctly identifies the use of a provisional system, FPSO, but lacks detail on the specific structures reused from the original system such as the oceanic seabed duct and loading tower mentioned in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.30662606084324895
+  },
+  {
+    "question": "Que porcentagem da população mundial vive na costa ou em um raio de 150 quilômetros?",
+    "reference": "44%",
+    "generated": "Aproximadamente 40% da população mundial vive em áreas costeiras ou a até 150 quilômetros do litoral.",
+    "metrics": {
+      "BERTScore_precision": 0.5281140208244324,
+      "BERTScore_recall": 0.5843501687049866,
+      "BERTScore_f1": 0.5548107028007507,
+      "METEOR": 0.13888888888888892,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output correctly mentions the population living within 150 km of the coast but provides a value of 40%, which is slightly off from the Expected Output of 44%, indicating minor inaccuracy."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "Quais são os principais impulsionadores para a biodiversidade?",
+    "reference": "Estruturas físicas tridimensionais complexas, condições oceanográficas dinâmicas, efeitos de insumos terrestres e características especiais da vegetação",
+    "generated": "Os principais impulsionadores para a biodiversidade são a variedade de ecossistemas e climas, que proporcionam uma ampla gama de habitats adequados para diferentes espécies. No caso da costa brasileira, a extensa faixa litorânea com diversos ecossistemas, como manguezais, recifes de corais e praias, contribui significativamente para a biodiversidade. Além disso, a rica biodivers",
+    "metrics": {
+      "BERTScore_precision": 0.6292542219161987,
+      "BERTScore_recall": 0.6506078243255615,
+      "BERTScore_f1": 0.6397528648376465,
+      "METEOR": 0.11210762331838564,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.10126582278481013,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0759493670886076,
+      "ROUGE-Lsum": 0.0759493670886076,
+      "OverlapPrecision": 0.05660377358490566,
+      "OverlapRecall": 0.1875,
+      "OverlapF1": 0.08695652173913045
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output mentions variety of ecosystems and habitats, which partially aligns semantically with complex physical structures and oceanographic conditions in the Expected Output. However, it lacks specific mentions of terrestrial inputs and vegetation characteristics present in the Expected Output, leading to omissions and imprecisions."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "Qual é a dualidade em relação a benefícios do Steel Lazy Wave Risers (SLWR)?",
+    "reference": "Esta é eficaz de melhorar a fadiga é adotar uma configuração de onda lenta, em vez de uma simples catenária. SLWR foram usados com sucesso no Brasil, no Golfo do México, o Mar do Norte e na Austrália. No entanto, é provavelmente o aspecto mais intensivo de computação dele. As análises de fadiga requerem um grande número de casos de carga a serem executados, em modelos não lineares complexos.",
+    "generated": "Os Steel Lazy Wave Risers (SLWR) são estruturas utilizadas na indústria de óleo e gás para conectar plataformas flutuantes aos poços de produção no leito marinho. A dualidade em relação aos benefícios dos SLWR refere-se à sua capacidade de absorver a energia das ondas e, ao mesmo tempo, manter a estabilidade da plataforma. Isso permite a continuidade da produção mesmo em condições meteor",
+    "metrics": {
+      "BERTScore_precision": 0.6681786179542542,
+      "BERTScore_recall": 0.6760138273239136,
+      "BERTScore_f1": 0.6720733642578125,
+      "METEOR": 0.11673151750972763,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.20547945205479454,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.12328767123287672,
+      "ROUGE-Lsum": 0.12328767123287672,
+      "OverlapPrecision": 0.1111111111111111,
+      "OverlapRecall": 0.10144927536231885,
+      "OverlapF1": 0.10606060606060606
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output mentions the general function of SLWRs and their benefits related to energy absorption and platform stability, capturing partial semantic similarity. However, it lacks details on the SLWR’s use in different regions and computational intensity of fatigue analysis as highlighted in the Expected Output, showing discrepancies and minor inaccuracies."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "Como o algoritmo de amostragem estocástico que gera cenários de rede de falha é útil?",
+    "reference": "Este algoritmo é útil para reduzir o viés de interpretação, formalizar conceitos de interpretação e avaliar incertezas estruturais de primeira ordem.",
+    "generated": "O algoritmo de amostragem estocástico que gera cenários de rede de falha é útil para simular e analisar o comportamento de sistemas complexos, como redes de infraestrutura crítica, sob condições de incerteza. Ele permite a geração de um conjunto de cenários possíveis, levando em consideração a probabilidade de falhas em diferentes componentes da rede. Isso é particularmente importante em contextos como a costa brasileira",
+    "metrics": {
+      "BERTScore_precision": 0.7027438879013062,
+      "BERTScore_recall": 0.7555471658706665,
+      "BERTScore_f1": 0.7281895279884338,
+      "METEOR": 0.26733595008051525,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.2150537634408602,
+      "ROUGE-2": 0.021978021978021976,
+      "ROUGE-L": 0.1935483870967742,
+      "ROUGE-Lsum": 0.1935483870967742,
+      "OverlapPrecision": 0.109375,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.16470588235294117
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3220870224002469,
+        "reason": "The Actual Output discusses the utility of the algorithm in simulating and analyzing network failures, touching on uncertainty handling, which partially aligns with evaluating uncertainties mentioned in the Expected Output. However, it does not address reducing interpretation bias or formalizing interpretation concepts as stated in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3220870224002469
+  },
+  {
+    "question": "De quem é a história e desenvolvimento que são apresentados no \"BRAZIL FURTHERS ITS LEADERSHIP IN DEEPWATER E&P\"?",
+    "reference": "Da Petrobrás e suas diversas operações offshore.",
+    "generated": "A história e o desenvolvimento apresentados no \"BRAZIL FURTHERS ITS LEADERSHIP IN DEEPWATER E&P\" referem-se à liderança e evolução do Brasil em exploração e produção de petróleo em águas profundas (E&P). O Brasil tem um histórico significativo nessa área, especialmente com a descoberta e desenvolvimento da camada pré-sal, que trouxe grandes reservas de petróleo",
+    "metrics": {
+      "BERTScore_precision": 0.5869662165641785,
+      "BERTScore_recall": 0.6920546889305115,
+      "BERTScore_f1": 0.6351932287216187,
+      "METEOR": 0.10948905109489053,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.05405405405405406,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.02702702702702703,
+      "ROUGE-Lsum": 0.02702702702702703,
+      "OverlapPrecision": 0.018518518518518517,
+      "OverlapRecall": 0.14285714285714285,
+      "OverlapF1": 0.03278688524590164
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.26120574077072745,
+        "reason": "The Actual Output discusses Brazil's leadership in deepwater E&P generally, while the Expected Output specifically attributes the story to Petrobras and its offshore operations. The Actual Output lacks the specificity of naming Petrobras and its significant offshore activities."
+      }
+    },
+    "g_eval_avg": 0.26120574077072745
+  },
+  {
+    "question": "Quão longe da costa está o reservatório encontrado pela Petrobras na Bacia de Campos contendo estimadamente 0.6 bilhões de barris de petróleo pesado?",
+    "reference": "Aproximadamente 80 km da costa",
+    "generated": "O campo de petróleo encontrado pela Petrobras na Bacia de Campos, que contém aproximadamente 0,6 bilhões de barris de petróleo pesado, está localizado a cerca de 120 km da costa do estado do Rio de Janeiro. É importante destacar que, embora a exploração de petróleo possa trazer desenvolvimento econômico, ela também pode ter impactos ambientais significativos, especialmente em ecossistemas",
+    "metrics": {
+      "BERTScore_precision": 0.5892251133918762,
+      "BERTScore_recall": 0.7053869366645813,
+      "BERTScore_f1": 0.642094612121582,
+      "METEOR": 0.340909090909091,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.11111111111111112,
+      "ROUGE-2": 0.05714285714285715,
+      "ROUGE-L": 0.11111111111111112,
+      "ROUGE-Lsum": 0.11111111111111112,
+      "OverlapPrecision": 0.05084745762711865,
+      "OverlapRecall": 0.6,
+      "OverlapF1": 0.09375000000000001
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3392968327956568,
+        "reason": "The Actual Output locates the petroleum field 120 km from the coast, while the Expected Output states it is 80 km, showing a significant discrepancy. However, both mention the Bacia de Campos and the same oil quantity, partially aligning semantically."
+      }
+    },
+    "g_eval_avg": 0.3392968327956568
+  },
+  {
+    "question": "O que poderia fazer com que a diminuição da emissão de gás carbônico por combustíveis não diminuísse, de forma significativa, a emissão geral de gás carbônico pelo setor de energia brasileiro?",
+    "reference": "Um uso mais intenso do setor de energia.",
+    "generated": "A diminuição da emissão de gás carbônico por combustíveis fósseis no setor de energia brasileiro pode não resultar em uma redução significativa da emissão geral de gás carbônico por vários motivos:\n\n1. **Efeito de escala**: Se o crescimento da demanda por energia for muito rápido, o aumento do uso de fontes de energia renováveis pode não ser suficiente para compensar o aumento total das emissões.\n\n2",
+    "metrics": {
+      "BERTScore_precision": 0.5905364751815796,
+      "BERTScore_recall": 0.7113841772079468,
+      "BERTScore_f1": 0.6453516483306885,
+      "METEOR": 0.2733262108262108,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1111111111111111,
+      "ROUGE-2": 0.045454545454545456,
+      "ROUGE-L": 0.06666666666666667,
+      "ROUGE-Lsum": 0.08888888888888888,
+      "OverlapPrecision": 0.06060606060606061,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.10810810810810813
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "The Actual Output addresses reasons for the lack of significant reduction in carbon emissions in the Brazilian energy sector, which aligns semantically with the input question; however, it elaborates more extensively than the Expected Output, which is succinctly focused on increased energy sector usage."
+      }
+    },
+    "g_eval_avg": 0.4
+  },
+  {
+    "question": "O Que são os FPSOs?",
+    "reference": "As unidades flutuantes de produção e armazenamento (FPSOs) são estruturas que abrigam mais de 40 mil toneladas métricas de petróleo com uma estrutura complexa, explorando poços ultraprofundos dos prospectos do pré-sal.",
+    "generated": "FPSOs são unidades flutuantes de produção, armazenamento e transferência de petróleo e gás. São navios que operam em águas profundas e ultraprofundas, capazes de extrair, processar, armazenar e transferir hidrocarbonetos. Eles são uma parte crucial da infraestrutura para a exploração e produção de petróleo e gás, especialmente em regiões onde a costa brasileira se",
+    "metrics": {
+      "BERTScore_precision": 0.7364523410797119,
+      "BERTScore_recall": 0.7638837099075317,
+      "BERTScore_f1": 0.7499172687530518,
+      "METEOR": 0.26908983451536644,
+      "BLEU": 0.055635889880935714,
+      "ROUGE-1": 0.31067961165048547,
+      "ROUGE-2": 0.17821782178217824,
+      "ROUGE-L": 0.2524271844660194,
+      "ROUGE-Lsum": 0.2524271844660194,
+      "OverlapPrecision": 0.18518518518518517,
+      "OverlapRecall": 0.3225806451612903,
+      "OverlapF1": 0.2352941176470588
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output correctly describes FPSOs as floating units and their function in oil and gas operations. However, it omits specific details such as the 40,000 metric ton capacity and the mention of ultradeep wells in pre-salt prospects found in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.3
+  }
+]

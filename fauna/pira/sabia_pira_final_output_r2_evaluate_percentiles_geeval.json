@@ -1,0 +1,542 @@
+[
+  {
+    "question": "Onde podemos encontrar rochas salinas como halita, carnalita e taquidrita?",
+    "reference": "Na bacia de Santos",
+    "generated": "Rochas salinas como halita, carnalita e taquidrita são encontradas principalmente em depósitos de sal formados em ambientes evaporíticos, como bacias sedimentares onde ocorre a evaporação de águas marinhas ou salobras. No Brasil, essas rochas podem ser encontradas em bacias sedimentares costeiras, como a Bacia de Campos e a Bacia do Espírito Santo, que são conhecidas por",
+    "metrics": {
+      "BERTScore_precision": 0.6036850214004517,
+      "BERTScore_recall": 0.7311438322067261,
+      "BERTScore_f1": 0.6613290905952454,
+      "METEOR": 0.15306122448979592,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.06060606060606061,
+      "ROUGE-2": 0.03125,
+      "ROUGE-L": 0.06060606060606061,
+      "ROUGE-Lsum": 0.06060606060606061,
+      "OverlapPrecision": 0.017857142857142856,
+      "OverlapRecall": 0.25,
+      "OverlapF1": 0.03333333333333333
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The actual output correctly mentions that the rocks are found in sedimentary basins and evaporitic environments, aligning conceptually with the expected output of 'bacia de Santos'. However, it lists different specific locations, leading to some minor imprecision."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "Onde encontrar Amphisbaena pretrei?",
+    "reference": "Leste do Brasil.",
+    "generated": "Amphisbaena pretrei, conhecida como cobra-de-duas-cabeças-preta, pode ser encontrada em regiões de restinga e áreas arenosas do litoral brasileiro, especialmente nos estados do Rio de Janeiro, São Paulo e Paraná.",
+    "metrics": {
+      "BERTScore_precision": 0.5944376587867737,
+      "BERTScore_recall": 0.7405245304107666,
+      "BERTScore_f1": 0.6594879031181335,
+      "METEOR": 0.14285714285714285,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.05128205128205128,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05128205128205128,
+      "ROUGE-Lsum": 0.05128205128205128,
+      "OverlapPrecision": 0.034482758620689655,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.0625
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.8,
+        "reason": "The Actual Output provides a more detailed location than the Expected Output by mentioning specific states in Brazil which align with the general area of 'Leste do Brasil', indicating high semantic similarity with no contradictions."
+      }
+    },
+    "g_eval_avg": 0.8
+  },
+  {
+    "question": "O que foi mostrado pelo resultados da simulação?",
+    "reference": "A qualidade do vento e sua resolução espacial estão altamente correlacionadas com a qualidade de saída do modelo.",
+    "generated": "Para fornecer uma resposta objetiva, preciso de mais contexto sobre a simulação específica a que você se refere. Simulações sobre oceanos, a costa brasileira e mudanças climáticas podem abranger diversos aspectos, como aumento do nível do mar, mudanças nas correntes oceânicas, impactos na biodiversidade marinha, ou alterações nos padrões climáticos regionais. Por favor, forneça detalhes adicionais sobre",
+    "metrics": {
+      "BERTScore_precision": 0.6187056303024292,
+      "BERTScore_recall": 0.6886777877807617,
+      "BERTScore_f1": 0.6518192291259766,
+      "METEOR": 0.14767932489451477,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15555555555555556,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.08888888888888889,
+      "ROUGE-Lsum": 0.08888888888888889,
+      "OverlapPrecision": 0.07017543859649122,
+      "OverlapRecall": 0.2222222222222222,
+      "OverlapF1": 0.10666666666666667
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output completely misses the core information about the wind quality and spatial resolution discussed in the Expected Output, instead requesting more details on a simulation, showing a lack of semantic similarity."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "Qual a melhor maneira para explorar the Mega reservatórios de óleo e gás em águas profundas e ultraprofundas na costa do Brasil?",
+    "reference": "The PC semi-seco desenvolvido com tensionadores convencionais do tipo RAM, em 2.400m de águas ultraprofundas do Pré-Sal Offshore Brasileiro foi desenvolvido, validado como um bom modo de exploração.",
+    "generated": "A melhor maneira para explorar os mega reservatórios de óleo e gás em águas profundas e ultraprofundas na costa do Brasil envolve uma combinação de tecnologia avançada, práticas de segurança rigorosas e considerações ambientais, especialmente em um contexto de mudanças climáticas. Aqui estão os pontos principais:\n\n1. **Tecnologia Avançada**: Utilizar equipamentos de perfuração e produção projet",
+    "metrics": {
+      "BERTScore_precision": 0.6520519852638245,
+      "BERTScore_recall": 0.6926016807556152,
+      "BERTScore_f1": 0.6717154383659363,
+      "METEOR": 0.14492753623188404,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.17821782178217818,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.15841584158415842,
+      "ROUGE-Lsum": 0.17821782178217818,
+      "OverlapPrecision": 0.10714285714285714,
+      "OverlapRecall": 0.21428571428571427,
+      "OverlapF1": 0.14285714285714285
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2238341826974099,
+        "reason": "The Actual Output suggests a general approach focusing on technology and safety, while the Expected Output specifically mentions PC semi-seco with RAM tensioners in 2,400m deep waters as the method of exploration, showing little semantic similarity and lacking precision on the method stated."
+      }
+    },
+    "g_eval_avg": 0.2238341826974099
+  },
+  {
+    "question": "O que a sigla GHSZ quer dizer?",
+    "reference": "zona de estabilidade de hidratos de gás",
+    "generated": "A sigla GHSZ não é comumente reconhecida em contextos relacionados a oceanos, a costa brasileira ou mudanças climáticas. Pode se referir a diferentes coisas dependendo do contexto, mas sem informações adicionais, não é possível determinar um significado específico. Se estiver se referindo a um termo específico de uma área técnica ou de um documento particular, por favor, forneça mais detalhes para que eu possa tent",
+    "metrics": {
+      "BERTScore_precision": 0.5550997257232666,
+      "BERTScore_recall": 0.6200586557388306,
+      "BERTScore_f1": 0.585783839225769,
+      "METEOR": 0.07407407407407408,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.04938271604938271,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.04938271604938271,
+      "ROUGE-Lsum": 0.04938271604938271,
+      "OverlapPrecision": 0.015384615384615385,
+      "OverlapRecall": 0.14285714285714285,
+      "OverlapF1": 0.02777777777777778
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.10600866470181516,
+        "reason": "The Actual Output states that the acronym GHSZ is not commonly recognized and suggests it could refer to multiple things, which contradicts the Expected Output that clearly defines GHSZ as 'zona de estabilidade de hidratos de gás'."
+      }
+    },
+    "g_eval_avg": 0.10600866470181516
+  },
+  {
+    "question": "O quê costuma ser relevante no desenvolvimento de fendas tectônicas?",
+    "reference": "É o efeito da herança de estruturas anteriores.",
+    "generated": "O desenvolvimento de fendas tectônicas, também conhecidas como riftes, costuma ser relevante em regiões onde há uma separação de placas tectônicas, resultando em atividade vulcânica e sísmica. Essas fendas são formadas principalmente em zonas de divergência, onde as placas se afastam uma da outra, permitindo que magma do manto terrestre suba à superfície, criando",
+    "metrics": {
+      "BERTScore_precision": 0.6492085456848145,
+      "BERTScore_recall": 0.7543636560440063,
+      "BERTScore_f1": 0.6978470087051392,
+      "METEOR": 0.14084507042253522,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.08450704225352113,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05633802816901408,
+      "ROUGE-Lsum": 0.05633802816901408,
+      "OverlapPrecision": 0.037037037037037035,
+      "OverlapRecall": 0.25,
+      "OverlapF1": 0.06451612903225806
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.13775406687981456,
+        "reason": "The actual output discusses tectonic plate divergence and activity, which is semantically different from the expected output's focus on structural inheritance in tectonic development."
+      }
+    },
+    "g_eval_avg": 0.13775406687981456
+  },
+  {
+    "question": "O que é o Procap-2000 e qual foi a sua importância?",
+    "reference": "É um programa criado pela Petrobras junto com o sistema de bombeamento que inovou os sistemas de exploração subaquáticos.",
+    "generated": "O Procap-2000 foi um programa brasileiro de capacitação de recursos humanos voltado para a pesquisa científica e tecnológica em oceanografia e áreas correlatas. Lançado no início dos anos 2000, ele teve importância significativa para o desenvolvimento de estudos sobre os oceanos e a costa brasileira, promovendo a formação de pesquisadores e a geração de conhecimento essencial para a compreensão",
+    "metrics": {
+      "BERTScore_precision": 0.679832935333252,
+      "BERTScore_recall": 0.7294038534164429,
+      "BERTScore_f1": 0.7037465572357178,
+      "METEOR": 0.19817844493169168,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15730337078651685,
+      "ROUGE-2": 0.022988505747126436,
+      "ROUGE-L": 0.15730337078651685,
+      "ROUGE-Lsum": 0.15730337078651685,
+      "OverlapPrecision": 0.0847457627118644,
+      "OverlapRecall": 0.2631578947368421,
+      "OverlapF1": 0.1282051282051282
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.18260423246002475,
+        "reason": "The Actual Output describes Procap-2000 as a program for human resource training in oceanography, which semantically misaligns with the Expected Output that identifies it as a Petrobras initiative focusing on underwater exploration systems. There is a discrepancy in the purpose and scope discussed, leading to incorrect and incomplete information."
+      }
+    },
+    "g_eval_avg": 0.18260423246002475
+  },
+  {
+    "question": "Quais são as desvantagens de utilizar ondas convencionais baseadas em tecnologia ultrassônica no processo de perfuração de poços em águas profundas?",
+    "reference": "Ondas convencionais baseadas em ultrassom não podem gerar níveis de sinal adequados e penetrar em revestimentos de paredes espessas comumente usados em poços em águas profundas.",
+    "generated": "As desvantagens de utilizar ondas convencionais baseadas em tecnologia ultrassônica na perfuração de poços em águas profundas incluem:\n\n1. **Eficiência Energética**: A tecnologia ultrassônica pode consumir uma quantidade significativa de energia, o que é uma desvantagem em operações offshore onde a energia é muitas vezes gerada por fontes limitadas e caras, como geradores a diesel.\n\n2. **Complexidade",
+    "metrics": {
+      "BERTScore_precision": 0.6842775344848633,
+      "BERTScore_recall": 0.7554759979248047,
+      "BERTScore_f1": 0.7181163430213928,
+      "METEOR": 0.3208121443560126,
+      "BLEU": 0.053479263139855564,
+      "ROUGE-1": 0.3076923076923077,
+      "ROUGE-2": 0.15730337078651685,
+      "ROUGE-L": 0.24175824175824176,
+      "ROUGE-Lsum": 0.26373626373626374,
+      "OverlapPrecision": 0.12280701754385964,
+      "OverlapRecall": 0.2692307692307692,
+      "OverlapF1": 0.16867469879518074
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output addresses efficiency and energy concerns not mentioned in the Expected Output, but it lacks mention of the key issue of signal generation and penetration of wall coatings, indicating significant discrepancy and misalignment."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "question": "Quando a arraia-gigante Manta birostris usa o complexo estuarino de Paranaguá no sul do Brasil para depositar seus ovos?",
+    "reference": "No verão.",
+    "generated": "A arraia-gigante, conhecida cientificamente como Manta birostris, não deposita ovos, pois é uma espécie ovovivípara, o que significa que os ovos se desenvolvem e eclodem dentro do corpo da fêmea, e os filhotes nascem já formados. Portanto, não há um período específico em que ela utiliza o complexo estuarino de Paranaguá ou qualquer outro local para",
+    "metrics": {
+      "BERTScore_precision": 0.5372859239578247,
+      "BERTScore_recall": 0.6887223720550537,
+      "BERTScore_f1": 0.6036514639854431,
+      "METEOR": 0.055555555555555566,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.030303030303030304,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.030303030303030304,
+      "ROUGE-Lsum": 0.030303030303030304,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "Actual Output correctly identifies Manta birostris as ovoviviparous, contradicting the egg-laying assumption in Input. Yet, it fails to match the Expected Output regarding seasonal use of the estuary."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "Onde a Baker já instalou sistemas de poços inteligentes hidráulicos bem-sucedidos?",
+    "reference": "No Mar do Norte, Oriente Médio e Extremo Oriente.",
+    "generated": "A Baker Hughes, empresa do setor de energia, tem experiência global na instalação de sistemas de poços inteligentes hidráulicos. No Brasil, a empresa tem atuado significativamente na Bacia de Campos, localizada na costa do estado do Rio de Janeiro, onde a Petrobras e outras companhias de petróleo operam. Esses sistemas são utilizados para otimizar a produção de petróleo e gás, permitindo um controle mais",
+    "metrics": {
+      "BERTScore_precision": 0.581595242023468,
+      "BERTScore_recall": 0.6286823749542236,
+      "BERTScore_f1": 0.60422283411026,
+      "METEOR": 0.14619883040935674,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.07228915662650602,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.07228915662650602,
+      "ROUGE-Lsum": 0.07228915662650602,
+      "OverlapPrecision": 0.046875,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.08219178082191782
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output mentions global experience including Brazil specifically, but does not align with the Expected Output regions like North Sea, Middle East, or Far East. There's a significant discrepancy in the regions mentioned, and key points from the Input are not addressed according to the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "question": "Qual é a dualidade em relação a benefícios do Steel Lazy Wave Risers (SLWR)?",
+    "reference": "Esta é eficaz de melhorar a fadiga é adotar uma configuração de onda lenta, em vez de uma simples catenária. SLWR foram usados com sucesso no Brasil, no Golfo do México, o Mar do Norte e na Austrália. No entanto, é provavelmente o aspecto mais intensivo de computação dele. As análises de fadiga requerem um grande número de casos de carga a serem executados, em modelos não lineares complexos.",
+    "generated": "Steel Lazy Wave Risers (SLWR) são estruturas utilizadas na indústria offshore de petróleo e gás para conectar plataformas flutuantes ao leito do oceano, permitindo a transferência de óleo e gás. A dualidade em relação aos benefícios dos SLWR envolve:\n\n1. **Benefícios Operacionais**: Os SLWR oferecem maior flexibilidade e capacidade de absorver movimentos das plata",
+    "metrics": {
+      "BERTScore_precision": 0.6574287414550781,
+      "BERTScore_recall": 0.6759501099586487,
+      "BERTScore_f1": 0.6665607690811157,
+      "METEOR": 0.09778357235984356,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.17518248175182483,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.11678832116788321,
+      "ROUGE-Lsum": 0.1313868613138686,
+      "OverlapPrecision": 0.12962962962962962,
+      "OverlapRecall": 0.10144927536231885,
+      "OverlapF1": 0.11382113821138211
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2618439086277752,
+        "reason": "The Actual Output mentions benefits and use of SLWR in offshore oil and gas but lacks detail about fatigue analysis and computational intensity, which are highlighted in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.2618439086277752
+  },
+  {
+    "question": "Quais são as medidas de segurança utilizadas se o Drill-Stem Test é realizado em alto mar?",
+    "reference": "Para fazer esse teste é necessário utilizar um equipamento de segurança que é colocado dentro de um preventor de explosão, o BOP, com o objetivo de manter o poço sob controle",
+    "generated": "Para realizar um Drill-Stem Test (DST) em alto mar, são adotadas diversas medidas de segurança para proteger tanto a equipe quanto o meio ambiente. Essas medidas incluem:\n\n1. **Equipamentos de Segurança:** Utilização de sistemas de prevenção de blowout (BOP - Blowout Preventer), que são dispositivos projetados para fechar e selar o poço em caso de perda de controle.\n\n2. **Monitoramento Constante:**",
+    "metrics": {
+      "BERTScore_precision": 0.6566171646118164,
+      "BERTScore_recall": 0.7510645389556885,
+      "BERTScore_f1": 0.7006723880767822,
+      "METEOR": 0.26156978389679636,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.33663366336633666,
+      "ROUGE-2": 0.0808080808080808,
+      "ROUGE-L": 0.2772277227722772,
+      "ROUGE-Lsum": 0.2772277227722772,
+      "OverlapPrecision": 0.11475409836065574,
+      "OverlapRecall": 0.22580645161290322,
+      "OverlapF1": 0.15217391304347827
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.7204440907806955,
+        "reason": "The Actual Output aligns well with the Expected Output by mentioning the use of a BOP for controlling the well, indicating semantic similarity. It also includes additional safety measures, like continuous monitoring, which are not contrary to Expected Output but enhance completeness. There are no significant errors or omissions affecting core information."
+      }
+    },
+    "g_eval_avg": 0.7204440907806955
+  },
+  {
+    "question": "Qual otimização de produção foi testada para melhorar a elevação da linha de fluxo?",
+    "reference": "Gestão da espuma do caixão.",
+    "generated": "A pergunta parece misturar conceitos de oceanografia, geografia costeira e mudanças climáticas de uma forma um tanto ambígua. No entanto, se a intenção é entender como as mudanças climáticas podem afetar a linha de costa (ou linha de costa brasileira, especificamente) e quais estratégias podem ser otimizadas para mitigar esses efeitos, uma resposta objetiva seria:\n\nA otimização de produção",
+    "metrics": {
+      "BERTScore_precision": 0.588593602180481,
+      "BERTScore_recall": 0.6620217561721802,
+      "BERTScore_f1": 0.6231520175933838,
+      "METEOR": 0.04132231404958678,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.05405405405405406,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.05405405405405406,
+      "ROUGE-Lsum": 0.05405405405405406,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output neither aligns semantically nor mentions the specific concept of 'Gestão da espuma do caixão'. It inaccurately interprets the question and provides an unrelated explanation, lacking key information from the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "O que é produzido na Bacia de Campos?",
+    "reference": "Óleo e gás natural",
+    "generated": "Na Bacia de Campos, localizada na costa brasileira, é produzido principalmente petróleo e gás natural. A Bacia de Campos é uma das regiões mais importantes para a indústria petrolífera do Brasil, sendo responsável por uma significativa parte da produção nacional desses recursos energéticos.",
+    "metrics": {
+      "BERTScore_precision": 0.6036102175712585,
+      "BERTScore_recall": 0.7030983567237854,
+      "BERTScore_f1": 0.6495669484138489,
+      "METEOR": 0.3505291005291006,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1851851851851852,
+      "ROUGE-2": 0.15384615384615385,
+      "ROUGE-L": 0.1851851851851852,
+      "ROUGE-Lsum": 0.1851851851851852,
+      "OverlapPrecision": 0.046511627906976744,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.0851063829787234
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.859266659995407,
+        "reason": "The Actual Output correctly identifies the products from the Bacia de Campos as petroleum and natural gas, consistent with the Expected Output. The additional context regarding location and significance does not contradict the expected information and complements it, while maintaining complete and accurate coverage of the main point."
+      }
+    },
+    "g_eval_avg": 0.859266659995407
+  },
+  {
+    "question": "Como o aquecimento global afeta a chuva?",
+    "reference": "Altera a quantidade de chuva observada, causa mais eventos de precipitação extrema e provoca mudanças no equilíbrio entre neve e chuva",
+    "generated": "O aquecimento global afeta a chuva de várias maneiras. Primeiramente, ele aumenta a temperatura média da atmosfera, o que pode levar a uma maior evaporação da água dos oceanos e da superfície terrestre, resultando em mais vapor de água na atmosfera. Este vapor de água pode intensificar o ciclo hidrológico, levando a chuvas mais fortes e frequentes em algumas regiões.\n\n",
+    "metrics": {
+      "BERTScore_precision": 0.6734194755554199,
+      "BERTScore_recall": 0.718726634979248,
+      "BERTScore_f1": 0.6953358054161072,
+      "METEOR": 0.169811320754717,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.17777777777777776,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.13333333333333333,
+      "ROUGE-Lsum": 0.13333333333333333,
+      "OverlapPrecision": 0.08333333333333333,
+      "OverlapRecall": 0.23809523809523808,
+      "OverlapF1": 0.1234567901234568
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3324590721221678,
+        "reason": "The actual output correctly explains increased evaporation and intensified rainfall due to global warming, aligning with expected impacts like increased extreme precipitation events. However, it omits specific detail about changes in the balance between snow and rain."
+      }
+    },
+    "g_eval_avg": 0.3324590721221678
+  },
+  {
+    "question": "Qual o interesse da Petrobras em levantamento artificial?",
+    "reference": "A Petrobras está estudando formas de exploração de gás em alto mar. O levantamento artificial é uma delas.",
+    "generated": "A Petrobras pode ter interesse em levantamento artificial em áreas costeiras e oceânicas por várias razões, principalmente relacionadas à exploração e produção de petróleo e gás natural. O levantamento artificial, ou aterro artificial, pode ser utilizado para:\n\n1. **Estabilização de Plataformas**: Construir áreas estáveis para a instalação de plataformas de perfuração ou produção em águas rasas.\n",
+    "metrics": {
+      "BERTScore_precision": 0.7075982093811035,
+      "BERTScore_recall": 0.8105430006980896,
+      "BERTScore_f1": 0.7555802464485168,
+      "METEOR": 0.29751904121863804,
+      "BLEU": 0.047076867416781056,
+      "ROUGE-1": 0.3023255813953488,
+      "ROUGE-2": 0.14285714285714288,
+      "ROUGE-L": 0.2325581395348837,
+      "ROUGE-Lsum": 0.27906976744186046,
+      "OverlapPrecision": 0.16071428571428573,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.24324324324324326
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3070472279196031,
+        "reason": "Actual Output mentions coastal and oceanic areas for artificial lifting but focuses on stabilizing platforms, not exploring gas offshore, as Expected Output suggests. Both mention petroleum context but differ in specific application."
+      }
+    },
+    "g_eval_avg": 0.3070472279196031
+  },
+  {
+    "question": "De que tipo de rochas o arquipélago de Martin Vaz é composto?",
+    "reference": "Rochas alcalinas plio-pleistocênicas",
+    "generated": "O arquipélago de Martin Vaz é composto principalmente por rochas vulcânicas.",
+    "metrics": {
+      "BERTScore_precision": 0.6650087237358093,
+      "BERTScore_recall": 0.6703536510467529,
+      "BERTScore_f1": 0.667670488357544,
+      "METEOR": 0.12820512820512822,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.23529411764705882,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.23529411764705882,
+      "ROUGE-Lsum": 0.23529411764705882,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "The Actual Output accurately identifies 'rochas vulcânicas' but misses the specific details 'alcalinas plio-pleistocênicas' described in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.4
+  },
+  {
+    "question": "De que formas o ecossistema costeiro contribui para a biodiversidade?",
+    "reference": "Coleta de recursos vivos, proteção costeira e recursos genéticos",
+    "generated": "O ecossistema costeiro contribui para a biodiversidade de várias formas:\n\n1. **Habitat Diversificado**: As regiões costeiras, como manguezais, estuários, recifes de coral e praias, oferecem uma variedade de habitats que suportam uma grande diversidade de espécies marinhas e terrestres.\n\n2. **Nurseries Naturais**: Muitas espécies de peixes e",
+    "metrics": {
+      "BERTScore_precision": 0.6139628887176514,
+      "BERTScore_recall": 0.7089220285415649,
+      "BERTScore_f1": 0.6580342650413513,
+      "METEOR": 0.12903225806451615,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.09523809523809523,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0634920634920635,
+      "ROUGE-Lsum": 0.0634920634920635,
+      "OverlapPrecision": 0.0425531914893617,
+      "OverlapRecall": 0.2222222222222222,
+      "OverlapF1": 0.07142857142857142
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The Actual Output discusses how coastal ecosystems support biodiversity through diverse habitats and nurseries, while the Expected Output focuses on resource collection, coastal protection, and genetic resources, showing a fundamental semantic difference."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "quais são os métodos tradicionais de limpeza da tubulação durante o comissionamento?",
+    "reference": "os métodos são limpeza com água, limpeza química ou limpeza a vapor",
+    "generated": "Os métodos tradicionais de limpeza da tubulação durante o comissionamento incluem:\n\n1. **Limpeza com água**: Utiliza-se água para remover resíduos solúveis e partículas dentro da tubulação.\n\n2. **Limpeza com ar comprimido**: Ar comprimido é usado para soprar e remover partículas secas e pequenos detritos.\n\n3. **Limpeza química**: Consiste na circ",
+    "metrics": {
+      "BERTScore_precision": 0.6306870579719543,
+      "BERTScore_recall": 0.7829756140708923,
+      "BERTScore_f1": 0.6986286044120789,
+      "METEOR": 0.28299534574468094,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.30136986301369867,
+      "ROUGE-2": 0.16901408450704228,
+      "ROUGE-L": 0.273972602739726,
+      "ROUGE-Lsum": 0.273972602739726,
+      "OverlapPrecision": 0.06,
+      "OverlapRecall": 0.25,
+      "OverlapF1": 0.0967741935483871
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "O Actual Output cobre dois dos três métodos mencionados no Expected Output (limpeza com água e limpeza química), mas inclui um método não esperado (limpeza com ar comprimido) e omite a limpeza a vapor, o que resulta em discrepâncias e omissões."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "Quando foi feita a última descoberta em relação ao campo de Roncador feita pela Petrobras?",
+    "reference": "A descoberta foi feita em 1996.",
+    "generated": "A última descoberta significativa relacionada ao campo de Roncador feita pela Petrobras foi anunciada em 2019, quando a empresa revelou a descoberta de novas reservas de petróleo na área do pré-sal da Bacia de Campos, onde Roncador está localizado. Essa descoberta foi parte dos esforços contínuos da Petrobras para explorar e avaliar o potencial de produção de petró",
+    "metrics": {
+      "BERTScore_precision": 0.6267237663269043,
+      "BERTScore_recall": 0.7500748634338379,
+      "BERTScore_f1": 0.6828736066818237,
+      "METEOR": 0.34386200716845877,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.14492753623188404,
+      "ROUGE-2": 0.05970149253731343,
+      "ROUGE-L": 0.11594202898550725,
+      "ROUGE-Lsum": 0.11594202898550725,
+      "OverlapPrecision": 0.08620689655172414,
+      "OverlapRecall": 0.8333333333333334,
+      "OverlapF1": 0.15625000000000003
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.0,
+        "reason": "The Actual Output incorrectly states the discovery year as 2019 instead of the Expected Output of 1996, showing a significant discrepancy."
+      }
+    },
+    "g_eval_avg": 0.0
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "question": "Quem são as pessoas que mais se beneficiam da alimentação baseada em peixes?",
+    "reference": "Pessoas pobres rurais",
+    "generated": "Pessoas que vivem em comunidades costeiras, pescadores e populações que dependem da pesca como principal fonte de proteína e sustento são as que mais se beneficiam da alimentação baseada em peixes. Além disso, regiões com acesso limitado a outras fontes de proteína também podem depender significativamente do pescado.",
+    "metrics": {
+      "BERTScore_precision": 0.5850949883460999,
+      "BERTScore_recall": 0.6912782192230225,
+      "BERTScore_f1": 0.6337698698043823,
+      "METEOR": 0.06329113924050633,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.03389830508474576,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.03389830508474576,
+      "ROUGE-Lsum": 0.03389830508474576,
+      "OverlapPrecision": 0.020833333333333332,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.0392156862745098
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.28008636797288644,
+        "reason": "The Actual Output mentions communities reliant on fishing, similar to the Expected Output's poor rural focus, but lacks direct mention of poverty and is more geographically specific."
+      }
+    },
+    "g_eval_avg": 0.28008636797288644
+  },
+  {
+    "question": "O que é o SAASS da Petrobras?",
+    "reference": "O sistema autônomo de aquisição de sinais de submarinos é um gravador acústico desenvolvido para atender às necessidades de um programa de monitoramento acústico nos oceanos.",
+    "generated": "O SAASS da Petrobras refere-se ao Sistema de Alerta Antecipado de Surtos de Sedimentos. É uma ferramenta desenvolvida para monitorar e prever a movimentação de sedimentos na costa brasileira, especialmente em áreas de exploração de petróleo e gás, ajudando a mitigar riscos ambientais e operacionais.",
+    "metrics": {
+      "BERTScore_precision": 0.7103550434112549,
+      "BERTScore_recall": 0.7349168062210083,
+      "BERTScore_f1": 0.722427248954773,
+      "METEOR": 0.17123287671232876,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.25641025641025644,
+      "ROUGE-2": 0.026315789473684213,
+      "ROUGE-L": 0.20512820512820512,
+      "ROUGE-Lsum": 0.20512820512820512,
+      "OverlapPrecision": 0.06666666666666667,
+      "OverlapRecall": 0.11538461538461539,
+      "OverlapF1": 0.08450704225352113
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.05933511461496923,
+        "reason": "The Actual Output and Expected Output refer to completely different systems. The Actual Output describes a sediment monitoring system, while the Expected Output describes an acoustic signal acquisition system for ocean monitoring, showing a lack of semantic similarity, information accuracy, and precision."
+      }
+    },
+    "g_eval_avg": 0.05933511461496923
+  },
+  {
+    "question": "O que o levantamento sísmico de cabo rebocado de azimute completo descrito no artigo pretende fazer?",
+    "reference": "Ele pretende fornecer informações de alta qualidade de forma eficiente.",
+    "generated": "O levantamento sísmico de cabo rebocado de azimute completo pretende obter imagens detalhadas do subsolo marinho para identificar e caracterizar reservas de petróleo e gás. Essa técnica melhora a qualidade dos dados sísmicos ao capturar informações de múltiplos ângulos, permitindo uma melhor compreensão das estruturas geológicas sob o leito oceânico.",
+    "metrics": {
+      "BERTScore_precision": 0.6468273997306824,
+      "BERTScore_recall": 0.7286829948425293,
+      "BERTScore_f1": 0.6853196024894714,
+      "METEOR": 0.19736842105263155,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.16901408450704225,
+      "ROUGE-2": 0.05797101449275363,
+      "ROUGE-L": 0.11267605633802817,
+      "ROUGE-Lsum": 0.11267605633802817,
+      "OverlapPrecision": 0.08,
+      "OverlapRecall": 0.4,
+      "OverlapF1": 0.13333333333333333
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.6,
+        "reason": "The Actual Output provides a detailed explanation consistent with obtaining high-quality information, aligning with key aspects of the Expected Output. However, it introduces additional details about imaging and geological structures not present in the Expected Output, making it more elaborate and slightly less concise."
+      }
+    },
+    "g_eval_avg": 0.6
+  },
+  {
+    "question": "O que impulsionou o aumento da eutrofização que o mundo observa atualmente?",
+    "reference": "O aumento da introdução antropogênica de fósforo e nitrogênio em ecossistemas costeiros causados pelo uso de certos fertilizantes, combustão de combustíveis fósseis, cultivo de legumes fixadores de nitrogênio e resíduos provindos tanto da pecuária, quanto de regiões urbanas.",
+    "generated": "O aumento da eutrofização observado atualmente é impulsionado principalmente pelo excesso de nutrientes, como nitrogênio e fósforo, que são liberados em corpos d'água devido a atividades humanas. As principais fontes desses nutrientes incluem escoamento agrícola com fertilizantes, despejo de esgoto doméstico e industrial sem tratamento adequado, e deposição atmosférica de poluentes. As mudanças climáticas também podem exacerbar a eutrofização ao alterar padrões de precipitação e aumentar a temperatura da",
+    "metrics": {
+      "BERTScore_precision": 0.6984145641326904,
+      "BERTScore_recall": 0.7333922982215881,
+      "BERTScore_f1": 0.7154762148857117,
+      "METEOR": 0.269211718735668,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.30303030303030304,
+      "ROUGE-2": 0.07692307692307691,
+      "ROUGE-L": 0.21212121212121213,
+      "ROUGE-Lsum": 0.21212121212121213,
+      "OverlapPrecision": 0.13043478260869565,
+      "OverlapRecall": 0.23684210526315788,
+      "OverlapF1": 0.16822429906542055
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "O Atual Output está principalmente correto e cobre aspectos essenciais do Expected Output, como a introdução de nitrogênio e fósforo em corpos d'água e o impacto das atividades humanas. Embora não mencione diretamente a combustão de combustíveis fósseis ou o cultivo de legumes, as fontes de nutrientes e os efeitos discutidos são semânticamente semelhantes."
+      }
+    },
+    "g_eval_avg": 0.4
+  },
+  {
+    "question": "Quais os três estágios principais da enxumação do diapiro?",
+    "reference": "Pré-perfuração, perfuração e pós-perfuração no fundo do mar.",
+    "generated": "A enxumação de um diapiro, que é um corpo de rocha menos densa que se move para cima através de rochas mais densas, geralmente não é descrita em \"três estágios principais\" de forma padronizada na literatura geológica. No entanto, o processo pode ser entendido de forma simplificada em etapas como:\n\n1. **Ascensão**: O diapiro começa a subir devido à sua menor densidade em comparação com as rochas circundantes.",
+    "metrics": {
+      "BERTScore_precision": 0.596962571144104,
+      "BERTScore_recall": 0.6709344387054443,
+      "BERTScore_f1": 0.6317906379699707,
+      "METEOR": 0.08720930232558138,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.11363636363636363,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.09090909090909091,
+      "ROUGE-Lsum": 0.09090909090909091,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "The actual output discusses the general process of diapirism rather than specifically addressing the expected output stages of 'pré-perfuração, perfuração e pós-perfuração no fundo do mar,' which the question pertains to. There is a complete divergence from the expected terms."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "Dentre outros ganhos, quais são os valores monetários que o artigo indica que podem ser reduzidos com a transformação digital em OPEX e CAPEX , respectivamente?",
+    "reference": "Aproximadamente 7 milhões de dólares e entre 60 e 100 milhões de dólares.",
+    "generated": "Desculpe, mas não posso fornecer informações específicas de artigos ou documentos que não foram compartilhados diretamente comigo. No entanto, de maneira geral, a transformação digital pode reduzir custos operacionais (OPEX) e de capital (CAPEX) ao aumentar a eficiência, otimizar processos e melhorar a manutenção preditiva. Para valores monetários específicos, seria necessário consultar o artigo em questão.",
+    "metrics": {
+      "BERTScore_precision": 0.5512474179267883,
+      "BERTScore_recall": 0.6163354516029358,
+      "BERTScore_f1": 0.5819772481918335,
+      "METEOR": 0.1288659793814433,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.11904761904761904,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.09523809523809523,
+      "ROUGE-Lsum": 0.09523809523809523,
+      "OverlapPrecision": 0.03571428571428571,
+      "OverlapRecall": 0.15384615384615385,
+      "OverlapF1": 0.05797101449275363
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.1,
+        "reason": "Actual Output does not provide specific monetary values as requested in the Expected Output. It mentions general benefits of digital transformation, but lacks the required details, making it completely incorrect in the context of the question."
+      }
+    },
+    "g_eval_avg": 0.1
+  },
+  {
+    "question": "Quais são os principais tipos de pressão que aumentam o risco de extinção das aves marinhas atualmente?",
+    "reference": "Capturas acidentais das aves marinhas e esgotamento de suas presas causados pela atividade pesqueira.",
+    "generated": "Os principais tipos de pressão que aumentam o risco de extinção das aves marinhas atualmente incluem:\n\n1. **Mudanças Climáticas**: Alterações na temperatura do oceano e nos padrões de correntes afetam a disponibilidade de alimentos e os habitats das aves marinhas.\n\n2. **Poluição**: A poluição por plásticos, derramamentos de óleo e produtos químicos prejudica a saúde das aves marinhas e seus habitats.\n\n3. **Pesca Excessiva**:",
+    "metrics": {
+      "BERTScore_precision": 0.6226931810379028,
+      "BERTScore_recall": 0.7087717652320862,
+      "BERTScore_f1": 0.6629499793052673,
+      "METEOR": 0.25452488687782804,
+      "BLEU": 0.028990582148720148,
+      "ROUGE-1": 0.11235955056179775,
+      "ROUGE-2": 0.06896551724137932,
+      "ROUGE-L": 0.11235955056179775,
+      "ROUGE-Lsum": 0.0898876404494382,
+      "OverlapPrecision": 0.078125,
+      "OverlapRecall": 0.35714285714285715,
+      "OverlapF1": 0.12820512820512822
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.38614918992197056,
+        "reason": "Both the Actual and Expected Outputs mention fishing-related pressures but the Actual Output lacks details on accidental bycatch and depletion of prey, focusing more broadly on overfishing."
+      }
+    },
+    "g_eval_avg": 0.38614918992197056
+  },
+  {
+    "question": "Onde é a Formação do Jandaíra?",
+    "reference": "Na Bacia do Potiguar, no nordeste do Brasil",
+    "generated": "A Formação Jandaíra está localizada na Bacia Potiguar, no nordeste do Brasil. Ela abrange áreas dos estados do Rio Grande do Norte e do Ceará.",
+    "metrics": {
+      "BERTScore_precision": 0.7460392713546753,
+      "BERTScore_recall": 0.8583692312240601,
+      "BERTScore_f1": 0.7982719540596008,
+      "METEOR": 0.7548986295163665,
+      "BLEU": 0.17678748653651843,
+      "ROUGE-1": 0.45714285714285713,
+      "ROUGE-2": 0.30303030303030304,
+      "ROUGE-L": 0.39999999999999997,
+      "ROUGE-Lsum": 0.39999999999999997,
+      "OverlapPrecision": 0.2,
+      "OverlapRecall": 0.625,
+      "OverlapF1": 0.30303030303030304
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.9,
+        "reason": "The Actual Output accurately identifies the Formation Jandaíra's location as in the Bacia Potiguar in northeastern Brazil, aligning well with the Expected Output. It includes additional detail about the states involved, which does not contradict the Expected Output but rather adds specificity."
+      }
+    },
+    "g_eval_avg": 0.9
+  },
+  {
+    "question": "Quais estruturas de modelagem integradas permitem a identificação de uso sustentável do oceano?",
+    "reference": "Mudanças nas pessoas e economias, estruturas de governança e os efeitos das mudanças climáticas nas indústrias marítimas e no meio ambiente.",
+    "generated": "Estruturas de modelagem integradas que permitem a identificação de uso sustentável do oceano incluem modelos ecológicos, econômicos e sociais que são combinados para avaliar o impacto humano e ambiental. Exemplos incluem:\n\n1. **Modelos de Ecossistemas Marinhos**: Avaliam a dinâmica dos ecossistemas, incluindo interações entre espécies e impactos de atividades humanas.\n\n2. **Modelos de Circulação Oceânica**: Simulam correntes oceânicas, temperatura e sal",
+    "metrics": {
+      "BERTScore_precision": 0.6506673097610474,
+      "BERTScore_recall": 0.7319734692573547,
+      "BERTScore_f1": 0.6889297366142273,
+      "METEOR": 0.13986013986013984,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12121212121212122,
+      "ROUGE-2": 0.02061855670103093,
+      "ROUGE-L": 0.10101010101010101,
+      "ROUGE-Lsum": 0.10101010101010101,
+      "OverlapPrecision": 0.03278688524590164,
+      "OverlapRecall": 0.09523809523809523,
+      "OverlapF1": 0.04878048780487805
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.18807970748488295,
+        "reason": "The Actual Output discusses modeling structures related to ecosystems and oceanic models, which partially align with the Expected Output regarding environmental impacts and governance structures, but misses specific references to governance and economic changes."
+      }
+    },
+    "g_eval_avg": 0.18807970748488295
+  },
+  {
+    "question": "Em quais regiões a pirataria e o assalto à mão armada ocorrem de forma mais significativa?",
+    "reference": "Sudeste Asiático e África Ocidental",
+    "generated": "A pirataria e o assalto à mão armada no mar ocorrem de forma mais significativa nas regiões do Golfo da Guiné, na África Ocidental, e no Sudeste Asiático, especialmente nas proximidades do Estreito de Malaca. Essas áreas são conhecidas por terem altos índices de ataques piratas devido a fatores como rotas de navegação movimentadas, instabilidade política e econômica, e fiscalização marítima limitada.",
+    "metrics": {
+      "BERTScore_precision": 0.5992790460586548,
+      "BERTScore_recall": 0.8038225173950195,
+      "BERTScore_f1": 0.6866416335105896,
+      "METEOR": 0.39122807017543865,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.15789473684210528,
+      "ROUGE-2": 0.08108108108108109,
+      "ROUGE-L": 0.10526315789473684,
+      "ROUGE-Lsum": 0.10526315789473684,
+      "OverlapPrecision": 0.04838709677419355,
+      "OverlapRecall": 0.6,
+      "OverlapF1": 0.08955223880597016
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4,
+        "reason": "The Actual Output correctly identifies significant regions for piracy and armed robbery, including Southeast Asia and the Gulf of Guinea in West Africa, which aligns with the Expected Output of Southeast Asia and West Africa. However, it contains additional context not present in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.4
+  },
+  {
+    "question": "Qual é a dualidade em relação a benefícios do Steel Lazy Wave Risers (SLWR)?",
+    "reference": "Esta é eficaz de melhorar a fadiga é adotar uma configuração de onda lenta, em vez de uma simples catenária. SLWR foram usados com sucesso no Brasil, no Golfo do México, o Mar do Norte e na Austrália. No entanto, é provavelmente o aspecto mais intensivo de computação dele. As análises de fadiga requerem um grande número de casos de carga a serem executados, em modelos não lineares complexos.",
+    "generated": "O Steel Lazy Wave Risers (SLWR) oferece uma dualidade de benefícios, especialmente no contexto de exploração offshore, como na costa brasileira. Por um lado, ele melhora a eficiência e a viabilidade econômica da extração de petróleo em águas profundas, permitindo maior flexibilidade e resistência a movimentos das ondas e correntes marinhas. Por outro lado, a utilização de SLWRs pode levantar preocupações ambientais, pois facilita a exploração de combustíveis fósseis, contribuindo para as mudanças clim",
+    "metrics": {
+      "BERTScore_precision": 0.6564691662788391,
+      "BERTScore_recall": 0.6820326447486877,
+      "BERTScore_f1": 0.6690067648887634,
+      "METEOR": 0.15247776365946633,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.24844720496894407,
+      "ROUGE-2": 0.012578616352201259,
+      "ROUGE-L": 0.1366459627329193,
+      "ROUGE-Lsum": 0.1366459627329193,
+      "OverlapPrecision": 0.10810810810810811,
+      "OverlapRecall": 0.11594202898550725,
+      "OverlapF1": 0.11188811188811189
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output touches on efficiency and economic viability similar to flexibility improvements mentioned in the Expected Output but does not address the fatigue analysis or computational intensiveness. It also introduces environmental concerns that are not found in the Expected Output, indicating omissions and deviations."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "question": "Onde foi implantado o sistema de gravação para o piloto de Monitoramento de Reservatório Permanente da Petrobras?",
+    "reference": "Sobre o Campo de Jubarte, na Bacia de Santos.",
+    "generated": "O sistema de gravação para o piloto de Monitoramento de Reservatório Permanente da Petrobras foi implantado no Campo de Jubarte, localizado na Bacia de Campos, na costa do Espírito Santo, Brasil.",
+    "metrics": {
+      "BERTScore_precision": 0.7220723628997803,
+      "BERTScore_recall": 0.8433704376220703,
+      "BERTScore_f1": 0.7780219912528992,
+      "METEOR": 0.6182835820895523,
+      "BLEU": 0.10655553985460291,
+      "ROUGE-1": 0.3255813953488372,
+      "ROUGE-2": 0.1951219512195122,
+      "ROUGE-L": 0.3255813953488372,
+      "ROUGE-Lsum": 0.3255813953488372,
+      "OverlapPrecision": 0.1935483870967742,
+      "OverlapRecall": 0.6666666666666666,
+      "OverlapF1": 0.30000000000000004
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.7,
+        "reason": "The Actual Output correctly identifies the 'Campo de Jubarte' as the location, aligning with the Expected Output. However, it inaccurately places it in the 'Bacia de Campos' instead of the 'Bacia de Santos' and includes additional location details not present in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.7
+  },
+  {
+    "question": "O que foram efetivamente focos de vestígios de metais em sua fração lábil em vários sistemas estuarinos no sudeste e sul da costa do Brasil?",
+    "reference": "Os estaleiros.",
+    "generated": "Focos de vestígios de metais em sua fração lábil em vários sistemas estuarinos no sudeste e sul da costa do Brasil referem-se a áreas onde concentrações detectáveis de metais pesados estão presentes na forma mais bioacessível e reativa. Esses metais podem ser provenientes de atividades industriais, urbanas e agrícolas, e são preocupantes devido ao seu potencial impacto ambiental e à saúde humana. A fração lábil indica que esses metais estão mais disponíveis para interação com",
+    "metrics": {
+      "BERTScore_precision": 0.5462188124656677,
+      "BERTScore_recall": 0.6602945923805237,
+      "BERTScore_f1": 0.5978637337684631,
+      "METEOR": 0.04716981132075472,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.0,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.0,
+      "ROUGE-Lsum": 0.0,
+      "OverlapPrecision": 0.0,
+      "OverlapRecall": 0.0,
+      "OverlapF1": 0.0
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2,
+        "reason": "The Actual Output describes details about labile metal traces and their impacts, which is semantically relevant. However, it does not directly address the key aspect of the Expected Output, which is 'Os estaleiros'."
+      }
+    },
+    "g_eval_avg": 0.2
+  },
+  {
+    "question": "Que fatores podem afetar as propriedades das comunidades de peixes nas áreas costeiras?",
+    "reference": "Características físicas e químicas do habitat, profundidade, tipos de sedimentos, comunidades bentônicas, níveis de contaminantes, níveis de oxigênio e perturbação do fundo do mar.",
+    "generated": "As propriedades das comunidades de peixes nas áreas costeiras podem ser afetadas por diversos fatores, incluindo:\n\n1. **Mudanças Climáticas**: Aumento da temperatura da água, acidificação dos oceanos e elevação do nível do mar podem alterar habitats e a distribuição de espécies.\n\n2. **Poluição**: Despejo de resíduos industriais, agrícolas e esgoto pode degradar a qualidade da água, afetando a saúde e a composição das comunidades de peixes.\n\n3. **",
+    "metrics": {
+      "BERTScore_precision": 0.6464855670928955,
+      "BERTScore_recall": 0.7129949927330017,
+      "BERTScore_f1": 0.6781133413314819,
+      "METEOR": 0.2620669394150418,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.1981981981981982,
+      "ROUGE-2": 0.03669724770642202,
+      "ROUGE-L": 0.12612612612612611,
+      "ROUGE-Lsum": 0.14414414414414414,
+      "OverlapPrecision": 0.058823529411764705,
+      "OverlapRecall": 0.16666666666666666,
+      "OverlapF1": 0.08695652173913045
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4597077431175358,
+        "reason": "The Actual Output mentions relevant factors like climate change and pollution but lacks depth and completeness compared to the Expected Output's focus on habitat characteristics and specific environmental factors."
+      }
+    },
+    "g_eval_avg": 0.4597077431175358
+  },
+  {
+    "question": "Quais estratégias primárias para derramamentos de óleo originados por empreendimentos de exploração são definidas pelas leis ambientais no Brasil?",
+    "reference": "Contenção e coleta de óleo",
+    "generated": "As estratégias primárias para lidar com derramamentos de óleo no Brasil, conforme definido pelas leis ambientais, incluem:\n\n1. **Prevenção e Monitoramento**: Implementação de planos de emergência e sistemas de monitoramento contínuo para detectar vazamentos rapidamente.\n\n2. **Contenção e Recolhimento**: Uso de barreiras de contenção e skimmers para limitar a propagação do óleo e facilitar seu recolhimento.\n\n3. **Dispersão**: Aplicação de",
+    "metrics": {
+      "BERTScore_precision": 0.6142542362213135,
+      "BERTScore_recall": 0.7646960020065308,
+      "BERTScore_f1": 0.6812686324119568,
+      "METEOR": 0.15625000000000003,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.12987012987012989,
+      "ROUGE-2": 0.08,
+      "ROUGE-L": 0.12987012987012989,
+      "ROUGE-Lsum": 0.12987012987012989,
+      "OverlapPrecision": 0.05,
+      "OverlapRecall": 0.6,
+      "OverlapF1": 0.0923076923076923
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.7,
+        "reason": "The Actual Output aligns generally with the Expected Output by listing containment and collection strategies, but it includes additional elements such as prevention and dispersion, causing slight misalignment. Key strategies match, but dispersion is unfinished and not covered in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.7
+  },
+  {
+    "question": "Com base em avaliações de conservação avaliadas pela União Internacional para Conservação da Natureza (UICN), qual é a porcentagem de elasmobrânquios ameaçados ou quase ameaçados de extinção?",
+    "reference": "De acordo com as avaliações de conservação, quase 50 por cento dos elasmobrânquios estão ameaçados ou quase ameaçados de extinção.",
+    "generated": "Cerca de 37% dos elasmobrânquios (tubarões e raias) estão ameaçados ou quase ameaçados de extinção, de acordo com avaliações da União Internacional para Conservação da Natureza (UICN).",
+    "metrics": {
+      "BERTScore_precision": 0.8191136121749878,
+      "BERTScore_recall": 0.9097124934196472,
+      "BERTScore_f1": 0.8620392084121704,
+      "METEOR": 0.6335013721512947,
+      "BLEU": 0.2154897801937284,
+      "ROUGE-1": 0.6984126984126984,
+      "ROUGE-2": 0.5245901639344263,
+      "ROUGE-L": 0.4761904761904762,
+      "ROUGE-Lsum": 0.4761904761904762,
+      "OverlapPrecision": 0.37037037037037035,
+      "OverlapRecall": 0.5,
+      "OverlapF1": 0.425531914893617
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.19929264322915854,
+        "reason": "The Actual Output provides a percentage (37%) concerning the threat status of elasmobranchs, which is significantly different from the Expected Output's percentage (almost 50%). The source of information matches, but the discrepancy in the percentages constitutes a significant discrepancy."
+      }
+    },
+    "g_eval_avg": 0.19929264322915854
+  },
+  {
+    "question": "O que pode fornecer refúgio contra os efeitos da acidificação do oceano?",
+    "reference": "As interações metabólicas entre organismos calcificantes e não calcificantes.",
+    "generated": "Áreas costeiras com vegetação marinha, como manguezais, pradarias de fanerógamas marinhas e recifes de coral, podem fornecer refúgio contra os efeitos da acidificação do oceano. Essas áreas podem ajudar a regular o pH local da água através de processos biológicos, como a fotossíntese, que consome dióxido de carbono e pode aumentar a alcalinidade da água. Além disso, a proteção e restauração desses ecossistemas",
+    "metrics": {
+      "BERTScore_precision": 0.598343551158905,
+      "BERTScore_recall": 0.6441076993942261,
+      "BERTScore_f1": 0.6203828454017639,
+      "METEOR": 0.06211180124223603,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.046511627906976744,
+      "ROUGE-2": 0.0,
+      "ROUGE-L": 0.046511627906976744,
+      "ROUGE-Lsum": 0.046511627906976744,
+      "OverlapPrecision": 0.015873015873015872,
+      "OverlapRecall": 0.1111111111111111,
+      "OverlapF1": 0.027777777777777776
+    },
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.3,
+        "reason": "The Actual Output identifies natural areas like mangroves, which semantically relate to providing refuge as in the Expected Output's mention of interactions, but it completely misses detailing these specific metabolic interactions."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "question": "Quais os efeitos danosos da pesca excessiva ?",
+    "reference": "Pode minar a biodiversidade, por em risco populações humanas mais vulneráveis, ameaçar a segurança alimentar e outros aspectos socioeconômicos importantes",
+    "generated": "A pesca excessiva pode ter diversos efeitos danosos, incluindo:\n\n1. **Diminuição das populações de peixes**: A captura em excesso reduz as populações de peixes a níveis insustentáveis, prejudicando a capacidade de recuperação das espécies.\n\n2. **Desequilíbrio ecológico**: A redução de certas espécies pode afetar toda a cadeia alimentar, alterando o equilíbrio dos ecossistemas marinhos.\n\n3. **Destruição de habitats**: Pr",
+    "metrics": {
+      "BERTScore_precision": 0.6470202207565308,
+      "BERTScore_recall": 0.7035007476806641,
+      "BERTScore_f1": 0.6740794777870178,
+      "METEOR": 0.14234875444839862,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.18556701030927836,
+      "ROUGE-2": 0.021052631578947368,
+      "ROUGE-L": 0.18556701030927836,
+      "ROUGE-Lsum": 0.16494845360824742,
+      "OverlapPrecision": 0.05084745762711865,
+      "OverlapRecall": 0.15,
+      "OverlapF1": 0.0759493670886076
+    },
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.4619420650488185,
+        "reason": "The Actual Output correctly addresses the reduction of fish populations and imbalance in ecosystems, aligning semantically with the biodiversity aspect in the Expected Output. However, it does not mention threats to vulnerable human populations, food security, or socioeconomic impacts as noted in the Expected Output."
+      }
+    },
+    "g_eval_avg": 0.4619420650488185
+  },
+  {
+    "question": "Qual profundidade máxima alcançou as perfurações da Petrobras?",
+    "reference": "A PETROBRÁS, estatal brasileira de petróleo, tem perfurado poços em horizontes cada vez mais profundos, atingindo até 18.000 pés (5.500 m).",
+    "generated": "A Petrobras já alcançou profundidades de perfuração superiores a 7.000 metros, considerando a lâmina d'água e a profundidade do poço no subsolo. Essas perfurações são realizadas em áreas de exploração de petróleo no pré-sal, que estão localizadas em águas ultraprofundas.",
+    "metrics": {
+      "BERTScore_precision": 0.7094122171401978,
+      "BERTScore_recall": 0.704720675945282,
+      "BERTScore_f1": 0.7070586681365967,
+      "METEOR": 0.18537674216027875,
+      "BLEU": 0.0,
+      "ROUGE-1": 0.20253164556962028,
+      "ROUGE-2": 0.05194805194805195,
+      "ROUGE-L": 0.15189873417721517,
+      "ROUGE-Lsum": 0.15189873417721517,
+      "OverlapPrecision": 0.075,
+      "OverlapRecall": 0.14285714285714285,
+      "OverlapF1": 0.0983606557377049
+    },
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.28077812139028474,
+        "reason": "The Actual Output mentions depths over 7,000 meters, which is higher than the Expected Output of 5,500 meters, suggesting inaccuracy. Both outputs refer to deep-sea drilling and pre-salt areas, showing some semantic similarity, but there are significant discrepancies."
+      }
+    },
+    "g_eval_avg": 0.28077812139028474
+  },
+  {
+    "question": "Quanto gás a mais esperava-se produzir por dia na Bahia com os investimentos da Petrobras em 2010?",
+    "reference": "A produção de gás do estado será elevada para 11 milhões de metros cúbicos por dia de gás.",
+    "generated": "Esperava-se que os investimentos da Petrobras na Bahia em 2010 resultassem em um aumento de produção de gás de aproximadamente 1,5 milhão de metros cúbicos por dia.",
+    "metrics": {
+      "BERTScore_precision": 0.7662429809570312,
+      "BERTScore_recall": 0.860010027885437,
+      "BERTScore_f1": 0.8104233145713806,
+      "METEOR": 0.4482412060301507,
+      "BLEU": 0.17678748653651843,
+      "ROUGE-1": 0.4642857142857143,
+      "ROUGE-2": 0.3333333333333333,
+      "ROUGE-L": 0.42857142857142855,
+      "ROUGE-Lsum": 0.42857142857142855,
+      "OverlapPrecision": 0.2222222222222222,
+      "OverlapRecall": 0.3333333333333333,
+      "OverlapF1": 0.26666666666666666
+    },
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Qualidade da Resposta": {
+        "score": 0.2828665522201634,
+        "reason": "The actual output correctly addresses the question by specifying the additional gas production expected to result from Petrobras's 2010 investments—1.5 million cubic meters per day. However, it does not provide the total expected production figure of 11 million cubic meters per day, which is a specific detail included in the expected output."
+      }
+    },
+    "g_eval_avg": 0.2828665522201634
+  }
+]

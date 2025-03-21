@@ -9,7 +9,7 @@ output_dir = 'fauna_output/'
 os.makedirs(output_dir, exist_ok=True)
 
 # ===>> Defina aqui a chave que contém o texto (ex: "generated", "original")
-TEXT_KEY = 'generated'  
+TEXT_KEY = 'reference'  
 
 ID_KEY = 'id'  # se não existir, será gerado automaticamente
 

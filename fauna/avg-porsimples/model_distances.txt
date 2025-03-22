@@ -1,0 +1,43 @@
+Distances to Reference: bode_porsimples_reference.json
+
+--- Metric Group: simplicidade ---
+Model: bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json
+  Avg Dist: 1.108863574315257
+  Std Dist: 0.2840818271384181
+
+--- Metric Group: coesao_referencial ---
+Model: bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.6579855397334902
+  Std Dist: 0.4435282202602836
+
+--- Metric Group: coesao_semantica ---
+Model: bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json
+  Avg Dist: 2.034562372979735
+  Std Dist: 0.2075994788364137
+
+--- Metric Group: complexidade_sintatica ---
+Model: bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.5217326682104653
+  Std Dist: 0.28740196135443974
+
+--- Metric Group: leiturabilidade ---
+Model: bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.8310098222007185
+  Std Dist: 0.2243747721556704
+
+--- Metric Group: morfosintaxe ---
+Model: bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json
+  Avg Dist: 2.294579846954454
+  Std Dist: 0.2842317169272155
+
+--- Metric Group: info_semantica ---
+Model: bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.7499518689038837
+  Std Dist: 0.30636817530442145
+
+--- Metric Group: all ---
+Model: bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json
+  Avg Dist: 3.626437887536117
+  Std Dist: 0.26331129776535644
+
+Done.

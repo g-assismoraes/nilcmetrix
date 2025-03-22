@@ -115,16 +115,16 @@ def compute_avg_std_for_group(reference_data, comparison_data, metrics_subset):
 
 # List of JSON filenames
 json_filenames = [
-    "sabiazinho_pira_reference.json", 
-    #"bode_318B_porsimples_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    # "boto_gemma_porsimples_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    # "cabra_llama8b_porsimples_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    # "gpt_porsimples_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    # "gptmini_porsimples_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    # "piriquito_ollama_porsimples_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    # "sabia_porsimples_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
-     "sabiazinho_porsimples_final_output_r2_evaluate_percentiles_geeval_metrics_generated.json",
-    #"tucano_porsimples_r2_evaluate_percentiles_geeval_metrics_generated.json",
+    "bode_porsimples_reference.json", 
+    "bode_318B_porsimples_r2_percentiles_geeval_metrics_generated.json",
+    # "boto_gemma_porsimples_r2_percentiles_geeval_metrics_generated.json",
+    # "cabra_llama8b_porsimples_r2_percentiles_geeval_metrics_generated.json",
+    # "gpt_porsimples_final_output_r2_percentiles_geeval_metrics_generated.json",
+    # "gptmini_porsimples_final_output_r2_percentiles_geeval_metrics_generated.json",
+    # "piriquito_ollama_porsimples_r2_percentiles_geeval_metrics_generated.json",
+    # "sabia_porsimples_final_output_r2_percentiles_geeval_metrics_generated.json",
+    # "sabiazinho_porsimples_final_output_r2_percentiles_geeval_metrics_generated.json",
+    #"tucano_porsimples_r2_percentiles_geeval_metrics_generated.json",
 ]
 
 # 1) Load all JSON data

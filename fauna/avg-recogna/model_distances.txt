@@ -1,0 +1,43 @@
+Distances to Reference: gpt4o_recogna_reference.json
+
+--- Metric Group: simplicidade ---
+Model: gpt4o_recogna_final_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.8633750664903636
+  Std Dist: 0.304578100400395
+
+--- Metric Group: coesao_referencial ---
+Model: gpt4o_recogna_final_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.5182674510006003
+  Std Dist: 0.4331168845884592
+
+--- Metric Group: coesao_semantica ---
+Model: gpt4o_recogna_final_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.5513847508814871
+  Std Dist: 0.5286187420725705
+
+--- Metric Group: complexidade_sintatica ---
+Model: gpt4o_recogna_final_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.43936009897032297
+  Std Dist: 0.23305242327749798
+
+--- Metric Group: leiturabilidade ---
+Model: gpt4o_recogna_final_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.5134430051305091
+  Std Dist: 0.20228906334279056
+
+--- Metric Group: morfosintaxe ---
+Model: gpt4o_recogna_final_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 1.5702484352727097
+  Std Dist: 0.4183767895224899
+
+--- Metric Group: info_semantica ---
+Model: gpt4o_recogna_final_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 0.6547290199741013
+  Std Dist: 0.19202185436187302
+
+--- Metric Group: all ---
+Model: gpt4o_recogna_final_r2_evaluate_percentiles_geeval_metrics_generated.json
+  Avg Dist: 2.2964832097250416
+  Std Dist: 0.5120161896401885
+
+Done.

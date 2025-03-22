@@ -1,0 +1,830 @@
+[
+  {
+    "index": 131,
+    "complexer": "Eliane Beatriz Guth, que trabalha na panificadora, disse que não havia nenhum veículo estacionado em frente ao estabelecimento.",
+    "generated": "Eliane Beatriz Guth, da panificadora, disse que não tinha carro parado na frente.",
+    "reference": "Eliane Beatriz Guth, que trabalha na padaria, disse que não havia nenhum veículo estacionado em frente ao estabelecimento.",
+    "SARI": 20.568028527200354,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The Actual Output retains the essential meaning from the Input, accurately conveying who spoke and the absence of a vehicle. Minor detail about 'trabalha' versus 'da' panificadora is altered, reflecting slight information loss. Contextual necessity for meaning retention is adequately met."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the sentence structure by removing redundancy about Eliane's workplace, effectively maintaining the original meaning about the absence of parked vehicles, without adding errors or unnecessary complexity."
+      },
+      "Fluência": {
+        "score": 0.8032257855656159,
+        "reason": "The grammatical structure of the output is correct and matches the Input in syntax and comprehension. The output conveys the context of someone from the bakery stating no car was parked in front, but it slightly lacks the specificity of 'estabelecimento' seen in the Input."
+      }
+    },
+    "g_eval_avg": 0.8010752618552054
+  },
+  {
+    "index": 31,
+    "complexer": "Foram votos vencidos.",
+    "generated": "Eles perderam a votação.",
+    "reference": "Esses ministros foram votos vencidos.",
+    "SARI": 3.3333333333333335,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.7732178433055225,
+        "reason": "The Actual Output retains the core meaning of the Input and does not lose significant information. Both indicate a loss in a voting context. Slight difference in phrasing 'perderam a votação' vs 'foram votos vencidos'."
+      },
+      "Simplicidade": {
+        "score": 0.8659480830301511,
+        "reason": "The sentence structure is simplified from passive to active voice. The meaning of losing a vote is maintained without adding new information. Redundancy is reduced by removing unnecessary context about 'votes'."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output is grammatically correct, natural, and maintains fluency while simplifying the Input, enhancing clarity by clearly stating the outcome of a vote."
+      }
+    },
+    "g_eval_avg": 0.8463886421118912
+  },
+  {
+    "index": 243,
+    "complexer": "Falta ainda obter plantas transgênicas adultas e comprovar que o gene está sendo expressado, ou seja, que a proteína capaz de provocar a imunização está presente na planta, e não só o gene correspondente.",
+    "generated": "Ainda precisamos confirmar que as plantas transgênicas cresceram e estão produzindo a proteína que causa imunização, e não apenas carregam o gene.",
+    "reference": "Falta ainda obter plantas transgênicas adultas e comprovar que o gene está sendo expressado, ou seja, que a proteína capaz de provocar a proteção está presente na planta, e não só o gene correspondente.",
+    "SARI": 11.066292238892858,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The simplified version retains the essential meaning of confirming the presence and expression of the transgenic gene, with slight rephrasing. The context indicates no critical information is lost."
+      },
+      "Simplicidade": {
+        "score": 0.8300843136148253,
+        "reason": "The Actual Output simplifies the Input by reducing sentence structure complexity and maintaining key elements about plant growth and protein expression. However, it misses the detail about the plants being 'adult' and slightly alters the focus from 'obtaining plants' to 'confirming plants'."
+      },
+      "Fluência": {
+        "score": 0.8414364906179763,
+        "reason": "The Actual Output is grammatically correct and maintains natural syntax similar to the Input. It preserves the original meaning from the Context by focusing on the necessity of confirming protein expression in transgenic plants. There is a slight deviation in syntactic complexity but readability and intent remain consistent."
+      }
+    },
+    "g_eval_avg": 0.8571736014109339
+  },
+  {
+    "index": 273,
+    "complexer": "Estimativas anteriores sugeriam que um evento desses ocorresse em média a cada 200 ou 300 anos.",
+    "generated": "Estimativas antigas indicavam que um evento como esse acontecia cerca de uma vez a cada 200 ou 300 anos.",
+    "reference": "Cálculos anteriores sugeriam que um evento desses ocorresse em média a cada 200 ou 300 anos.",
+    "SARI": 25.925179616569213,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 1.0,
+        "reason": "Both the original and simplified versions convey the same key meaning, indicating that such an event occurs every 200 to 300 years, preserving all critical information."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output successfully simplifies the sentence structure from the Input by replacing 'sugeriam' with 'indicavam' and rephrasing it slightly. It maintains the original meaning without adding misinformation or redundancy. The Context confirms that the original and simplified sentences correspond well, achieving the intended simplification goal and maintaining clarity."
+      },
+      "Fluência": {
+        "score": 1.0,
+        "reason": "The Actual Output is grammatically correct and well-formed compared to the Input. Its syntactic structure is natural and readable, matching the Context. There are no errors that impede comprehension, and it maintains fluency and consistency with both the Input and Context."
+      }
+    },
+    "g_eval_avg": 0.9666666666666667
+  },
+  {
+    "index": 54,
+    "complexer": "Ou ainda como aquele cantor acostumado a dividir os holofotes com nomes famosos da música popular, como Sting e U2, em nome de causas humanitárias.",
+    "generated": "Ou como aquele cantor que costuma compartilhar os holofotes com artistas famosos, como Sting e U2, para apoiar causas humanitárias.",
+    "reference": "Pavarotti também será lembrado como um cantor acostumado a dividir os holofotes com nomes famosos da música popular em nome de causas humanitárias.",
+    "SARI": 20.050918814359672,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8913918804380984,
+        "reason": "The Actual Output retains the original meanings and essential content from the Input, only slightly rephrasing the sentence structure in a way that aligns well with the Context. There is no significant loss of information."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output is structurally simpler, maintaining the original meaning that the singer shares the spotlight with famous artists for humanitarian causes. It does not omit critical information or add redundancy."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output is grammatically correct and maintains natural syntax similar to the original phrase. The meaning is preserved, and there are no comprehension-obstructing errors. The context of humanitarian causes is consistently maintained, aligning well with fluency requirements."
+      }
+    },
+    "g_eval_avg": 0.8971306268126994
+  },
+  {
+    "index": 17,
+    "complexer": "A inconsistência climática abre espaço para conjecturas sobre o papel do aquecimento global na atmosfera gaúcha.",
+    "generated": "As mudanças estranhas no clima levantam dúvidas sobre como o aquecimento global afeta o tempo no Rio Grande do Sul.",
+    "reference": "A variação do clima abre espaço para questões sobre o papel do aquecimento global na atmosfera gaúcha.",
+    "SARI": 25.48611111111111,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The Actual Output effectively retains the essential meaning of assessing climate change impacts in the Rio Grande do Sul, similar to the Input. However, 'inconsistência climática' was generalized to 'mudanças estranhas no clima,' which slightly alters the specificity. The Context supports these similarities."
+      },
+      "Simplicidade": {
+        "score": 0.7,
+        "reason": "The Actual Output simplifies the sentence structure and is easier to understand than the Input. However, it introduces a slight change in meaning by focusing on 'estranhas mudanças' in climate rather than 'inconsistência climática,' altering context slightly. Despite this, it generally maintains meaning and reduces redundancy."
+      },
+      "Fluência": {
+        "score": 0.7,
+        "reason": "The Actual Output is grammatically correct and has a natural structure, but it introduces 'mudanças estranhas no clima' not present in the Input, changing the nuance. The fluency is maintained and comprehension is not significantly hindered compared to the Input."
+      }
+    },
+    "g_eval_avg": 0.7333333333333334
+  },
+  {
+    "index": 329,
+    "complexer": "Mas os cientistas se preocupam com a possibilidade de que mutações aleatórias no vírus acabem criando cepas capazes de serem transmitidas de pessoa a pessoa, criando o potencial de uma nova pandemia, uma epidemia de proporções globais.",
+    "generated": "Os cientistas temem que o vírus mude e possa se espalhar entre as pessoas, causando uma nova pandemia.",
+    "reference": "Mas os cientistas se preocupam com a possibilidade de que alterações ocasionais no vírus acabem criando grupos capazes de serem transmitidos de pessoa a pessoa, criando a possibilidade de uma nova pandemia, uma epidemia de proporções globais.",
+    "SARI": 21.966720010358117,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8410686653179253,
+        "reason": "The Actual Output captures the main idea of scientists' concerns about virus mutations leading to human transmission and a potential pandemic. It omits 'epidemia de proporções globais,' but this does not significantly alter the essential meaning conveyed in the Context."
+      },
+      "Simplicidade": {
+        "score": 0.8445601541239268,
+        "reason": "The sentence in Actual Output is simpler, maintaining the core idea of a virus potentially causing a pandemic without unnecessary complexity. It retains essential details without adding inaccurate or redundant information."
+      },
+      "Fluência": {
+        "score": 0.8755307726591948,
+        "reason": "Input is grammatically correct. Actual Output is syntactically correct and maintains natural readability compared to the Input. Context aligns well with the Input and Actual Output despite minor differences in complexity."
+      }
+    },
+    "g_eval_avg": 0.8537198640336823
+  },
+  {
+    "index": 272,
+    "complexer": "Esses corpos medidos em metros são interessantes cientificamente, mas não oferecem absolutamente nenhum perigo aos humanos, diz Robert Jedicke, da Universidade do Arizona, escolhido pela \"Nature\" para comentar o estudo.",
+    "generated": "Robert Jedicke, da Universidade do Arizona, disse à \"Nature\" que esses objetos, medidos em metros, são interessantes para a ciência, mas não representam perigo para os humanos.",
+    "reference": "Esses corpos medidos em metros são interessantes cientificamente, mas não oferecem nenhum perigo aos humanos, diz Robert Jedicke, da Universidade do Arizona, escolhido pela \"Nature\" para comentar o estudo.",
+    "SARI": 24.14648129250219,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The core message is preserved, stating the objects are scientifically interesting and not dangerous. However, it omitted 'absolutely no danger' which lessens the emphasis in the Output. Context retains completeness, but misses the selection by 'Nature' aspect."
+      },
+      "Simplicidade": {
+        "score": 0.8154697904018413,
+        "reason": "The Actual Output simplifies the structure by removing redundant information about Robert Jedicke's selection by 'Nature' and keeps the main points intact. It remains error-free and retains the meaning that the objects are scientifically interesting but not dangerous to humans."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "Grammatically correct and maintains clarity. Slight change in structure compared to Input but conveys the same meaning. Context aligns with Output except for omission of 'absolutamente'."
+      }
+    },
+    "g_eval_avg": 0.8384899301339471
+  },
+  {
+    "index": 1,
+    "complexer": "A retirada de chapéus e bonés da cabeça em ambientes fechados.",
+    "generated": "Tirar chapéus e bonés dentro de casa.",
+    "reference": "Retirar chapéus e bonés da cabeça em ambientes fechados.",
+    "SARI": 26.011904761904763,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.7774294719983338,
+        "reason": "The essential meaning of removing hats and caps indoors is preserved in the Output, but the Output slightly alters the original intent by omitting the concept of removal 'from the head', which is explicit in both the Input and Context."
+      },
+      "Simplicidade": {
+        "score": 0.7,
+        "reason": "The Actual Output simplifies the structure and retains context by focusing on action without unnecessary formality, but shifts slightly from a recommendation to a directive, which may alter the original context's intention."
+      },
+      "Fluência": {
+        "score": 0.6,
+        "reason": "Input is grammatically correct; however, Actual Output omits context and does not match Input structure. Despite its fluency, it is less comprehensive and lacks direct mention of 'da cabeça em ambientes fechados.'"
+      }
+    },
+    "g_eval_avg": 0.6924764906661113
+  },
+  {
+    "index": 60,
+    "complexer": "Uma onda de condenações varreu o planeta ontem, horas depois de a Coréia do Norte realizar o primeiro teste atômico de sua história.",
+    "generated": "Ontem, muitas condenações aconteceram logo após a Coréia do Norte fazer seu primeiro teste atômico.",
+    "reference": "Uma onda de críticas varreu o planeta ontem, horas depois que a Coréia do Norte realizou o primeiro teste atômico de sua história.",
+    "SARI": 31.033970537013136,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The essential meaning is preserved as it states that many condemnations occurred after North Korea's first atomic test, aligning with the original. However, the simplification misses the global impact ('varreu o planeta') indicated in the original Context."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the Input by reducing the syntactic complexity, effectively keeping the overall meaning. However, it slightly alters the temporal nuance from 'horas depois' to 'logo após,' which is a minor deviation. The information remains concise and maintains relevance within the Context."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The Actual Output maintains grammatical correctness and natural structure. It simplifies the Input content by using 'muitas condenações' instead of 'uma onda de condenações varreu o planeta,' keeping the essence intact. However, it slightly alters the time reference from 'horas depois' to 'logo após,' which can slightly change the perceived timing but does not impede comprehension."
+      }
+    },
+    "g_eval_avg": 0.8000000000000002
+  },
+  {
+    "index": 139,
+    "complexer": "-- Os orientais por vezes carregam o sofrimento dos pais, do desemprego.",
+    "generated": "Os orientais às vezes sofrem com os problemas dos pais e com o desemprego.",
+    "reference": "-- Os orientais por vezes carregam o sofrimento dos pais e do desemprego.",
+    "SARI": 27.958638583638578,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The Actual Output maintains the core meanings from the Input by preserving the themes of parental suffering and unemployment among Orientals. However, there is a slight change in phrasing that could affect the nuance of 'por vezes' (sometimes) being less impactful than 'carregar o sofrimento' (carry the suffering)."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The sentence structure in Actual Output is simpler than the Input, making it easier to understand. It maintains the original meaning without adding incorrect or redundant information. While the context supports the simplification, the word 'sometimes' slightly changes the frequency conveyed in the original phrase."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output is grammatically correct and maintains a natural structure. It simplifies the Input without significant loss of meaning, though it slightly alters 'por vezes' to 'às vezes' which remains contextually appropriate."
+      }
+    },
+    "g_eval_avg": 0.8333333333333334
+  },
+  {
+    "index": 110,
+    "complexer": "Para a Secretaria Municipal do Meio Ambiente (Smam), freqüentadores da Redenção não devem se assustar com a morte do cavalo provocada pelo ataque de abelhas.",
+    "generated": "A Secretaria do Meio Ambiente diz que os visitantes do Redenção não precisam se preocupar com a morte do cavalo causada pelas abelhas.",
+    "reference": "Na opinião da Secretaria Municipal do Meio Ambiente, os freqüentadores da Redenção não devem se assustar com a morte do cavalo provocada pelo ataque de abelhas.",
+    "SARI": 32.79689422230206,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8865736885689512,
+        "reason": "The Actual Output maintains the essential content and meaning of the Input by conveying that visitors should not be concerned about the horse's death due to bees, similar to the Input. The change from 'municipal environment secretary' to 'environment secretary' is minimal and does not affect meaning."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the Input by omitting technical names and complex phrasing, retaining the meaning. No incorrect or redundant information is introduced. The Context aligns well with the output in terms of simplicity and accuracy."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output maintains grammatical correctness and natural syntactic structure. It closely mirrors the Input, with minor phrasing shifts that don't impede understanding. The Context supports a simplified output that preserves the original meaning."
+      }
+    },
+    "g_eval_avg": 0.8621912295229838
+  },
+  {
+    "index": 205,
+    "complexer": "Aqui na ponte quem assalta é mandado embora.",
+    "generated": "Quem assalta aqui na ponte é expulso.",
+    "reference": "Aqui na ponte, quem assalta é mandado embora.",
+    "SARI": 27.569444444444446,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The Actual Output conveys the same essential meaning as the Input and Context, with minor restructuring. Critical information about being expelled for mugging on the bridge is retained."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output simplifies the sentence structure by reordering words while retaining the original meaning and intent. The essential information that assailants are expelled at the bridge is maintained, without introducing incorrect information or being redundant."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output is grammatically correct with slight syntactic variation. It is easily readable and maintains the meaning of the Input in the Context provided."
+      }
+    },
+    "g_eval_avg": 0.9
+  },
+  {
+    "index": 242,
+    "complexer": "Ele pesquisa uma vacina produzida em tomates contra o vírus respiratório sincicial, que ataca recém-nascidos.",
+    "generated": "Ele está desenvolvendo uma vacina em tomates para proteger bebês contra o vírus respiratório sincicial.",
+    "reference": "Ele pesquisa uma vacina produzida em tomates contra o vírus respiratório sincicial, que ataca bebês que acabaram de nascer.",
+    "SARI": 29.06856261022928,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The Actual Output preserves the main points of the Input, namely the development of a tomato-based vaccine for respiratory syncytial virus targeting infants. However, the shift from 'pesquisa' to 'desenvolvendo' slightly alters the original context of research to development."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the original sentence by specifying that he is 'developing' a vaccine, rather than just 'researching' it, and keeps the focus on the same vaccine-related context. It clears up ambiguity on the target group by mentioning 'bebês' instead of 'recém-nascidos'. However, it deviates slightly by stating 'para proteger bebês', which slightly changes the focus from the vaccine's composition to its purpose."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The Actual Output is grammatically correct and readable. It changes 'pesquisa' to 'desenvolvendo' and explicitly mentions 'proteger bebês', enhancing clarity but deviating slightly from the Input's focus on 'recém-nascidos'. Despite this, it aligns well with the Context."
+      }
+    },
+    "g_eval_avg": 0.8000000000000002
+  },
+  {
+    "index": 240,
+    "complexer": "Queriam saber se o regime curto era melhor que nada para impedir a contaminação do feto.",
+    "generated": "Eles queriam saber se um tratamento rápido era melhor que nada para evitar que o bebê fosse contaminado.",
+    "reference": "Queriam saber se o regime curto era melhor que nada para impedir a contaminação do bebê.",
+    "SARI": 29.37079532667768,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "Essential content and meanings, such as the comparison between a short treatment and no treatment to prevent contamination, are preserved. Minor deviation occurs with 'bebê' replacing 'feto', but the core idea remains clear and simple, maintaining adequation with context."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output simplifies the Input by using 'tratamento rápido' instead of 'regime curto' and 'bebê' instead of 'feto' without losing meaning, while maintaining coherence with the Context's intention."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The Actual Output is grammatically correct and simple, accurately reflecting the Input's meaning. However, it slightly diverges by adding 'para evitar que o bebê fosse contaminado' instead of directly mentioning 'contaminação do feto.' Despite this, it maintains readability."
+      }
+    },
+    "g_eval_avg": 0.8333333333333334
+  },
+  {
+    "index": 133,
+    "complexer": "Jucélia de Souza, técnica de enfermagem, esperava uma loja abrir e presenciou o acidente.",
+    "generated": "Jucélia, que é técnica de enfermagem, estava esperando uma loja abrir quando viu o acidente acontecer.",
+    "reference": "Jucélia de Souza, técnica de enfermagem, esperava uma loja abrir e viu o acidente.",
+    "SARI": 34.05600118835413,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The core meaning and essential information are retained with Jucélia being a nursing technician present at an accident while waiting for a store to open. The small detail of her full name 'de Souza' is omitted, but this does not significantly alter the intended message."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The simplification retains most essential information such as Jucélia's occupation and the event occurrence context. Structural complexity is reduced slightly with maintained meaning, though it introduces minor redundancy by specifying 'viu o acidente acontecer' instead of 'presenciou o acidente'."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output is grammatically correct, maintains a natural syntactic structure, and preserves the message from the Input. It slightly alters 'esperava' to 'estava esperando,' which does not impede understanding or significantly alter meaning in context."
+      }
+    },
+    "g_eval_avg": 0.8666666666666667
+  },
+  {
+    "index": 201,
+    "complexer": "A Capital vivencia um fenômeno contraditório:",
+    "generated": "A cidade grande está passando por algo oposto ao que se espera.",
+    "reference": "A Capital vive um fenômeno sem lógica:",
+    "SARI": 30.277777777777775,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.7,
+        "reason": "The Actual Output maintains the essential meaning that the city is experiencing something contradictory as noted in the Input and Context. However, there is a slight loss of specific detail as 'Capital' is replaced with 'cidade grande'."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the Input by preserving the essence of a contradictory experience in a large city, aligning with the context, without adding incorrect or redundant information."
+      },
+      "Fluência": {
+        "score": 0.6,
+        "reason": "Input is grammatically correct; Actual Output rephrases context and improves readability but loses specificity by not mentioning the 'Capital'."
+      }
+    },
+    "g_eval_avg": 0.7000000000000001
+  },
+  {
+    "index": 51,
+    "complexer": "Com tanto reconhecimento e prestígio, Pavarotti teve um fim sereno.",
+    "generated": "Pavarotti teve uma morte tranquila, mesmo com toda a fama e respeito que ganhou.",
+    "reference": "Pavarotti teve um fim sereno.",
+    "SARI": 30.277777777777782,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The essential content of Pavarotti having a serene end despite fame and respect is maintained, matching the simplification goals. Minor linguistic differences slightly affected the preservation."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output maintains the core meaning of the Input by stating Pavarotti's death was peaceful despite his fame. It simplifies the grammatical structure slightly by using 'teve uma morte tranquila' instead of 'teve um fim sereno', and no unnecessary information is added."
+      },
+      "Fluência": {
+        "score": 0.88286655298062,
+        "reason": "The Actual Output is grammatically correct and maintains a natural syntactic structure. It captures the intended meaning of the Input by conveying Pavarotti's peaceful passing despite his fame, in line with the Context provided. The slight change in wording does not hinder comprehension."
+      }
+    },
+    "g_eval_avg": 0.8609555176602067
+  },
+  {
+    "index": 89,
+    "complexer": "Domodilo Pedro Scherer, natural de Cerro Largo, foi escolhido pelo papa Bento XVI como um dos 23 novos \"príncipes da Igreja\".",
+    "generated": "Domodilo Pedro Scherer, que nasceu em Cerro Largo, foi nomeado cardeal pelo papa Bento XVI.",
+    "reference": "O papa Bento XVI escolheu dom Odilo.",
+    "SARI": 37.42991822201725,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The essential information regarding Domodilo Pedro Scherer's origin and his appointment by Pope Benedict XVI is retained, but the specific mention of being one of the 23 new 'princes of the Church' is omitted."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the structure by omitting the quote about 'príncipes da Igreja,' yet retains the core meaning of the Input about Scherer's appointment as cardinal by the pope. The Context supports this simplification, but minor redundancy with naming the pope may slightly impact clarity."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output maintains grammatical accuracy and syntactic naturalness compared to the Input. It simplifies the Input without hindering comprehension by using 'nomeado cardeal' instead of 'um dos 23 novos 'príncipes da Igreja'', which aligns well with the Context."
+      }
+    },
+    "g_eval_avg": 0.8333333333333334
+  },
+  {
+    "index": 200,
+    "complexer": "-- O fechamento das pontes, isoladamente, vai acabar colocando os moradores de rua nas praças e na frente dos prédios.",
+    "generated": "Fechar as pontes sozinho vai fazer os moradores de rua irem para as praças e ficarem na frente dos prédios.",
+    "reference": "-- Fechar as pontes, e nada mais, vai acabar colocando os moradores de rua nas praças e na frente dos prédios.",
+    "SARI": 45.07509819509247,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The Actual Output closely preserves the meaning of the Input sentence by maintaining the essential content about the consequence of closing the bridges. There is a slight difference in wording ('Fechar as pontes sozinho' vs 'O fechamento das pontes, isoladamente'), but the context supports the preservation of the original meaning."
+      },
+      "Simplicidade": {
+        "score": 0.7,
+        "reason": "The Actual Output simplifies sentence structure by removing complex constructions and conveys the original meaning. Though slightly less formal, it maintains core information: bridge closures affect the homeless. However, it implies the inevitability ('fazer os moradores ir') not explicit in the Input, which suggests a possible outcome ('vai acabar colocando')."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The converted sentence is less complex but maintains the meaning of the input sentence. The output simplifies the structure while being grammatically correct and appropriately aligned with the context."
+      }
+    },
+    "g_eval_avg": 0.8333333333333334
+  },
+  {
+    "index": 2,
+    "complexer": "Acessório utilizado por adolescentes, o boné é um dos itens que compõem a vestimenta idealizada pela proposta.",
+    "generated": "Os adolescentes usam bonés, que fazem parte da roupa sugerida pela proposta.",
+    "reference": "O boné é um dos itens da roupa imaginada pela proposta.",
+    "SARI": 40.432937691808256,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The Actual Output maintains the core meaning that hats are used by teenagers and are part of the proposed attire, closely aligning with the Input."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output conveys the same meaning as the Input by maintaining the core idea that caps are worn by teenagers and are part of the suggested outfit. It simplifies the grammatical structure by using a straightforward sentence. There is no added or redundant information introduced, and the output is easier to understand owing to its simplicity."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The output maintains correct grammatical structure and natural syntax, aligning with the context. It effectively simplifies the original by focusing on caps as part of the proposed attire for teens, although it slightly shifts focus from 'accessory' to 'part of clothing'."
+      }
+    },
+    "g_eval_avg": 0.8666666666666667
+  },
+  {
+    "index": 204,
+    "complexer": "A migração se intensificou recentemente com o fechamento do espaço de cinco pontes ao longo da Avenida Ipiranga, tradicionalmente habitadas por moradores de rua.",
+    "generated": "A migração aumentou depois que fecharam cinco pontes na Avenida Ipiranga, onde moradores de rua costumavam ficar.",
+    "reference": "A migração aumentou nos últimos tempos depois que fecharam o espaço de cinco pontes ao longo da Avenida Ipiranga, por tradição habitadas por moradores de rua.",
+    "SARI": 43.60442174083148,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The Actual Output preserves the essential meaning of the Input by mentioning migration increase due to the closure of five bridges on Avenida Ipiranga, traditionally occupied by the homeless. Although wording differs slightly, no critical details are omitted."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "Sentence structure is simplified by eliminating auxiliary phrases and reducing complexity, maintaining the original meaning while being concise. There is no addition of redundant or new information, and the output is easier to understand."
+      },
+      "Fluência": {
+        "score": 0.8802113297782709,
+        "reason": "The simplified sentence maintains correct grammar and syntax, and is easy to read. Errors are absent, ensuring clarity. Compared to the original, it adequately conveys the same information about migration increase and bridge closures but is slightly less detailed."
+      }
+    },
+    "g_eval_avg": 0.8600704432594237
+  },
+  {
+    "index": 137,
+    "complexer": "Testemunhas contrariam esta versão.",
+    "generated": "As testemunhas dizem o contrário.",
+    "reference": "Testemunhas discordam desta versão.",
+    "SARI": 37.142857142857146,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8630800293032307,
+        "reason": "The Actual Output effectively preserves the meaning of the Input and conveys the key point that witnesses disagree with the statement, maintaining the same contextual purpose."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output simplifies the Input by using a more straightforward expression while maintaining the core meaning from the Context. No unnecessary information is added, and no incorrect information is introduced."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The output is grammatically correct with a natural structure that aligns with the input's intent by contrasting the original statement with witness claims."
+      }
+    },
+    "g_eval_avg": 0.887693343101077
+  },
+  {
+    "index": 254,
+    "complexer": "A nova pesquisa promete ter impacto ainda maior no meio científico do que o estudo atual.",
+    "generated": "A nova pesquisa deve influenciar mais o mundo científico do que o estudo de agora.",
+    "reference": "A nova pesquisa promete um efeito ainda maior no meio científico do que o estudo atual.",
+    "SARI": 35.513797777729664,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The Actual Output closely mirrors the Input by conveying the same core meaning that the new research will significantly impact the scientific community, preserving all essential content given the Context."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output is simpler by removing words like 'promete' and 'ainda', but retains the main meaning of greater scientific impact in the future without adding errors or redundant information unnecessarily."
+      },
+      "Fluência": {
+        "score": 0.7564069290769313,
+        "reason": "The Actual Output is grammatically correct and maintains a similar syntactic structure to the Input while being simplified. It is readable and conveys similar meaning in the Context, but 'deve influenciar' suggests a possibility instead of 'promete ter' which indicates certainty, slightly altering the original meaning."
+      }
+    },
+    "g_eval_avg": 0.8188023096923104
+  },
+  {
+    "index": 150,
+    "complexer": "-- A ação de brincar converte um cabo de vassoura em um cavalo, uma tampa de panela em volante de automóvel, uma caneta em microfone e os lençóis em barracas e castelos -- ressalta.",
+    "generated": "Brincar faz com que um cabo de vassoura vire cavalo, uma tampa de panela vire volante, uma caneta vire microfone e os lençóis virem barracas e castelos.",
+    "reference": "-- Brincar transforma um cabo de vassoura em um cavalo, uma tampa de panela em volante de automóvel, uma caneta em microfone e os lençóis em barracas e castelos -- destaca.",
+    "SARI": 36.60400071129795,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The Actual Output preserves the meanings of the Input closely, capturing the transformation metaphor in play. No significant information is missing. The Context supports this preservation effectively."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output uses simpler sentence structure compared to the Input, maintaining original meaning. The simplification is appropriate and supports comprehension by retaining all conversions without errors or redundancies."
+      },
+      "Fluência": {
+        "score": 0.9419061903384239,
+        "reason": "The Input is well-structured and grammatically correct. The Actual Output maintains grammatical correctness and is natural and readable. The syntactic structure of the Actual Output ensures understanding by clearly depicting the transformation of objects through play. The Context supports fluency by reinforcing the playful transformations described in both the Input and Actual Output."
+      }
+    },
+    "g_eval_avg": 0.913968730112808
+  },
+  {
+    "index": 233,
+    "complexer": "Além disso, o resultado da pesquisa beneficia países pobres, onde o regime curto é o único acessível.",
+    "generated": "O resultado da pesquisa ajuda países pobres, onde só o regime curto está disponível.",
+    "reference": "Além disso, o resultado da pesquisa ajuda países pobres, onde o regime curto é o único acessível.",
+    "SARI": 44.871709619375146,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The actual output closely captures the essential meaning of the input, retaining the key detail that the research results help poor countries where only the short regimen is available. The simplification omits the connector 'Além disso,' but this does not alter the core message. Contextual understanding of 'regime curto' is consistent across both."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output simplifies the Input by reducing sentence complexity while maintaining accuracy. Redundancy is avoided, as the core information about the research benefiting poor countries with limited regime access is retained. Context confirms intended meaning preservation."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The Actual Output is grammatically correct and maintains a natural syntactic structure. It simplifies the Input sentence while preserving the meaning in the Context. However, the phrase 'só o regime curto está disponível' is slightly less clear compared to 'o regime curto é o único acessível.'"
+      }
+    },
+    "g_eval_avg": 0.8333333333333334
+  },
+  {
+    "index": 299,
+    "complexer": "Essa conclusão veio de um estudo feito por Domingos Matos, 36, médico da Universidade Federal do Pará.",
+    "generated": "A conclusão veio de um estudo do médico Domingos Matos, da Universidade Federal do Pará.",
+    "reference": "Essa conclusão veio de um estudo feito por Domingos Matos, médico da Universidade Federal do Pará.",
+    "SARI": 40.65816631034023,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The Actual Output omits the age '36' from the Input but retains the main content regarding 'Domingos Matos,' 'médico,' and 'Universidade Federal do Pará,' maintaining the core meaning."
+      },
+      "Simplicidade": {
+        "score": 0.8108552614066948,
+        "reason": "The Actual Output simplifies the sentence structure by removing the age without adding errors and retains essential information, including the author's name and affiliation. The simplification removes complexity and maintains clarity, though it slightly reduces personal detail."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output maintains grammatical correctness and natural sentence structure from the Input. It is free from errors hindering comprehension and the Context supports the term usage. However, the age '36' was omitted, slightly affecting completeness."
+      }
+    },
+    "g_eval_avg": 0.8369517538022316
+  },
+  {
+    "index": 326,
+    "complexer": "Essa epidemia de gripe, ou influenza, matou de 20 milhões a 40 milhões de pessoas em apenas dois anos, a imprecisão das estimativas, tal como a grandeza dos números, já deixam claro o impacto da tragédia.",
+    "generated": "Essa epidemia de gripe matou entre 20 e 40 milhões de pessoas em dois anos, mostrando claramente o impacto da tragédia.",
+    "reference": "Essa epidemia de gripe matou de 20 milhões a 40 milhões de pessoas em apenas dois anos, a falta de precisão dos números já deixa claro o choque da tragédia.",
+    "SARI": 47.13787768023457,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The Actual Output preserves the core meaning by stating the epidemic's death toll and impact, though it omits the imprecision of estimates and explanation for impact mentioned in the Input and Context."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the sentence structure by removing the unnecessary mention of 'influenza' and 'imprecisão das estimativas'. It avoids redundancy and maintains the original meaning about the impact of the tragedy."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output maintains grammatical correctness and natural syntactic structure, closely aligning with the Input context. It simplifies the original without losing clarity or fluency, though it omits the mention of 'influenza' and the imprecision of estimates."
+      }
+    },
+    "g_eval_avg": 0.8333333333333334
+  },
+  {
+    "index": 223,
+    "complexer": "Na América Latina, o relatório afirma que a epidemia permanece estável.",
+    "generated": "O relatório diz que a epidemia não está mudando na América Latina.",
+    "reference": "O relatório afirma que a epidemia permanece sem variação na América Latina.",
+    "SARI": 45.64276001776002,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The Actual Output maintains the original meaning from the Context with minor wording change from 'permanece estável' to 'não está mudando', but it preserves all essential content accurately."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "Sentence structures are similar in complexity. The output maintains the original meaning without errors. No redundancy is added, and the output is slightly more direct and easier to understand."
+      },
+      "Fluência": {
+        "score": 0.8171760311393303,
+        "reason": "The Actual Output is grammatically correct and syntactically readable. It retains the original meaning, but 'permanece estável' could imply a slight difference from 'não está mudando'."
+      }
+    },
+    "g_eval_avg": 0.8390586770464434
+  },
+  {
+    "index": 50,
+    "complexer": "Com Enrico Caruso, Maria Callas e Pavarotti, de novo a ópera se tornou algo pertencente ao mundo da cultura.",
+    "generated": "Com Enrico Caruso, Maria Callas e Pavarotti, a ópera voltou a ser parte da cultura mundial.",
+    "reference": "A ópera voltou a pertencer ao mundo da cultura com Enrico Caruso, Maria Callas e Pavarotti.",
+    "SARI": 64.94817244998733,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The Actual Output preserves the meaning of the Input with only minor rephrasing. Both versions communicate that the opera has once more become a part of world culture due to the mentioned artists. The Context matches and supports this interpretation, ensuring alignment and clarity without significant information loss."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "Actual Output simplifies Input by swapping complex phrase 'de novo a ópera se tornou algo pertencente ao mundo da cultura' with 'a ópera voltou a ser parte da cultura mundial', maintaining meaning and context accurately. No incorrect information or redundancy introduced."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output maintains grammatical correctness and a natural syntactic structure. It is fluent and more concise compared to the Input. However, it shifts the emphasis slightly by stating 'a ópera voltou a ser parte da cultura mundial,' diverging conceptually from 'de novo a ópera se tornou algo pertencente ao mundo da cultura' in terms of prominence in culture."
+      }
+    },
+    "g_eval_avg": 0.9
+  },
+  {
+    "index": 68,
+    "complexer": "Os Duarte podem ser classificados cachorreiros natos.",
+    "generated": "Os Duarte são naturalmente apaixonados por cachorros.",
+    "reference": "Os Duarte são amigos dos cachorros.",
+    "SARI": 58.24915824915825,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The Actual Output preserves the key meaning by stating 'Os Duarte são naturalmente apaixonados por cachorros,' which aligns with the Context 'cachorreiros natos.' The simplified version accurately retains the essence, but slightly rephrases. No significant information is missing."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output presents a simpler structure while preserving the original meaning. It effectively conveys the 'Duarte' family being dog lovers, aligning with the Context without adding unnecessary details."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output is grammatically correct, well-formed, and maintains the meaning of the original statement, making it readable and fluent. However, the term 'cachorreiros' carries a slightly stronger connotation, suggesting intense enthusiasm, which is slightly softened in 'naturalmente apaixonados', thus leading to a minor change in emphasis."
+      }
+    },
+    "g_eval_avg": 0.8666666666666667
+  },
+  {
+    "index": 116,
+    "complexer": "Isso é possível porque seu computador é equipado com uma tecnologia para acessar a Internet sem fios chamada wi-fi.",
+    "generated": "Isso é possível porque seu computador tem wi-fi.",
+    "reference": "Isso é possível porque seu computador tem uma tecnologia de acesso à Internet sem fios chamada wi-fi.",
+    "SARI": 57.55731686614039,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8379360068037892,
+        "reason": "The simplified version retains the core meaning regarding wi-fi and the computer's capability, but lacks the detailed explanation of wi-fi as a wireless internet technology from the original."
+      },
+      "Simplicidade": {
+        "score": 0.9,
+        "reason": "The Actual Output simplifies the Input by reducing complexity while retaining the key detail about wi-fi, without adding or omitting information. It avoids redundancy and aligns with the Context."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "Input and Actual Output are clear and grammatically correct. Actual Output simplifies the original sentence while maintaining readability and natural syntax but slightly loses the explicit detail about 'tecnologia para acessar a Internet sem fios'."
+      }
+    },
+    "g_eval_avg": 0.8459786689345964
+  },
+  {
+    "index": 72,
+    "complexer": "Quando sobra espaço na areia, aumenta a coragem dos donos de cães para levá-los à praia.",
+    "generated": "Quando tem espaço na areia, os donos ficam mais corajosos para levar os cães à praia.",
+    "reference": "Nas ocasiões em que sobra espaço na areia, os donos dos cães têm mais coragem de levá-los à praia.",
+    "SARI": 55.57979738439508,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.9,
+        "reason": "The essential meaning of the original sentence is preserved; 'quando tem espaço' mirrors 'quando sobra espaço' and 'aumenta a coragem dos donos de cães' is effectively communicated as 'os donos ficam mais corajosos', reflecting the Context accurately. No significant information loss is observed."
+      },
+      "Simplicidade": {
+        "score": 0.8893376162524393,
+        "reason": "The Actual Output is structurally simpler and maintains the original meaning without introducing errors. Redundant elements were removed, enhancing ease of understanding compared to the Input."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output maintains fluency and syntactic structure akin to the original. It is grammatically correct and contextually accurate, replicating the meaning of courage increasing among dog owners when sand space is available. Slight variation in vocabulary ('sobrar' vs 'ter') but does not impair comprehension."
+      }
+    },
+    "g_eval_avg": 0.8964458720841465
+  },
+  {
+    "index": 28,
+    "complexer": "Dois ministros foram radicais pela fidelidade.",
+    "generated": "Dois ministros defenderam fortemente a fidelidade.",
+    "reference": "Dois ministros defenderam radicalmente a fidelidade.",
+    "SARI": 63.05555555555555,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The core meaning of defending or being radical about fidelity is maintained. However, 'defenderam fortemente' slightly shifts the emphasis from being radical to strongly defending, introducing a subtle contextual difference. Despite this, the essential content aligns well."
+      },
+      "Simplicidade": {
+        "score": 0.7,
+        "reason": "The sentence structure is simpler in the Actual Output. It maintains the original meaning but the word 'radicais' translates more closely to 'radical' than 'strongly' in English, slightly altering the intensity. However, the Output is easier to understand in this context."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output is grammatically correct and reads naturally, maintaining verb agreement and sentence structure. Though the Context uses 'foram radicais,' the Output uses 'defenderam fortemente,' which aligns semantically with the input phrase."
+      }
+    },
+    "g_eval_avg": 0.7999999999999999
+  },
+  {
+    "index": 283,
+    "complexer": "Um estudo defendendo a idéia foi publicado on-line pela revista científica norte-americano \"Science\" (www.sciencexpress.org).",
+    "generated": "Um estudo que apoia a ideia saiu no site da revista \"Science\".",
+    "reference": "A revista americana \"Science\" publicou on-line um estudo defendendo a idéia.",
+    "SARI": 46.48528227475597,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "The core meaning is preserved as both mention a study supporting an idea published by 'Science'. However, the Actual Output omits the online publication detail and the source website, which are present in the Input and may affect its completeness in context."
+      },
+      "Simplicidade": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the sentence structure and preserves the original meaning while omitting details about the publisher's nationality and website, which doesn't affect comprehension."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The Actual Output is grammatically correct and maintains fluency with the Context. However, it simplifies 'publicado on-line pela revista científica norte-americano' to 'saiu no site da revista', which is less precise but does not hinder comprehension."
+      }
+    },
+    "g_eval_avg": 0.8000000000000002
+  },
+  {
+    "index": 246,
+    "complexer": "Os resultados saíram na publicação \"Transgenic Research\" (www.wkap.nl/journals/transgenic_res).",
+    "generated": "Os resultados foram publicados na revista \"Transgenic Research\".",
+    "reference": "Os resultados saíram na publicação \"Transgenic Research\".",
+    "SARI": 54.766414141414145,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.5231311776942069,
+        "reason": "The essential meaning is preserved as both indicate the results were published in 'Transgenic Research'. However, the Actual Output lacks the exact phrasing and additional URL information from the Input."
+      },
+      "Simplicidade": {
+        "score": 0.8173118112757611,
+        "reason": "The Actual Output simplifies the Input by using shorter and clearer phrases, keeping the core meaning intact. It maintains the information that results were published in 'Transgenic Research' and avoids unnecessary details such as the weblink. The Context suggests that simplifying the Input by removing redundant details is appropriate."
+      },
+      "Fluência": {
+        "score": 0.9,
+        "reason": "The Actual Output is grammatically correct, syntactically natural, and maintains fluency with the context. It aligns well with the input, but is slightly more formal, which causes a very minor deviation from the simple language in the input."
+      }
+    },
+    "g_eval_avg": 0.746814329656656
+  }
+]

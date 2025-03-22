@@ -4,12 +4,12 @@ import json
 import text_metrics
 
 # Caminho para o diretório com os arquivos JSON
-input_dir = 'fauna/pira/'  
+input_dir = 'fauna/recogna/'  
 output_dir = 'fauna_output/'  
 os.makedirs(output_dir, exist_ok=True)
 
 # ===>> Defina aqui a chave que contém o texto (ex: "generated", "original")
-TEXT_KEY = 'reference'  
+TEXT_KEY = 'generated'  
 
 ID_KEY = 'id'  # se não existir, será gerado automaticamente
 

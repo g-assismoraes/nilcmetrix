@@ -1,0 +1,830 @@
+[
+  {
+    "index": 282,
+    "complexer": "Os resultados do trabalho, que tem como autores pesquisadores franceses e argentinos e o astrofísico brasileiro Irapuan Rodrigues, haviam sido noticiados pela Folha em março, antes de o estudo ser selecionado para publicação.",
+    "generated": " O resultado dos estudos havia ficado conhecido na imprensa no início deste mês (março), quando foi anunciado pelo jornal \"Folha\" da mesma forma com os trabalhos brasileiros foram divulgados anteriormente à divulgação oficial pelos jornais europeus.\" [1]",
+    "reference": "Os resultados do trabalho, que tem como autores pesquisadores franceses e argentinos e o astrofísico brasileiro Irapuan Rodrigues, haviam sido informados pela Folha em março, antes de o estudo ser escolhido para publicação.",
+    "SARI": 10.729419631858656,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "While the actual output mentions the timeframe (March) and the involvement of the journal 'Folha', it lacks clarity on key elements such as the authors' nationalities and the Brazilian astrophysicist mentioned in the input. This omission results in partial information loss."
+      },
+      "Simplicidade": {
+        "score": 0.1,
+        "reason": "The Actual Output has added information not present in the Input, such as referencing 'jornais europeus,' making it diverge from the original meaning. Moreover, it fails to simplify the sentence structure."
+      },
+      "Fluência": {
+        "score": 0.4,
+        "reason": "The Actual Output is grammatically incorrect and includes a confusing structure at 'como os trabalhos brasileiros foram divulgados anteriormente', which undermines comprehension. While it preserves context relevance, its fluency is disrupted by awkwardness in expression."
+      }
+    },
+    "g_eval_avg": 0.26666666666666666
+  },
+  {
+    "index": 128,
+    "complexer": "Ele afirmou ainda que o carro trafegava dentro da velocidade máxima permitida, 60 km / h.",
+    "generated": " O motorista do veículo estava dirigindo em alta velocidades e sem usar os equipamentos de segurança obrigatórios para conduzir um automóvel na estrada (capacete com viseira ou óculos).",
+    "reference": "Ele afirmou ainda que o carro andava dentro da velocidade máxima permitida, 60 km / h.",
+    "SARI": 10.62951496388029,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The essential meaning is misaligned; the input indicates compliance with speed limits, while the output describes recklessness. Significant information about adherence to permitted speed is absent, impacting the original context."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The Actual Output introduces incorrect information by implying the driver was speeding and using a helmet or glasses, deviating from the Input which states the vehicle was within speed limits. Thus, it fails to retain core meaning and does not provide a simpler structure."
+      },
+      "Fluência": {
+        "score": 0.4,
+        "reason": "The output contains grammatical errors like 'alta velocidades' instead of 'alta velocidade'. It introduces new information (like safety equipment), making it inconsistent with the context provided where 60 km/h is mentioned as compliant."
+      }
+    },
+    "g_eval_avg": 0.26666666666666666
+  },
+  {
+    "index": 167,
+    "complexer": "Nesse dia eles andavam por aí -- conta Inácio.",
+    "generated": " Eles andaram pelo mundo... Conta ele ao amigo! (Ou) Ele caminhou pela cidade e viu um homem que vendia flores no mercado central da capital do país XYZ....(continuar lendo...)",
+    "reference": "Nesse dia, eles andavam por aí -- conta Inácio.",
+    "SARI": 12.54985754985755,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output diverges from the Input by introducing new narrative elements unrelated to the Context, which confuses the original meaning and results in a loss of essential content."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The Actual Output adds complexity by introducing multiple scenarios and locations, altering the sentence structure significantly from Input. The main meaning is partially maintained, but unnecessary details are included. The Context does not fully align as it adds minimal support in understanding."
+      },
+      "Fluência": {
+        "score": 0.3312506803319216,
+        "reason": "The Actual Output contains grammatical errors and lacks fluency, such as awkward ellipses, affecting readability. While the structure is somewhat aligned with the Input, it diverges significantly in meaning and doesn't simplify the original context effectively."
+      }
+    },
+    "g_eval_avg": 0.27708356011064056
+  },
+  {
+    "index": 272,
+    "complexer": "Esses corpos medidos em metros são interessantes cientificamente, mas não oferecem absolutamente nenhum perigo aos humanos, diz Robert Jedicke, da Universidade do Arizona, escolhido pela \"Nature\" para comentar o estudo.",
+    "generated": " Os cientistas descobriram que os seres vivos podem crescer e se desenvolver de forma muito diferente dos organismos mortos encontrados no local onde foram encontradas as amostras analisadas pelo laboratório (veja página ao lado). A análise mostrou também um grande aumento na quantidade desses animais nos últimos anos - algo incomum num ambiente tão hostil como aquele deserto árido. O pesquisador disse ainda à revista Nature : É possível haver vida inteligente lá fora, embora seja difícil provar isso com certeza absoluta porque é preciso encontrar algum tipo específico dessa es",
+    "reference": "Esses corpos medidos em metros são interessantes cientificamente, mas não oferecem nenhum perigo aos humanos, diz Robert Jedicke, da Universidade do Arizona, escolhido pela \"Nature\" para comentar o estudo.",
+    "SARI": 6.104231166150671,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output deviates significantly from the Input and Context, lacking the original meaning and focus on safety and scientific interest pointed out by Robert Jedicke, resulting in a loss of essential meanings."
+      },
+      "Simplicidade": {
+        "score": 0.0,
+        "reason": "The Actual Output is not simpler and does not maintain the original meaning. It introduces unrelated scientific findings, increasing complexity and redundancy compared to the Input, which is a concise comment on non-threatening scientific interest."
+      },
+      "Fluência": {
+        "score": 0.1886882202835972,
+        "reason": "The output is grammatically correct but diverges significantly in meaning and context from the input, discussing different scientific findings unrelated to human safety, and lacks coherence with the provided context."
+      }
+    },
+    "g_eval_avg": 0.1295627400945324
+  },
+  {
+    "index": 306,
+    "complexer": "Não diz que é a melhor coisa do mundo, mas aponta a possibilidade de resultados positivos, no caso de esgotamento das alternativas.",
+    "generated": " Diz claramente qual resultado se espera obter com ela e quais são as opções disponíveis para alcançálo (ou não).",
+    "reference": "Não diz que é a melhor coisa do mundo, mas aponta a possibilidade de resultados positivos, no caso de acabarem as alternativas.",
+    "SARI": 10.990706824040158,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The Actual Output partially retains the core meaning by addressing possible results and options but misses key information about positive outcomes mentioned in the original, as described in the Context."
+      },
+      "Simplicidade": {
+        "score": 0.5,
+        "reason": "The Actual Output uses simpler structure than the Input. It captures the core idea of the Context by communicating the expected results and options. No redundancy is added."
+      },
+      "Fluência": {
+        "score": 0.5,
+        "reason": "The Actual Output is grammatically correct and maintains a natural flow. However, it introduces new concepts like 'opções disponíveis' not present in the Input, which affects comprehensibility."
+      }
+    },
+    "g_eval_avg": 0.43333333333333335
+  },
+  {
+    "index": 240,
+    "complexer": "Queriam saber se o regime curto era melhor que nada para impedir a contaminação do feto.",
+    "generated": " Queria ver como seria um parto normal em casa sem nenhuma intervenção médica ou hospitalar e com os cuidados básicos de higiene da mãe (e não apenas dos bebês).",
+    "reference": "Queriam saber se o regime curto era melhor que nada para impedir a contaminação do bebê.",
+    "SARI": 7.856753812636165,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The Actual Output lacks any reference to the regime corto discussed in the Input, missing essential meanings shared in the given Context."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output introduces ideas not present in the Input, like home birth, which deviates from the original meaning about contamination prevention."
+      },
+      "Fluência": {
+        "score": 0.18022628621873008,
+        "reason": "The Actual Output does not relate to the Context or Input; it lacks coherence, deviates meaningfully, and breaks grammatical flow compared to both."
+      }
+    },
+    "g_eval_avg": 0.1600754287395767
+  },
+  {
+    "index": 149,
+    "complexer": "-- A ação de brincar converte um cabo de vassoura em um cavalo, uma tampa de panela em volante de automóvel, uma caneta em microfone e os lençóis em barracas e castelos -- ressalta.",
+    "generated": " - O ato da criança transformar objetos comuns do dia à noite transforma as coisas que são triviais para nós numa aventura inesquecível! (Marthin Luther King)",
+    "reference": "-- A ação de brincar converte um cabo de vassoura em um cavalo, uma tampa de panela em volante de automóvel, uma caneta em microfone e os lençóis em barracas e castelos -- destaca.",
+    "SARI": 3.1426163005110372,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The original meaning is partially retained, focusing on transformation through play. However, the Actual Output adds an unrelated quote attributed to Martin Luther King and introduces concepts not present in the Input, losing part of the original message."
+      },
+      "Simplicidade": {
+        "score": 0.36763564407472216,
+        "reason": "The Output is stylistically complex and introduces a new context with Marthin Luther King. While it captures the imaginative transformation theme, it deviates from Input's specific examples, making it less concise and slightly off-topic."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output is grammatically correct and uses a coherent syntactic structure, but it diverges significantly from the Input in meaning and context. Instead of simplifying, it introduces a different example and adds an incorrect attribution to Martin Luther King, which could confuse users. This inconsistency affects comprehension and fluency negatively."
+      }
+    },
+    "g_eval_avg": 0.3225452146915741
+  },
+  {
+    "index": 278,
+    "complexer": "Para os militares a coisa acabou não sendo lá muito útil, mas os dados se tornaram um prato cheio para os astrônomos.",
+    "generated": " Os cientistas ficaram surpresos com as informações que receberam dos astronautas e decidiram investigar melhor sobre elas em casa (no laboratório). Eles descobriram coisas interessantes como planetas rochosos habitados ou sem vida no sistema solar! E ainda há muitos outros mundos à espera de serem descobertos...",
+    "reference": "Para os militares, a coisa acabou não sendo muito útil, mas os dados se tornaram um prato cheio para os astrônomos.",
+    "SARI": 11.234134357322764,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The actual output changes the main topic from military utility to scientific interest. It introduces planets and additional discoveries not mentioned in the context, indicating significant loss and alteration of information."
+      },
+      "Simplicidade": {
+        "score": 0.10714675108877014,
+        "reason": "Output introduces new content about scientists and planets not in Input. Simplification loses original meaning and context focused on data usefulness for astronomers."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output exhibits noticeable grammatical correctness and fluency issues when compared to the Input and Context, with significant deviation in subject focus from military context to scientific exploration, breaking coherence."
+      }
+    },
+    "g_eval_avg": 0.16904891702959005
+  },
+  {
+    "index": 146,
+    "complexer": "Não esperavam que, em novembro de 2007, quando a primeira geração nascida sem o muro de Berlim se tornasse adulta, houvesse cidades no Leste com desemprego de 21,6%.",
+    "generated": " Em dezembro do ano passado havia 21% da população desempregada na Alemanha Ocidental e 61,4% nos países Oriental (Alemanha). A taxa média era maior nas áreas urbanas dos dois lados das fronteiras alemãs – 82,6% para os alemães ocidentais contra 56,3% entre as pessoas residentes ao longo dessas linhas divisórias territoriais [fonte].",
+    "reference": "Não esperavam que houvesse cidades no Leste com desemprego de 21,6% em novembro de 2007, quando a primeira geração nascida sem o muro de Berlim se tornasse adulta.",
+    "SARI": 12.148612258968795,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The Actual Output has no overlap in content or context with the Input. It fails to address the specific unemployment statistic from November 2007 mentioned in the Context, instead providing unrelated figures for different areas and times."
+      },
+      "Simplicidade": {
+        "score": 0.1,
+        "reason": "Actual Output introduces unrelated statistics from December, which do not simplify or align with November 2007 unemployment context. It lacks direct connection to Input and Context, failing complexity check."
+      },
+      "Fluência": {
+        "score": 0.1,
+        "reason": "The Actual Output diverges significantly from the Input and Context, discussing different unemployment percentages and regions, which hinders comprehension. Sentence structure in Input is correct, but the Actual Output lacks coherence and fails to address the Input's information."
+      }
+    },
+    "g_eval_avg": 0.10000000000000002
+  },
+  {
+    "index": 161,
+    "complexer": "Portanto, jogos eletrônicos, robôs e bonecas falantes, sem a interatividade de quem os manuseia, não garantem a felicidade de ninguém.",
+    "generated": " Jogos eletrônicos com robôs ou brinquedos que falam são inúteis para as pessoas se sentirem felizes porque elas precisam interagir diretamente con eles!",
+    "reference": "Com isso, jogos eletrônicos, robôs e bonecas falantes, sem a participação da pessoa que os manuseia, não garantem a felicidade de ninguém.",
+    "SARI": 17.162791976010368,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.7211067718588491,
+        "reason": "The Actual Output retains the essential meaning from the Input by highlighting the lack of happiness from non-interactive electronic games and toys. It maintains alignment with the Context, focusing on the absence of interactive engagement. However, it alters the emphasis from non-guarantee to outright uselessness, which slightly deviates from the original nuance."
+      },
+      "Simplicidade": {
+        "score": 0.5,
+        "reason": "The Actual Output simplifies the Input by using a simpler vocabulary and structure, replacing 'portanto' and reducing sentence length. However, it changes the meaning by emphasizing direct interaction, which isn't explicit in the Input. Context is partially retained but not clearly conveyed."
+      },
+      "Fluência": {
+        "score": 0.7,
+        "reason": "The output grammar is mostly correct, but has a minor typo: 'con' instead of 'com.' The sentence is generally natural and understandable, aligning with context. It fluently conveys the primary intent but slightly differs in complexity from the input."
+      }
+    },
+    "g_eval_avg": 0.6403689239529496
+  },
+  {
+    "index": 218,
+    "complexer": "É por isso que em quase todo prédio de vias como José do Patrocínio, Lima e Silva, Venâncio Aires e Getúlio Vargas grades separam passeios de espaços condominiais -- criando uma estética antimendigo na cidade.",
+    "generated": " É assim porque as ruas são estreitas ou os prédios têm muros altos demais para permitir acesso livre aos pedestres sem passar pela calçada dos moradores (ou seja...).",
+    "reference": "É por isso que grades separam as calçadas dos espaços residenciais em quase todo prédio de ruas como José do Patrocínio, Lima e Silva, Venâncio Aires e Getúlio Vargas, criando uma estética antimendigo na cidade.",
+    "SARI": 18.161536698900473,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output provides partial reasoning but misses key place names and the concept of 'antimendigo aesthetics,' which are significant in the Context."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "Actual Output simplifies by focusing on street and building design but introduces errors regarding pedestrian access. It loses original context about creating an 'anti-homeless' aesthetic and is not more comprehensible than Input."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output lacks structural complexity compared to the Input, missing key elements like the list of street names and the concept of 'antimendigo aesthetic.' This affects coherence within the Context. Syntax is compromised due to interrupted sentence after 'ou seja,' impacting fluency."
+      }
+    },
+    "g_eval_avg": 0.2333333333333333
+  },
+  {
+    "index": 343,
+    "complexer": "Marcelo tejedor, paleontólogo da Universidade Nacional da Patagônia, esboça um sorriso meio sem graça quando lhe perguntam se não é uma situação frustrante.",
+    "generated": " \"Não me sinto muitas vezes bem com isso\", diz ele sobre sua profissão de arqueóloga e professor universitário na cidade argentina que leva seu nome.\" (Folha)",
+    "reference": "Marcelo tejedor, paleontólogo da Universidade Nacional da Patagônia, mostra um sorriso meio sem graça no momento em que lhe perguntam se não é uma situação de decepção.",
+    "SARI": 17.24151296731942,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The Actual Output presents a different subject and context than the Input; the original mentions Marcelo Tejedor, a paleontologist, while the output focuses on an unnamed archaeologist and professor in Argentina."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "There is a significant change in meaning and context; the original topic concerning frustration is altered to emotions about his profession. The simplicity is not consistent with the original input."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The actual output is grammatically incorrect and does not provide a natural simplification of the original context. The profession mentioned is incorrect, leading to confusion."
+      }
+    },
+    "g_eval_avg": 0.20000000000000004
+  },
+  {
+    "index": 334,
+    "complexer": "Os dados para as simulações de computador foram obtidos na Tailândia, um país do sudeste asiático que, além de estar vulnerável à doença, dispunha de um conjunto de estatísticas detalhado e adequado aos modelos.",
+    "generated": " As informações sobre os estudos com animais no Brasil são escassas ou incompletas; não há nenhum estudo em andamento nem qualquer informação disponível nos sites oficiais dos ministérios da Saúde (Brasil), Educação Superior(MEC), Ciência Tecnologia Inovações & Comunicação. O Ministério das Relações Exteriores informou ao G1que \"não tem conhecimento\" desses casos.\"",
+    "reference": "Os dados para os testes de computador foram obtidos na Tailândia, um país do sudeste asiático que, além de estar sensível à doença, dispunha de um conjunto de informações cheio de detalhes e adequado aos modelos.",
+    "SARI": 15.426746535369157,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.0,
+        "reason": "The Actual Output is unrelated to the Input and Context, not retaining any key meanings or information from the original sentence about data from Thailand."
+      },
+      "Simplicidade": {
+        "score": 0.0,
+        "reason": "The Actual Output is unrelated to the Input; it introduces new information about Brazil and animal studies, which was not present in the original context about Thailand and data simulations."
+      },
+      "Fluência": {
+        "score": 0.0,
+        "reason": "The Actual Output is unrelated to the Input and Context, demonstrating no grammatical or syntactic similarity, severely affecting comprehension and readability."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "index": 206,
+    "complexer": "Falta de trabalho dificulta troca da rua por abrigo.",
+    "generated": " Tragédia na estrada mata três pessoas e deixa feridos em acidente com ônibus escolar. (Fonte)",
+    "reference": "Falta de trabalho torna mais difícil a troca da rua por abrigo.",
+    "SARI": 16.96969696969697,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.0,
+        "reason": "The Actual Output does not relate to the Input as it presents completely different information about a road tragedy instead of unemployment issues, and the Context does not connect to either."
+      },
+      "Simplicidade": {
+        "score": 0.0,
+        "reason": "The Actual Output does not relate to the Input or Context, failing to maintain information consistency and structure."
+      },
+      "Fluência": {
+        "score": 0.0,
+        "reason": "The Actual Output does not relate to the Input or Context, failing to adhere to evaluation points as they are unrelated. Also, the Output is irrelevant given the Context."
+      }
+    },
+    "g_eval_avg": 0.0
+  },
+  {
+    "index": 245,
+    "complexer": "Já temos brotos de alface comprovadamente transgênicos, disse Jackson Marcondes de Souza.",
+    "generated": " O que é isso? perguntou um dos jornalistas ao ver os novos vegetais no laboratório da empresa agrícola do estado paulista onde trabalha há dez anos e com quem mantém contato diário desde então (Jornal Folha).",
+    "reference": "Já temos brotos de alface que, com certeza, são transgênicos com certeza, disse Jackson Marcondes de Souza.",
+    "SARI": 15.656146179401993,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.0,
+        "reason": "The actual output does not reflect the input's meaning about transgenic lettuce buds, which lacks any reference in the given phrase."
+      },
+      "Simplicidade": {
+        "score": 0.1,
+        "reason": "The actual output introduces an unrelated scenario involving journalists and a different context than the provided input, which detracts from accuracy and simplicity."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output strays significantly from the Input, introducing new context unrelated to the original statement, affecting naturalness. Both Context and Actual Output contain fluency issues due to mismatched topics."
+      }
+    },
+    "g_eval_avg": 0.10000000000000002
+  },
+  {
+    "index": 279,
+    "complexer": "Registros de bomba atômica nunca apareceram, mas, em compensação, o sistema foi capaz de apontar diversos eventos de explosões, todas causadas pela entrada de pequenos asteróides na atmosfera da Terra e sua subsequente quebra pelo atrito com o ar.",
+    "generated": " Os registros do Sistema Nacional dos Asteroid Meteoritos (NMS) mostram que os objetos menores são detectados regularmente no espaço sideral desde meados das décadas passadas até hoje; porém não há registro algum sobre qualquer objeto maior ou menor ainda desconhecido ter entrado nos limites territoriais terrestres sem causar danos ao planeta.\"",
+    "reference": "Registros de bomba atômica nunca apareceram, mas o sistema foi capaz de apontar diversos eventos de explosões, todas causadas por pequenos asteróides que entram na atmosfera da Terra e se quebram em muitos pedaços depois pelo atrito com o ar.",
+    "SARI": 19.33229579324656,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2064627976727123,
+        "reason": "The Actual Output discusses the detection of smaller objects in space and their lack of impact on Earth but misses the core information about atomic bomb records or asteroid-induced explosions mentioned in the Context. It does not clearly preserve the original meaning from Input, where significant content regarding explosion events linked to small asteroids is lost."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output introduces new information about the Sistema Nacional dos Asteroid Meteoritos not present in the Context. It also fails to simplify the sentence structure and diverges from the original meaning by not discussing bomb atomic records or atmospheric events as described in the Context, leading to unnecessary complexity and deviation."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output maintains grammatical correctness but deviates significantly in context, discussing detection of smaller celestial objects without mentioning the impact events described in the Input. It lacks syntactic alignment with the Context, confusing the message regarding undetected large objects."
+      }
+    },
+    "g_eval_avg": 0.23548759922423743
+  },
+  {
+    "index": 253,
+    "complexer": "A força gravitacional existente em suas imediações é tão forte que nem a luz consegue escapar.",
+    "generated": " As vizinhanças de sua casa são muito perigosas e você deve tomar cuidado ao sair à noite para não ser assaltado ou agredido pelos marginais da região onde mora!",
+    "reference": "A força gravitacional próxima a ela é tão forte que nem a luz consegue escapar.",
+    "SARI": 17.460317460317462,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.0,
+        "reason": "The Actual Output drastically diverges from the Input, discussing safety in a neighborhood instead of gravitational force. The essential information about gravity is entirely missing."
+      },
+      "Simplicidade": {
+        "score": 0.001590639477326739,
+        "reason": "The Actual Output does not simplify or maintain the original Input's meaning and does not align with the Context, discussing danger and crime instead of gravitational force."
+      },
+      "Fluência": {
+        "score": 0.0,
+        "reason": "The Actual Output is entirely unrelated to the Input and Context, with a focus on physical safety instead of gravitational force."
+      }
+    },
+    "g_eval_avg": 0.000530213159108913
+  },
+  {
+    "index": 77,
+    "complexer": "As estratégias já começaram a envolver os altos escalões dos governos.",
+    "generated": " Os planos de estratégia estão sendo desenvolvidos pelos alto escalão do governo federal e estadual.",
+    "reference": "As estratégias já começaram a envolver os altos níveis dos governos.",
+    "SARI": 15.617715617715616,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.8,
+        "reason": "Both the Input and Actual Output convey involvement of high-level government officials in strategy planning, maintaining essential meanings. The Output specifies strategy development, aligning closely with Input and Context without major content loss."
+      },
+      "Simplicidade": {
+        "score": 0.5,
+        "reason": "The Actual Output uses similar complexity with 'alto escalão', which doesn't simplify 'altos escalões'. It retains the meaning but adds redundancy by specifying 'federal e estadual' not present in the original. The readability and understanding remain similar without crucial omissions."
+      },
+      "Fluência": {
+        "score": 0.5315125806471926,
+        "reason": "The Input sentence is well-formed. The Actual Output is grammatically correct, but it does not accurately reflect the syntactic structure or meaning of the Context sentence, as it changes 'já começaram a envolver' to 'estão sendo desenvolvidos', altering the sense from ongoing involvement to development, which affects comprehension."
+      }
+    },
+    "g_eval_avg": 0.6105041935490642
+  },
+  {
+    "index": 132,
+    "complexer": "Irena dos Santos atravessava a Terceira Avenida, esquina com a Rua 2.500, às 8h40 min, quando foi atingida.",
+    "generated": " A mulher de 30 anos estava caminhando pela avenida e acabou sendo atropelada pelo carro que trafegou em alta velocidade no cruzamento da rua 2 mil. Ela morreu na hora do acidente.. (Folha)",
+    "reference": "Irena dos Santos atravessava a Terceira Avenida, na esquina com a Rua 2.500 às 8h40 min, no momento em que foi atingida.",
+    "SARI": 20.324390324390325,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output deviates from the Input by focusing on age, speed, and immediate death, missing key details like the exact location and time from the original sentence. The primary intent of context is partially lost."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The sentence has a similar complexity, adds redundant info (woman's age, Folha), and incorrect context details (location and specifics differ)."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output maintains some contextual elements but uses incorrect street information, affecting clarity and accuracy. There are grammatical errors such as 'rua 2 mil' that lower readability. Fluency is slightly compromised by the inclusion of a news source citation '(Folha)' within the sentence."
+      }
+    },
+    "g_eval_avg": 0.2333333333333333
+  },
+  {
+    "index": 124,
+    "complexer": "A Polícia Militar e a Polícia Civil irão instaurar inquérito policial para apurar as causas do acidente assim que sair o laudo da perícia.",
+    "generated": " O Instituto de Criminalística irá investigar os motivos deste grave crime contra vida humana ocorrido na cidade vizinha à minha residência no último dia 10/06.",
+    "reference": "A Polícia Militar e a Polícia Civil abrirão inquérito policial para investigar as causas do acidente logo que sair o parecer técnico da perícia.",
+    "SARI": 22.857906728874468,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.20772382276041487,
+        "reason": "The key meaning about an investigation of a serious incident is preserved, but the Original mentions police while the Output mentions the Institute of Criminalistics. Context of accident investigation is replaced by crime investigation, showing loss of specific details."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The output uses simpler language but fails to preserve the original meaning, changing the accident investigation to a grave crime and omitting details about police involvement and the forensic report. Context is somewhat maintained but introduces errors and irrelevant information."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The actual output does not maintain the same meaning or context as the input; it introduces investigation and crime elements instead of focusing on a police inquiry into an accident. Additionally, it lacks alignment in terms of grammatical structure and does not create a syntactically related sentence."
+      }
+    },
+    "g_eval_avg": 0.23590794092013825
+  },
+  {
+    "index": 32,
+    "complexer": "Já os ministros Eros Grau, Joaquim Barbosa e Ricardo Lewandowski tiveram parecer radicalmente contrários.",
+    "generated": " Os três juízes já haviam se posicionado contra as prisões antecipadas de condenados em segunda instância (ou seja antes do trânsito julgado).",
+    "reference": "Os ministros Eros Grau, Joaquim Barbosa e Ricardo Lewandowski deram parecer completamente contrário.",
+    "SARI": 20.188461349452062,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.4,
+        "reason": "The Actual Output introduces additional context regarding judicial opposition to early imprisonments that is not present in the Input, possibly altering the meaning. Essential details about the individuals and their radical stance are hinted at but not fully retained."
+      },
+      "Simplicidade": {
+        "score": 0.6,
+        "reason": "The Actual Output simplifies the Input by omitting specific judge names and focusing on their unified stance. It maintains the original meaning but introduces redundancy with 'ou seja' and contextual clarity could be improved as reader must infer the connection to second-instance sentencing."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The Actual Output simplifies the Input accurately and maintains grammatical correctness, but the term 'ministros' is omitted, which slightly affects the Context's clarity."
+      }
+    },
+    "g_eval_avg": 0.6
+  },
+  {
+    "index": 171,
+    "complexer": "E ainda para que funcionários públicos não fossem deslocados de função preparando pratos para serem vendidos no bar.",
+    "generated": " Para evitar os gastos com pessoal e manter as receitas em caixa do restaurante sem ter necessidade da contratação dos mesmos profissionais na cozinha prepararem refeições nos bares ou restaurantes locais onde são servidos aos clientes.",
+    "reference": "Além disso, a resolução serve para que funcionários públicos não sejam afastados de sua função para preparar pratos a serem vendidos no bar.",
+    "SARI": 24.778244631185803,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The meanings are only partially preserved; while both versions discuss reducing staff costs and maintaining revenue, the Actual Output does not clearly mention preventing staff from being reassigned from public duties to food preparation, a key issue in the Context."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output is not significantly simpler than the Input and adds complexity with 'manter as receitas em caixa do restaurante', which is not mentioned in the Input. It partially maintains the original meaning but includes additional irrelevant details."
+      },
+      "Fluência": {
+        "score": 0.272839557314131,
+        "reason": "The Actual Output has some grammatical coherence but lacks clarity without a main verb structure, deviating greatly from the Input's original topic about public employees. It is more verbose and less clear than the simplified expression expected in the Context."
+      }
+    },
+    "g_eval_avg": 0.2242798524380437
+  },
+  {
+    "index": 8,
+    "complexer": "Não fosse o aspecto financeiro, o projeto teria o apoio incondicional de Balzano e do presidente da Famurs, Flávio Luiz Lammel.",
+    "generated": " O fato é que não era só pelo lado econômico em torno desse empreendimento na região metropolitana; havia também um sentimento muito forte entre os prefeitos para apoiar esse tipo investimento no Estado.\" (Folha)",
+    "reference": "O projeto teria o apoio total de Balzano e do presidente da Famurs, se não fosse o problema de dinheiro.",
+    "SARI": 24.266191325014855,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The Actual Output mentions economic aspects and support from mayors, partially aligning with the financial and support elements in the Input, but misses key figures like Balzano and Lammel, affecting context and relevance."
+      },
+      "Simplicidade": {
+        "score": 0.18594696586895038,
+        "reason": "The Actual Output does not simplify the Input and fails to retain key original information, such as specific names and conditions, deviating from intended meaning."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output does not match the Input sentence in structure or focus, failing to reflect the financial aspect emphasized in the Context, leading to a lack of coherence. Additionally, the Output's syntactical complexity is higher than the Input's requirement for simplification."
+      }
+    },
+    "g_eval_avg": 0.22864898862298344
+  },
+  {
+    "index": 317,
+    "complexer": "Todos os 35 estudados já não respondiam mais aos tratamentos convencionais quando foram escalados para a pesquisa.",
+    "generated": " Os pacientes que receberam terapia de reposição hormonal apresentaram melhoras significativas em relação àqueles tratados com placebo e outros medicamentos anticoncepcionais (como pílulas).",
+    "reference": "Todos os 35 estudados não respondiam mais aos tratamentos tradicionais quando foram escolhidos para a pesquisa.",
+    "SARI": 21.991471399332482,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The simplified sentence discusses patients receiving hormone replacement therapy compared to placebo and other drugs, but omits the context of 35 patients not responding to conventional treatment."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output introduces elements (hormone therapy, placebo) not present in the Input and lacks context retention because the original context of participants not responding to conventional treatments is missing."
+      },
+      "Fluência": {
+        "score": 0.8123136333017806,
+        "reason": "The output sentence is grammatically correct with clear syntax and structure. It is fluent and coherent, but there is a slight disconnect as the context does not directly relate to hormone therapy or placebos mentioned in the input."
+      }
+    },
+    "g_eval_avg": 0.3707712111005936
+  },
+  {
+    "index": 294,
+    "complexer": "A pesquisa foi divulgada na edição deste mês da revista \"Pesquisa Fapesp\" (revistapesquisa.fapesp. br).",
+    "generated": " O resultado do estudo será divulgado em breve pela mesma publicação científica citada acima e poderá ser acessado no site www.pagina12.com/pesquisafapa /noticias_detalhe?id=10000&codigo=990.html ).",
+    "reference": "A revista foi divulgada na edição deste mês da revista \"Pesquisa Fapesp\".",
+    "SARI": 20.433736123391295,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The Actual Output changes the context as it refers to a study's upcoming results and a different publication website, missing the immediate release context and source from the Input and Context."
+      },
+      "Simplicidade": {
+        "score": 0.17213465207070985,
+        "reason": "The structure was not simplified and additional, incorrect information was introduced. The output altered the meaning by implying future publication and referenced a different source than the input context."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output has grammatical issues and lacks fluency compared to the Input and Context, with an incorrectly placed parenthesis and incohesive sentence structure impeding comprehension."
+      }
+    },
+    "g_eval_avg": 0.22404488402356995
+  },
+  {
+    "index": 125,
+    "complexer": "A Polícia Militar e a Polícia Civil irão instaurar inquérito policial para apurar as causas do acidente assim que sair o laudo da perícia.",
+    "generated": " O Instituto de Criminalística irá investigar os motivos deste grave crime contra vida humana ocorrido na cidade vizinha à minha residência no último dia 10/06.",
+    "reference": "A Polícia Militar e a Polícia Civil irão abrir inquérito policial para investigar as causas do acidente logo que sair o parecer técnico da perícia.",
+    "SARI": 21.35454181399163,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "Key information about the authorities involved (Polícia Militar and Polícia Civil) and the dependence on the forensics report is omitted, and the investigation is inaccurately attributed to the Instituto de Criminalística."
+      },
+      "Simplicidade": {
+        "score": 0.24747111534243893,
+        "reason": "The structure is simplified but introduces new elements like 'grave crime' which change the meaning from 'acidente' and adds details not in the Input, not aligning with simplifying purposes."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output contains grammatical errors and deviates significantly from the Input, both in terms of content and structure, which affects readability and clarity despite some simplification."
+      }
+    },
+    "g_eval_avg": 0.24915703844747963
+  },
+  {
+    "index": 3,
+    "complexer": "Com a oferta do uniforme, as escolas públicas poderão torná-lo obrigatório, o que eliminaria a roupa como um indicador de diferenças sociais nas escolas e não criaria constrangimento aos alunos mais pobres.",
+    "generated": " As Escolas Pú­blico podem tornar obrigatória sua utilização pelos estudantes para evitar problemas com os pais dos filhos em relação à faltade roupas adequadas ao ambiente escolar ou até pelo fato da escola ter sido escolhida pela família devido às condições oferecidas no local (menor custo).",
+    "reference": "Se o uniforme for oferecido, as escolas públicas poderão torná-lo obrigatório, com isso a roupa deixaria de ser um indicador de diferenças sociais nas escolas e não criaria vergonha nos alunos mais pobres.",
+    "SARI": 23.203347847419064,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.4,
+        "reason": "The Actual Output mentions making uniform usage mandatory to avoid issues with parents and cost benefits but misses the key point from Input about it addressing social disparity. The coherence between Input and Actual Output is weak as the main idea is altered, focusing on logistical benefits rather than social implications."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output adds irrelevant details about parental complaints and cost considerations, missing the core point of social equality from the Input. This complicates the message, detracting from clarity and simplicity while changing the original context."
+      },
+      "Fluência": {
+        "score": 0.5,
+        "reason": "The Actual Output contains grammatical and structural issues such as 'falta de' being incorrectly joined as 'faltade', which affects comprehension. Additionally, it diverges in meaning from the Input, focusing more on parental issues and cost rather than social equality."
+      }
+    },
+    "g_eval_avg": 0.3666666666666667
+  },
+  {
+    "index": 27,
+    "complexer": "Dois ministros foram radicais pela fidelidade.",
+    "generated": " Um ministro foi radical pelo amor ao país e à pátria brasileira! (Ou seja) O outro era um homem de fé que acreditava no Brasil como nação independente do imperialismo europeu; ele defendia os interesses nacionais da população pobre contra as injustiças sociais causadas pelos governos corruptos dos coronéis brasileiros na época colonial.[/spoiler] [url=http://www1.folhaonlinebrasilia2.com/?p=4782][b]{Frases Complexas",
+    "reference": "Dois ministros defenderam completamente a fidelidade.",
+    "SARI": 32.22222222222222,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The Actual Output introduces new details not present in Input, diverging from the original meaning about two ministers being radical due to fidelity. It fails to maintain the essential content, leading to significant information loss."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output is significantly more complex than the Input and introduces unrelated details, failing to simplify or retain the original message which was about two ministers being radical due to loyalty."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The output has grammar issues and is poorly structured with irrelevant and confusing expansions, deviating from context."
+      }
+    },
+    "g_eval_avg": 0.16666666666666666
+  },
+  {
+    "index": 297,
+    "complexer": "E há médicos que tentam estratégias as mais variadas, como interrupção aos fins de semana ou mesmo semanas alternadas com ou sem o medicamento.",
+    "generated": " Há profissionais da saúde e até familiares dos pacientes em busca do melhor tratamento para seus doentes!",
+    "reference": "E há médicos que tentam estratégias como interrupção nos fins de semana ou em semanas com medicamento e semanas sem medicamento.",
+    "SARI": 28.15830611883243,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The essential idea of seeking the best treatment for patients is present but lacks specifics from the Input about medical strategies. Critical information about specific treatment strategies is omitted, reducing preservation of original meaning. Context does not enhance understanding of Output relevance. Output introduces the role of family, which is not in Input."
+      },
+      "Simplicidade": {
+        "score": 0.2737994436103119,
+        "reason": "The Actual Output simplifies the Content by mentioning health professionals and family seeking treatment, but it loses specific strategies like weekend breaks, altering the Input meaning and Context."
+      },
+      "Fluência": {
+        "score": 0.4,
+        "reason": "The Actual Output is grammatically correct but deviates from the Input's context of discussing medical strategies. It introduces new subjects (profissionais da saúde e familiares) not present in the Input, affecting relevance and comprehension."
+      }
+    },
+    "g_eval_avg": 0.3245998145367706
+  },
+  {
+    "index": 20,
+    "complexer": "Dia 17, por exemplo, Campo Bom registrou 40,8° C -- apenas 1,8 abaixo do recorde gaúcho.",
+    "generated": " O calor foi intenso em todo estado nesta quinta e sextafeira de verão quente no Rio Grande Do Sul... (O Globo)",
+    "reference": "No dia 17, Campo Bom teve 40,8 C, apenas 1,8 C abaixo do recorde gaúcho.",
+    "SARI": 26.79554162312783,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The actual output broadly retains the context of high temperatures, but it lacks specific numeric data and contextual details provided in the input and context. There is a notable loss of information regarding the specific temperature and date presented in the input."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output is less complex but lacks accuracy as it focuses on general weather conditions instead of a specific temperature record mentioned in the Input. It omits key details, impacting clarity in the given Context."
+      },
+      "Fluência": {
+        "score": 0.5,
+        "reason": "The actual output has minor grammatical issues, such as 'sextafeira' instead of 'sexta-feira'. The message about intense heat aligns with the context, but does not directly simplify or refer to the Input's specifics about temperature or record, leading to partial coherence."
+      }
+    },
+    "g_eval_avg": 0.3
+  },
+  {
+    "index": 69,
+    "complexer": "Os animais podem ser potenciais transmissores de fungos e bactérias.",
+    "generated": " Animais são possíveis portadores ou disseminantes desses microrganismos patogênicos.",
+    "reference": "Os animais podem transmitir fungos e bactérias.",
+    "SARI": 28.831908831908834,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.7,
+        "reason": "The Actual Output maintains the key meaning that animals can spread microorganisms but changes 'potenciais transmissores' to 'possíveis portadores ou disseminantes,' which slightly alters the original meaning. Context supports the Output."
+      },
+      "Simplicidade": {
+        "score": 0.7789984223612028,
+        "reason": "The output maintains the original meaning by stating that animals can carry or spread pathogens, reducing structural complexity. It simplifies 'potenciais transmissores' to 'possíveis portadores ou disseminantes', aligning with the need for clarity. However, it adds 'microrganismos patogênicos', introducing slight complexity not present in the original, affecting complete simplicity."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The output maintains proper grammar and is comprehensible, with a slight difference in wording from the original input. It preserves the meaning by stating that animals can be carriers of pathogens. The sentence structure is natural and readable."
+      }
+    },
+    "g_eval_avg": 0.7596661407870675
+  },
+  {
+    "index": 26,
+    "complexer": "Ao fim da sessão, venceu o meio termo.",
+    "generated": " A maioria dos participantes considerou que houve um equilíbrio entre os dois lados do debate e não se posicionaram claramente em nenhum deles (Fonte).",
+    "reference": "O meio termo venceu no fim da sessão.",
+    "SARI": 26.31072631072631,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.7,
+        "reason": "The Actual Output captures the essence of the Input by indicating a balance and lack of clear stance, aligning with the original notion of 'meio termo'. However, it introduces additional details like 'participantes' and 'debate', which were not explicit in the Input."
+      },
+      "Simplicidade": {
+        "score": 0.6,
+        "reason": "The simplification provides a more detailed explanation of 'vencer o meio termo,' making it less complex but losing conciseness. The original meaning is retained, but added details deviate slightly from the simplified intent."
+      },
+      "Fluência": {
+        "score": 0.4,
+        "reason": "Input is grammatically correct. Actual Output is also correct but does not maintain the syntactic structure or meaning well from Input or Context, failing to reflect the original message accurately, which reduces clarity."
+      }
+    },
+    "g_eval_avg": 0.5666666666666665
+  },
+  {
+    "index": 12,
+    "complexer": "Professores ainda temem que a distribuição do acessório dificulte a imposição, nas classes, de uma regra da boa conduta:",
+    "generated": " Os professores têm medo das crianças e não querem saber se elas usam ou deixam usar acessórios no cabelo para evitar problemas com os colegas na escola.\" (Folha) \"Os alunos são muitas vezes maltratados pelos outros porque estão usando um boné\"(Jornal).",
+    "reference": "Professores temem também que a distribuição de boné torne difícil impor nas classes uma regra da boa maneira de se comportar:",
+    "SARI": 29.554281171928228,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output fails to preserve essential meaning from the Input, as it shifts focus from teacher concerns about rule enforcement to general issues about student treatment and accessory usage, lacking contextual relevance."
+      },
+      "Simplicidade": {
+        "score": 0.1023338270781654,
+        "reason": "Actual Output introduces information about teachers fearing students and issues with hats, which is not present in Input. Complexity is not reduced, and the intended meaning related to discipline rules in classes is lost."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output does not maintain grammatical coherence with the Input and contains sentence fragments leading to comprehension issues."
+      }
+    },
+    "g_eval_avg": 0.16744460902605515
+  },
+  {
+    "index": 109,
+    "complexer": "Outros pensavam em como soltar as amarras do animal sem se ferir.",
+    "generated": " Os outros pensaram que seria melhor libertar os animais de forma segura e não machucar ninguém.",
+    "reference": "Outros pensaram num modo de soltar o animal sem se ferir.",
+    "SARI": 33.156698224675075,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.48908105405594127,
+        "reason": "The core idea of releasing animals safely is preserved, but the Actual Output introduces 'libertar os animais' and 'não machucar ninguém' which expands the scope of the original meaning and may not align with the original context."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The Actual Output introduces elements not present in the Input, such as 'de forma segura e não machucar ninguém,' deviating from the original meaning despite simpler sentence structure."
+      },
+      "Fluência": {
+        "score": 0.8,
+        "reason": "The actual output is grammatically correct and natural but introduces more complexity and slightly shifts meaning by focusing on safety and multiple animals, diverging from the original singular intention of freeing a single animal without self-harm."
+      }
+    },
+    "g_eval_avg": 0.5296936846853137
+  },
+  {
+    "index": 211,
+    "complexer": "Nesses bairros, quem no passado era afável com desabrigados hoje vive às turras com vizinhos indesejados.",
+    "generated": " Nos últimos anos os moradores desses locais passaram de gentis para hostís e mal educadas em relação aos seus novos inquilinos ou visitantes inconvenientes que se instalam nos prédios abandonando móveis velhos nas calçadas da vizinhança.",
+    "reference": "Nesses bairros, quem era amável com sem-teto hoje vive brigando com vizinhos não desejados.",
+    "SARI": 28.970306513409962,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3276519320789982,
+        "reason": "The Actual Output captures the change in behavior from friendliness to hostility towards new tenants. However, it adds unnecessary details about visitors and abandoned furniture, and distorts the focus from the mere tension with unwanted neighbors in the Context."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The Actual Output is more complex than the Input, adding details not present in the Input, thus failing to simplify. The Context indicates a simple transformation, but the Actual Output introduces additional elements about furniture and hostility."
+      },
+      "Fluência": {
+        "score": 0.6,
+        "reason": "The Actual Output maintains general meaning but contains grammatical errors like 'hostís' instead of 'hostis,' and 'mal educadas' should match 'moradores' in gender and number; contextually, it captures the decline in friendliness but adds unnecessary complexity compared to the Input."
+      }
+    },
+    "g_eval_avg": 0.40921731069299944
+  },
+  {
+    "index": 71,
+    "complexer": "Praia é lugar para cachorro?",
+    "generated": " Não! É um local onde se pode passear com os amigos e família ou simplesmente relaxando em meio à natureza (ou seja lá qual for seu estilo de vida).",
+    "reference": "Praia é lugar de cachorro?",
+    "SARI": 26.314484126984127,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2171886349306824,
+        "reason": "The Actual Output misses the original context's core meaning related to questioning if the beach is a place for dogs, and instead provides a general description of the location's recreational use."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output has a simpler sentence structure and slightly aligns with original meaning but misunderstands it because it implies a setting rather than addressing the question about dogs, not improving understanding."
+      },
+      "Fluência": {
+        "score": 0.5,
+        "reason": "The Actual Output maintains readability but has grammatical issues such as 'relaxando' instead of 'relaxar'. It simplifies the given Context but introduces awkward phrasing."
+      }
+    },
+    "g_eval_avg": 0.30572954497689414
+  }
+]

@@ -1,0 +1,830 @@
+[
+  {
+    "index": 346,
+    "complexer": "Se essa hipótese for verdadeira, os pesquisadores já sabem até em que grupo marsupial encaixar o caco:",
+    "generated": "Se esse palpite estiver correto sobre nosso ancestral comum compartilhando um antepassador não aviano recentemente falecido (ou ainda vivo) tanto conosco quanto para aqueles animais conhecidos como Marsupilâmios do tipo extenso de Queensland; então eles têm algo muito importante e direcionalmente proeminente acontecendo nas proximidades da articulação entre seus braços superiores na pontência física humana modernamente observável",
+    "reference": "Se essa hipótese for verdadeira, os pesquisadores já sabem até em que grupo marsupial incluir o dente:",
+    "SARI": 12.13083213083213,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output introduces a mostly irrelevant narrative about 'Marsupilâmios' and arm joints, diverging from the Input's focus on a research hypothesis and marsupial classification. Context supports marsupial context, but the Output's accuracy regarding this is deficient."
+      },
+      "Simplicidade": {
+        "score": 0.1,
+        "reason": "The Actual Output introduces complexity and details not present in the Input, failing simplicity in structure and ease of understanding."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The sentence structure is convoluted and lacks grammatical correctness leading to comprehension issues. The actual output deviates significantly from the given context regarding the original sentence's meaning and logical flow."
+      }
+    },
+    "g_eval_avg": 0.20000000000000004
+  },
+  {
+    "index": 162,
+    "complexer": "Portanto, jogos eletrônicos, robôs e bonecas falantes, sem a interatividade de quem os manuseia, não garantem a felicidade de ninguém.",
+    "generated": "Portando isso para videogames (jogar em um computador ou console), androidezinhão/robota chatona que falam apenas com você sozinhas no cômodo valem pouco na luta pela sua infelicitude emocional porque eles precisam da humanização através do toque humano; conversas amigáveis desse tipo são altamente estimuladas pelo nosso cérebro como se fossem atividades externais físicas muito produtivas -",
+    "reference": "Com isso, jogos eletrônicos, robôs e bonecas falantes, sem a participação de quem os manuseia, não garantem a felicidade de ninguém.",
+    "SARI": 9.904736467236466,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The Actual Output attempts to convey that games and robotic companions are insufficient for emotional fulfillment, aligning with the Input's idea that such items alone do not ensure happiness. However, it introduces complex phrasing and concepts not present in the original, losing simplicity and clarity."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output uses more complex language and includes additional information not present in the Input, compromising the aim of simplification."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output contains grammatical errors and unclear phrasing, such as 'androidezinhão/robota chatona', which negatively impacts reading ease. Although it attempts to convey a similar message to the Input regarding the emotional impact of games and robots, the language and syntax make it hard to interpret correctly within the Context."
+      }
+    },
+    "g_eval_avg": 0.26666666666666666
+  },
+  {
+    "index": 319,
+    "complexer": "A gripe aviária que atualmente já afeta vários países asiáticos ainda não é um problema grave de saúde pública para o ser humano.",
+    "generated": "A doença da influenza causada pelos pássaros tem sido limitadamente prejudicial à humanidade em alguns estados do leste Asiático até este momento (2003). No entanto essa situação pode mudanças dependendo das circunstâncias futuras e dos avanços científico tecnológica nessa área específicas.\n\nO termo \"gripe\" usado no enunciados acima refere-se especificamentemente ao vírus H5N1 ou",
+    "reference": "A gripe do frango que hoje já afeta vários países asiáticos ainda não é um problema grave de saúde pública para o ser humano.",
+    "SARI": 13.137556887556888,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.5,
+        "reason": "The Actual Output captures the essence of the Input, discussing the limited harm of avian influenza on humans in some Asian states. However, it adds unnecessary speculation about future changes and lacks concise reference to the human public health impact mentioned in the Context. The term explanation is incomplete, which could confuse readers."
+      },
+      "Simplicidade": {
+        "score": 0.27515595524856096,
+        "reason": "The Actual Output adds incorrect and redundant details about the virus and regional impact not present in the Input. Complexity is not reduced as additional context is introduced without simplification, not effectively reflecting the original meaning."
+      },
+      "Fluência": {
+        "score": 0.5,
+        "reason": "The Input is grammatically correct. The Actual Output has grammatical errors ('científico tecnológica', 'específicas'), lacks clarity due to incomplete sentences, and introduces new context ('2003', 'H5N1') not evident in the Input, which affects readability and coherence."
+      }
+    },
+    "g_eval_avg": 0.42505198508285363
+  },
+  {
+    "index": 58,
+    "complexer": "O governo americano também advertiu que um eventual ataque contra a Coréia do Sul ou o Japão seria considerado \"um ataque contra os EUA\".",
+    "generated": "O Governo dos Estados Unidos disse para Coreando e Japão não se preocuparem; pois qualquer agressaó deles sofreriam retaliaçoes direcionadas ao estado adversario - sendo assim percebidas como unhas postas em defesa da independencia nacional norte-americana! Em suma eles disseram aos seus aliados asiaticos presentes no conflito (principalmente) chinesio japonesiho:\n\"Est",
+    "reference": "O governo americano também avisou que um ataque contra a Coréia do Sul ou o Japão seria considerado \"um ataque contra os EUA\".",
+    "SARI": 13.080501135465589,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output misses the direct equivalence to 'um ataque contra os EUA' and misrepresents the core warning intention; the connection to the Context about American defense assurance is also poorly maintained."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output added confusion with incorrect sentences; it contrasts with the Input which clearly states a warning related to a direct attack. The complexity is reduced slightly but loses clarity, and context demands a precise and factual reduction not met here."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "Input and Actual Output contain grammatical issues and unnatural phrasing, with spelling errors like 'Coreando' and 'japonesiho'. The Actual Output deviates from the Context's intended meaning by introducing unclear sentences and lacks coherence."
+      }
+    },
+    "g_eval_avg": 0.20000000000000004
+  },
+  {
+    "index": 299,
+    "complexer": "Essa conclusão veio de um estudo feito por Domingos Matos, 36, médico da Universidade Federal do Pará.",
+    "generated": "Um novo tratamento para câncer foi descoberto pela equipe liderada pelo Dr.Domingo Santos na Escola Politécnica Nacional no Peru; anteriormente outro grupo patenteou remédios baseados em ácido retinoic e outros compost os derivantes dessa moléculas que são usadas como psorina ou vitamina A deriva dos produtos naturais retirando sapos venenos sintetizando vitaminA desde então.\n\nResposta:\nFrase Complex",
+    "reference": "Essa conclusão veio de um estudo feito por Domingos Matos, médico da Universidade Federal do Pará.",
+    "SARI": 10.476190476190476,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.04429779903299544,
+        "reason": "The actual output discusses a new cancer treatment by Dr. Domingo Santos and mentions patented medicines related to vitamin A in Peru, which is unrelated to Domingos Matos and his study in the original context."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output's complexity is not reduced and introduces unrelated information about patenting and unrelated chemical compounds, making it difficult to understand and deviating from the original context."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output contains run-on sentences and syntactical errors affecting readability. Key issues like incorrect punctuation around 'Dr.Domingo' and phrases like 'psorina ou vitamina A deriva dos produtos naturais retirando sapos venenos' hinder comprehension. While the Context expects fluency similar to an academic summary, the Output lacks such coherence."
+      }
+    },
+    "g_eval_avg": 0.18143259967766515
+  },
+  {
+    "index": 315,
+    "complexer": "Se tirarmos a comida dos flamenguistas, quanto tempo vai levar para que os torcedores americanos os superem em número?",
+    "generated": "Se você remover as refeições daqueles apoiadores do Flamengo (torcida organizada), quantas horas será necessário até ela ser igual ao tamanho das bandeiras? Isso é um pouco difícil de entender porque usa algumas metáforras e expressões regionais incomuns (\"tirar assento\", \"bandeira\" nesse contexto). Aquim pode querer revisitar essa pergunta após obter respostadas sobre seu propósito pretendido.\" \n",
+    "reference": "Se tirarmos a comida dos flamenguistas, quanto tempo vai levar para que os torcedores americanos os ultrapassem em número?",
+    "SARI": 9.869287844116217,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output deviates significantly from the Input, introducing complex metaphors and ignoring the straightforward numerical comparison regarding fans, which the Context intended. The core meaning is not preserved well."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output complicates the structure with metaphors not present in the Input and adds irrelevant information about difficulty and revisiting, deviating from the core meaning without maintaining clarity."
+      },
+      "Fluência": {
+        "score": 0.2962521036186153,
+        "reason": "Actual Output contains grammatical errors such as 'metáforras', 'resspostadas', and improper punctuation, impacting readability. Syntax differs from Input as it adds confusion rather than simplifying. Comprehension is hindered as it introduces new concepts not in the Input or Context."
+      }
+    },
+    "g_eval_avg": 0.23208403453953844
+  },
+  {
+    "index": 127,
+    "complexer": "De acordo com o relato delas, a idosa atravessou a rua corretamente, mas o carro da PM não parou.",
+    "generated": "O motorista do veículo contínuo afirmava que ele seguiu as instrução dela para passar pela estrada enquanto observando adequadmente; no entanto sua declaração foi contradita pelo fator de desaceleração insuficiente em seu automóvel quando se aproximaram um ao outro durante essa circunstância específica mencionável acima.\n\nNota:\n\nEsta questão testará principalmente habilidades gramaticais e conhecimento básico das re",
+    "reference": "De acordo com a informação delas, a idosa atravessou a rua corretamente, mas o carro da PM não parou.",
+    "SARI": 12.094547964113183,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The Actual Output shifts focus from an elderly person crossing correctly to a driver's claim about instructions, and lacks reference to the PM vehicle stopping, diverging significantly from the Input's essential content and context."
+      },
+      "Simplicidade": {
+        "score": 0.172839557314131,
+        "reason": "The Actual Output introduces complexity by adding details about a motorista and contexto not present in the Input, deviating from the original Context where it focused on an idosa and carro da PM. The structure is convoluted, making the Output harder to understand than the Input."
+      },
+      "Fluência": {
+        "score": 0.26855167310137096,
+        "reason": "The Actual Output contains grammatical errors, such as 'observando adequadmente' and 'desaceleração insuficiente' without clarity. The syntactic structure is complex and unnatural, compared to a straightforward Input. Readability suffers due to long sentences and mixed details unrelated to the Context."
+      }
+    },
+    "g_eval_avg": 0.180463743471834
+  },
+  {
+    "index": 271,
+    "complexer": "Em oito anos, detectamos mais de 300 eventos, graças ao nosso sistema de calibragem dos dados de satélite, conta Douglas Revelle, do Laboratório Nacional de Los Alamos, um dos autores do estudo, que está publicado na edição de hoje da revista britânica \"Nature\" (www.nature.com).",
+    "generated": "Em cerca ​​de nove meses e meio em espaços alternados entre janeiro passADO até agora este ano, houve eclipses solares ou lunARES. Na verdade - como dizIAmo há alguns parágrafos atrás -, se você morar nos Estados Unidos deve ter tido pelo menos três chance sdesse luxo neste inverno porque havia apenas seis meeses para escolher ; além disso as datas dessas ocasiões já foram conhecidas",
+    "reference": "Em oito anos, detectamos mais de 300 eventos, graças ao nosso sistema de medida dos dados de satélite, conta Douglas Revelle, do Laboratório Nacional de Los Alamos, um dos autores do estudo que está publicado na edição de hoje da revista britânica \"Nature\".",
+    "SARI": 13.743335433476277,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.0,
+        "reason": "The Actual Output introduces an entirely different topic about eclipses, unrelated to the Input, which discusses detecting events using satellite data over eight years. There is no preservation of the original content between Input and Actual Output."
+      },
+      "Simplicidade": {
+        "score": 0.0,
+        "reason": "The Actual Output introduces unrelated content about eclipses and dates, deviating completely from the Input about satellite data events. It does not maintain the original meaning or simplify the sentence provided in the Context."
+      },
+      "Fluência": {
+        "score": 0.29845239082779057,
+        "reason": "The Actual Output contains multiple grammatical errors like 'passADO', 'sdesse', and 'meeses', which affect readability and understanding. Its structure deviates significantly from both the Input and Context, lacking coherence. The fluency does not match the proficiency implied by the Context."
+      }
+    },
+    "g_eval_avg": 0.09948413027593019
+  },
+  {
+    "index": 150,
+    "complexer": "-- A ação de brincar converte um cabo de vassoura em um cavalo, uma tampa de panela em volante de automóvel, uma caneta em microfone e os lençóis em barracas e castelos -- ressalta.",
+    "generated": "A ideia é que se divertir pode transformá-lo no motorista ou proprietário imaginários desses objetos comuns encontrados na sua casa.\n\nEste trecho sugere como nossas mentesensoinvasivas podem nos permitiresentenciar descontrole sobre qualquer objeto ao nosso redor quando estamos apenas fazendo algo inútil para passarmo tempo livre; seja porque estávamos entediadose sentindo-se solitarioporque tínhamois demais",
+    "reference": "-- Brincar transforma um cabo de vassoura em um cavalo, uma tampa de panela em volante de automóvel, uma caneta em microfone e os lençóis em barracas e castelos -- destaca.",
+    "SARI": 11.46254414380269,
+    "percentile": "0-25%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output attempts to convey the imaginative aspect but fails to capture the precise transformations of objects into playthings from the Input. It lacks coherence and parts of the message are lost or altered, such as the examples of transformation using specific objects. The intended playful transformation context is diluted."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output introduces new concepts like 'mentesensoinvasivas' and 'sentenciar descontrole' that do not exist in the Input, adding unnecessary complexity. Although it attempts simplification, it lacks clarity, deviating from the Context provided."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output is grammatically incorrect and fails to match the Input’s intent. The syntax is convoluted, and the sentence structure is unnatural, leading to reduced readability and fluency issues. Key elements of the original context like turning common objects into imaginative entities were not adequately simplified."
+      }
+    },
+    "g_eval_avg": 0.2333333333333333
+  },
+  {
+    "index": 87,
+    "complexer": "Antes disso, ele ocupava o cargo de secretário-geral da Conferência Nacional dos Bispos do Brasil (CNBB).",
+    "generated": "Anteriormente à sua nomeação para São Sebastião no Rio e Brasília em 2021,\nele atuou como Secretária-Geral na CNBBS entre os anos \nde 2016 até que renunciaria durante seu primeiro mandato\ncomo Arcebispo Metropolitano.\n\nPortanto:\nFrase original \"Before this appointment to St Sebastian in Río and Brazil City of Brazilia/Brasilië/Brazil/Cidade_do_Brasil_urban",
+    "reference": "Antes disso, ele ocupava o cargo de secretário-geral da Conferência Nacional dos Bispos do Brasil.",
+    "SARI": 17.56587845942066,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The Actual Output attempts to preserve the key meanings but introduces confusion with phrases like 'Secretária-Geral' and lacks clarity about roles compared to the Input. The Context indicates a simplified phrase, yet details about locations and roles are muddled."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "Structural complexity increased due to added specific dates and roles not in Input. Incorrect name 'Secretária-Geral' and mixed languages introduce errors and redundancy. Readability is hindered by these issues."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The output has grammatical issues like 'Secretária-Geral' and 'renunciaria'. It lacks natural structure, especially with calendar years, impacting fluency. The naming error and timeline confusion obscure comprehension."
+      }
+    },
+    "g_eval_avg": 0.26666666666666666
+  },
+  {
+    "index": 257,
+    "complexer": "Além de \"morar\" no halo, aparentemente, ele também \"nasceu\" lá, dizem os cientistas.",
+    "generated": "Frase Simple - Os pesquisadores afirmam que não apenas Einstein residia dentro do Halo da Terra como se fosse sua casa e seu nascimento teriam acontecido em um lugar assim na Lua.\n\nEsta declaração simplifica ao remover as palavras coloquiais usadas originalmente para torná-la menos compreensível sem alterando nenhum outro detalhe ou mudança gramatical importante! Para entender melhor esta tarefa específica (que envolve principalmente resum",
+    "reference": "Além de \"morar\" em volta da galáxia, parece que ele também \"nasceu\" lá, dizem os cientistas.",
+    "SARI": 18.13622651857946,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The essential content of Einstein residing and being born in the halo is preserved, but significant information loss occurs with inaccurate additions like 'Lua' and altered meaning."
+      },
+      "Simplicidade": {
+        "score": 0.1,
+        "reason": "The Actual Output has a more complicated structure by adding extra, incorrect details. It misinterprets the Context meaning and includes redundant information not present in the Input, reducing clarity."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output lacks grammatical correctness with phrases like 'como se fosse sua casa' and incomplete sentence at the end, affecting the fluidity outlined in Step 1 and 2. Context relating to Einstein's connection with both the Earth and Moon is misrepresented, showing errors as per Step 3."
+      }
+    },
+    "g_eval_avg": 0.20000000000000004
+  },
+  {
+    "index": 206,
+    "complexer": "Falta de trabalho dificulta troca da rua por abrigo.",
+    "generated": "Falta é difícil para os sem-teto conseguirem moradia adequada.\n\nEsta declaração simplificou as palavras originais \"trocar\" e substituiu-as pela palavra específica que expressaria melhor seu sentido - em vez disso; ela também removida um número desnecessário (o) ao redor do verbo principal 'trabalho'. Esta versão mantém exatamente sua estrutura original enquanto incorporava essas mudanças",
+    "reference": "Falta de trabalho torna mais difícil a troca da rua por abrigo.",
+    "SARI": 18.796296296296294,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.4,
+        "reason": "The Actual Output alters the original meaning by substituting 'troca da rua por abrigo' with 'conseguirem moradia adequada'. It removes specific terms 'de trabalho', affecting the preservation of key meanings. However, it maintains the general theme of difficulty in changing living conditions as per Context."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The sentence structure has changed, losing the original meaning of 'lack of work' in favor of 'falta', which is less precise. The output also adds incorrect descriptions such as 'removida um número desnecessário'. Overall, the simplification does not enhance clarity or accuracy."
+      },
+      "Fluência": {
+        "score": 0.3439882500671157,
+        "reason": "The Actual Output deviates from standard grammatical structure by using incorrect agreement and syntax, impairing readability. It did not correctly simplify or reinterpret the meaning from the given context 'Falta de trabalho dificulta troca da rua por abrigo,' which focuses on the impact of unemployment on housing, not explicitly on homelessness directly."
+      }
+    },
+    "g_eval_avg": 0.31466275002237193
+  },
+  {
+    "index": 136,
+    "complexer": "Se for necessário, o encaminharemos para tratamento, mas se ele estiver bem voltará ao trabalho normalmente -- explicou o tenente-coronel.",
+    "generated": "\"Se precisar de cuidados adicionais.\" O oficial informei \"Mas provavelmentes irá retornanr às suas tarefas normaiis\". Estas frases são iguais em termos semânticos e mantêm sua integridade na comunicação da mensagem do ofifcial sobre um soldato que está deixando os acampamentos militares com base no seu status médico após passagem pela linha final dos medicina Militars durante as semanas fin",
+    "reference": "Se for necessário, nós o conduziremos para tratamento, mas, se ele estiver bem, voltará ao trabalho normalmente -- explicou o tenente-coronel.",
+    "SARI": 16.99553529457126,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output misrepresents the Input's details, doesn't fully adhere to the original meaning, and includes errors like 'probavelmentes' and 'ofifcial'. The original idea of medical status determining return to work is not clearly communicated."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The Actual Output introduces significant grammatical errors and typos that could affect clarity, doesn't simplify the sentence structure, and retains unnecessary complexity despite maintaining some semantic equivalence."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "Contains many grammatical errors such as 'informei', 'provavelmentes', 'retornanr', and 'normaiis', impacting readability. The syntactic structure is unnatural, and some errors hinder comprehension. The semantic meaning is somewhat retained but not coherently simplified."
+      }
+    },
+    "g_eval_avg": 0.2333333333333333
+  },
+  {
+    "index": 330,
+    "complexer": "Mesmo supondo o pior, que o vírus da gripe do frango possa ser transmitido de pessoa a pessoa, seria possível conter um surto da doença antes que ela se transforme em uma epidemia de proporções letais e mundiais.",
+    "generated": "Mesm0 sOpOrQng th3 wOuLd8est tlt!tLEsS1tiOn 01 ti7-9lUgH AflJICAN aviaN infec+ion Be mOtAinEd befor€ iT Becomex @n EPlDtmic +h@4rG_ Of h&ll cOmsequenoes MUNDAI_.E.,.. n -..., \"i",
+    "reference": "Mesmo supondo o pior, que o vírus da gripe do frango possa ser transmitido de pessoa a pessoa, seria possível conter uma epidemia da doença antes que ela se transformasse em uma epidemia mortal de proporções mundiais.",
+    "SARI": 14.782173875839645,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.03441618273275285,
+        "reason": "The actual output contains random characters and does not retain any of the original meaning from the input or context."
+      },
+      "Simplicidade": {
+        "score": 0.006008665648572012,
+        "reason": "The Actual Output is nonsensical and doesn't capture any essential information from the Input. It fails to simplify as required and does not improve reading ease, making it inappropriate for the Context."
+      },
+      "Fluência": {
+        "score": 0.0,
+        "reason": "The actual output is incomprehensible and does not maintain grammatical correctness, naturalness, or readability. It does not simplify or relate to the context provided from the input."
+      }
+    },
+    "g_eval_avg": 0.01347494946044162
+  },
+  {
+    "index": 303,
+    "complexer": "Hoje, se um médico propuser isso ao paciente, ele não tem medo, sabe que não vai morrer amanhã , diz Matos.",
+    "generated": "HoJE os PACIENTES NÃO TEMEM A MORTe AMANHÃ! DIZ MATOS.\n\nPortanto - mantendo-se com as mesmas palavras da versão original:\nHOJÉ SE UM MEDICO PROPUSER ISSO AO PACIENTE ELE\nNÂ€ O ME DA QUE NOVMI; SAbE KU4` VAl- MOBRDL 'MMlNHÁ,\nDITZ MAPOS.\n\n\nEssas letras",
+    "reference": "Hoje, se um médico propuser isso ao paciente, ele não tem medo, sabe que não vai morrer amanhã.",
+    "SARI": 18.750838342943606,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output does not preserve the original sentence structure and introduces significant errors and gibberish. Essential meaning is lost, although some words like 'hoje' and 'diz Matos' are present. Context is not helpful in reconstructing the original integrity."
+      },
+      "Simplicidade": {
+        "score": 0.1,
+        "reason": "The Actual Output does not maintain the sentence structure or meaning of the Input; it introduces unnecessary and nonsensical text while retaining only a few key elements. There is no reduction in complexity as it fails to simplify or accurately convey the original message."
+      },
+      "Fluência": {
+        "score": 0.09763228133894816,
+        "reason": "The Actual Output fails to convey the intended meaning of the Input and includes nonsensical text. It contains grammatical errors and incomprehensible sequences, impairing readability and comprehension."
+      }
+    },
+    "g_eval_avg": 0.1325440937796494
+  },
+  {
+    "index": 111,
+    "complexer": "Provavelmente, os cavalos começaram a se agitar, balançar a cauda, e ocorreu o ataque -- disse, alertando que as abelhas só atacam quando ameaçadas.",
+    "generated": "Quand l'attente est forte ou prolongée et qu'il y une atmosphère d'anxiété liquide diffusant dans le paysage social circundante (et qui émane en particulier de la personne au téléphone), il ne faut pas s'étonner si un appel manqué devient bcp plus pesé à porter.\n\nFrase simple:\nSe alguém não gosta muito da pessoa ao telefone,\num descuido pode parecer um grande",
+    "reference": "Provavelmente, eles começaram a se agitar, balançar a cauda e ocorreu o ataque -- disse, alertando que as abelhas só atacam se forem ameaçadas.",
+    "SARI": 17.390493942218082,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.0,
+        "reason": "The Actual Output does not relate to the Input or Context provided, failing to preserve any original meaning or content."
+      },
+      "Simplicidade": {
+        "score": 0.0,
+        "reason": "The Actual Output does not relate to the Input, lacking any information about horses or bees, and is in the wrong language, which fails all evaluation steps."
+      },
+      "Fluência": {
+        "score": 0.024545190290135615,
+        "reason": "The actual output diverges both grammatically and contextually from the input and context, using French instead of Portuguese and presenting an unrelated scenario."
+      }
+    },
+    "g_eval_avg": 0.008181730096711871
+  },
+  {
+    "index": 186,
+    "complexer": "Militares fardados faziam ontem as últimas revistas.",
+    "generated": "Militar de plantão realizava revisões no local.\n\nA nova sentença simplifica usando um sujeito único \"miliatar\" e substituindo várias formas verbais pela forma singular presente do verbo em português (\"fazendo\") para torná-la concisa enquanto mantém seu verdadeiro sentido da original escritório militar (ou pessoal) estava envolvido nas verificações que estavam ocorrendo naquele lugar ou instalação",
+    "reference": "Militares de farda faziam ontem as últimas revistas.",
+    "SARI": 17.086298120780878,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.6,
+        "reason": "The core meaning is somewhat preserved, but there is a shift from plural 'militares' to singular 'militar', leading to some loss of detail. The core activity of inspections is retained, but the time context 'ontem' is missing, reducing the output's temporal relevance."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The sentence structure is simplified by reducing multiple subjects to a single subject, an improvement in complexity, but it adds errors and redundant information by inaccurately translating and interpreting details from the input."
+      },
+      "Fluência": {
+        "score": 0.4,
+        "reason": "The Actual Output has grammatical errors; 'miliatar' instead of 'militar' and uses incorrect tense with 'fazendo'. The simplification slightly alters the meaning, replacing 'últimas revistas' with 'revisões no local' and disregards 'ontem', which affects clarity and quality as compared to the Input."
+      }
+    },
+    "g_eval_avg": 0.4333333333333333
+  },
+  {
+    "index": 36,
+    "complexer": "O STF abriu caminho para solidificar a fidelidade partidária no Brasil.",
+    "generated": "O Supremo Tribunal Federal (STf) tornou possível fortalecer os laços de lealdade política entre políticos e seus respectivos apoios ideológico-ideologias em todo país brasileiro.\n\nAgoras vamos quebrar isso:\n1 - \"Frases Complexamente Falam\": Estamos tentando simplificá-lah aqui! Lembre-se dessa parte toda vez enquanto trabalhamos nisso!\n2 = Apenasd3rvt4",
+    "reference": "O STF abriu caminho para tornar sólida a fidelidade partidária no Brasil.",
+    "SARI": 16.776556776556774,
+    "percentile": "25-50%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The Actual Output maintains some of the essential meanings from the Input by mentioning 'STF' and 'fidelidade política', but introduces inaccuracies like 'fortalecer os laços de lealdade política' instead of 'solidificar a fidelidade partidária'. Additionally, the highlighted complexity and errors in the Actual Output misalign with the Context's request for simplification."
+      },
+      "Simplicidade": {
+        "score": 0.2312561240384731,
+        "reason": "The Actual Output introduces unnecessary complexity compared to the Input, which violates Step 1. While referencing political loyalty, it inaccurately elaborates on 'ideological ties,' diverging from the Input. Consequently, according to Step 2, it partially retains the meaning but introduces redundant information. This complexity could confuse rather than aid understanding, contrary to Step 3. There is insufficient information about the intended audience and purpose for Step 4 to be fully assessed."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The output attempts to simplify but introduces grammatical errors and unnecessary complexity; 'ideológico-ideologias' and 'em todo país brasileiro' are awkward and confusing given the context and original input."
+      }
+    },
+    "g_eval_avg": 0.24375204134615772
+  },
+  {
+    "index": 112,
+    "complexer": "Sem perceber o enxame, apearam de seus cavalos para checar o veículo.",
+    "generated": "Sem ver as abelhas ao redor da bicicleta parada até que pudessem desmontar dela.\n\nEsta versão simplifica originalmente usando um tempo verbal presente contínuo \"ao estar passando\" e mudanças redundantes como “chechar” em vez do termineiro correto/mais comum (chekhar), também substitui palavras desnecessárias sem alteração substancial no sentido geral ou na estrutura básica das fr",
+    "reference": "Sem perceber o enxame, desmontaram de seus cavalos para verificar o veículo.",
+    "SARI": 22.392103940091555,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output diverges significantly from the Input; it mistakenly references 'abelhas' and 'bicicleta' instead of 'enxame' and 'cavalos', altering the meaning. Essential actions like 'apear' and 'checar' are lost or inaccurately simplified."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output oversimplifies by omitting key context such as horses and 'check the vehicle,' deviating from the original meaning. The structure simplification doesn't retain clarity from the Context."
+      },
+      "Fluência": {
+        "score": 0.24093246568562918,
+        "reason": "The output is not fluent and grammatically incorrect, with incomplete sentences and confusion in terms used. It doesn't maintain the original meaning or structure from the input, making it hard to understand."
+      }
+    },
+    "g_eval_avg": 0.21364415522854308
+  },
+  {
+    "index": 15,
+    "complexer": "Uma parcela critica o uniforme, porque acredita que ele ameaçaria a individualidade de cada um.",
+    "generated": "Algumas pessoas criticam osuniformes escolares because they think it will take away their personal identity.\"2 / 3\" \nA resposta acima em formato Markdown é:\n Alguntas personascriticanos uniformsescalarpor quãebelandásestakenawaypersonalidentity.\"\"1/23 \n\nE no seguintesen formatação HTML:\n\n<p>Algunsaspersonascriticamanoutrasqueviremofereceracópia crítica ao traje esport",
+    "reference": "Alguns criticam o uniforme, porque acreditam que ele ameaça a individualidade de cada um.",
+    "SARI": 25.154663314601205,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The Actual Output contains garbled text and formatting errors, preserving almost no meaningful information from the Input. Both logical structure and language coherence are lost, which undermines the Context support for essential content retention."
+      },
+      "Simplicidade": {
+        "score": 0.0,
+        "reason": "The Actual Output heavily distorts the Input, mixing languages and introducing incoherent text, failing to maintain the original meaning or simplify it. Context is not reflected whatsoever, making the simplification irrelevant and inaccurate."
+      },
+      "Fluência": {
+        "score": 0.1,
+        "reason": "The Actual Output contains numerous grammatical errors and incoherent structure, failing to maintain readability or fluency compared to the Input and Context."
+      }
+    },
+    "g_eval_avg": 0.06666666666666667
+  },
+  {
+    "index": 158,
+    "complexer": "Ou seja, lá vem a saraivada de pedidos para o Dia das Crianças.",
+    "generated": "Pedaços vão chegar no dia da criança e você vai receber muitos convites naquele momento específico! A alternativa correta é B) Pedacinhós chegam em festinha dos meninos!. Aqui está um breve motivo pelo qual essa resposta se encaixa:\n\nA expressiva \"sraibadinho\" substitui com sucesso as palavras originais sem alterar muito do seu sentido inicial - ambas sugerem que algo (ped",
+    "reference": "Isto é, lá vem a grande quantidade de pedidos para o Dia das Crianças.",
+    "SARI": 20.80808080808081,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The Actual Output introduces the word 'Pedaços' and 'Pedacinhós' which are not present in the Input, losing the original meaning of 'saraivada de pedidos'. The core message about receiving a barrage of requests for Dia das Crianças is not effectively retained."
+      },
+      "Simplicidade": {
+        "score": 0.16313697213055933,
+        "reason": "Output attempts simplification but introduces errors and irrelevant content. It alters meaning with terms like 'sraibadinho' and 'festinha dos meninos', failing to capture the original context of requests arriving for Children's Day."
+      },
+      "Fluência": {
+        "score": 0.1869886461055045,
+        "reason": "The Actual Output does not accurately reflect the Input, with incorrect information and unnatural syntactic structure. Replacements like 'sraibadinho' and 'Pedaços' are unfitting. Grammatical errors and fluency issues hinder comprehension."
+      }
+    },
+    "g_eval_avg": 0.1500418727453546
+  },
+  {
+    "index": 202,
+    "complexer": "A Capital vivencia um fenômeno contraditório:",
+    "generated": "A capital passou pelo contraste entre dois eventos contrastantes - tumulto e tranquilidade em momentos diferentes do dia.\n\nEm sua essência central reside essa paradoxal realidades de ativismo pacífico que coexistem com atos vandálicos durante os protestoss contra as reformas no sistema universitarão na cidade; ocorrendó ao longuíssimo período da tarde até madrugada seguinte sobrepostós às manifestações diurnass nas ruás públicas desta",
+    "reference": "A Capital vivencia um fenômeno incoerente:",
+    "SARI": 25.357142857142858,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.48521501834232195,
+        "reason": "The Actual Output attempts to capture the main idea of contradictory events but complicates it by introducing errors and unnecessary complexity, losing clarity. The context and core meaning about peaceful activism coexisting with vandalism remains somewhat intact but is muddled and not directly aligned with the simplification intent."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The actual output attempts to simplify the structure by using more accessible language, but introduces complexity with terms like 'paradoxal realidades' and 'manifestações diurnass nas ruás públicas.' While it retains the core contrast between tumult and tranquility, it adds unnecessary elaborations on protest timings, distracting from the simplicity intended. The context's intention of highlighting contradiction is partially met but over-complicated."
+      },
+      "Fluência": {
+        "score": 0.4,
+        "reason": "Numerous grammatical errors like 'contrastantes', 'ocorrendó', 'longuíssimo', 'sobrepostós', and 'diurnass' affect naturalness and comprehension, deviating from the input's intended fluency and context."
+      }
+    },
+    "g_eval_avg": 0.39507167278077393
+  },
+  {
+    "index": 129,
+    "complexer": "Ele afirmou ainda que o carro trafegava dentro da velocidade máxima permitida, 60 km / h.",
+    "generated": "Ele disse também em seu relatório de testemunha especializada (expert witness report) sobre acidentes na África do Sul e foi solicitada sua opinião juramentrada para um caso específico.\n\nOs detalhes fornecidos no trecho são:\n\n1] O objeto se moveu como resultado das forças agidas nele\n2]\n3]\n\nDe acordo com as informações disponíveis nos materiais entregues pelo advogados dos réus,\n4], ele",
+    "reference": "O capitão da PM Márcio Aurélio Linhares também afirmou que o carro andava dentro da velocidade máxima permitida de 60 km / h.",
+    "SARI": 22.092287342287346,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1684204865474534,
+        "reason": "The Actual Output does not retain the essential meaning or key details from the Input. The Input discussed the car's speed, which is not mentioned in the Output. It also introduces unrelated information about an expert witness report, indicating significant loss of information based on the Context."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The actual output does not simplify the input and introduces new elements not in the context, omitting core information about speed."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output is not well-formed and incomplete compared to the Input and Context, hindering comprehension. It introduces confusion with missing elements like '2]' and '3]', and doesn't clarify the connection to the Context's mention of the car speed."
+      }
+    },
+    "g_eval_avg": 0.22280682884915115
+  },
+  {
+    "index": 26,
+    "complexer": "Ao fim da sessão, venceu o meio termo.",
+    "generated": "Frase simplificada após substituir é \"Ao final de algo específico (como um dia escolar), houve algum tipo ganhar no intervalos do tempo.\" Isso significa que alguém ou alguma coisa teve sucesso durante esse período designadamente estipulado e fez avanços em direção ao objetivo antes dos períodos temporais definidos terminarem.\n\nAqui está como você pode implementá-lo:\n\n```python\ndef simplify_sentence(sentence):\n  sentence_list =",
+    "reference": "O meio termo venceu no fim da sessão.",
+    "SARI": 23.200133200133198,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The actual output attempts to simplify the input phrase but introduces ambiguity and loses the essence of 'meio termo.' The context implies a specific situation, whereas the output generalizes to 'intervalos do tempo,' diluting the original meaning."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output structure is more complex than the Input and has added redundancies. It is difficult to understand compared to the Input due to over-explanation and loss of original simplicity. The contextually essential meaning of 'venceu o meio termo' is lost in the convoluted rephrasing."
+      },
+      "Fluência": {
+        "score": 0.26915884394188183,
+        "reason": "The Actual Output contains grammatical issues, such as awkward phrasing in 'ganhar no intervalos do tempo'. It does not simplify the given Input effectively, adding unnecessary complexity, and lacks fluency as required by the Context."
+      }
+    },
+    "g_eval_avg": 0.25638628131396063
+  },
+  {
+    "index": 95,
+    "complexer": "-- O zoneamento mostrará que procedimentos devem ser tomados em cada área -- explica.",
+    "generated": "A mudança de uso do solo exigirá planos detalhando as medidas necessária para resolver os problemas identificados pelo estudo ambiental no local da construção proposto e na vizinhança imediata.\" - diz um especialista sobre essa questão importante dos esforços contínuosos destinam-se principalmente ao desenvolvimento urbano sustentável ou à preservação? Os resultados sugeririam novas diretrizes com base nas lições aprendidas até agora",
+    "reference": "-- A divisão do território em zonas mostrará que medidas devem ser tomadas em cada área -- explica.",
+    "SARI": 25.333824790346526,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output discusses land use and environmental issues, which diverges from the original Input's focus on zoning and procedures for specific areas. Several aspects of the Input's meaning are not preserved, and there is lack of alignment with the original Context."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Output has a more complex sentence structure than the Input and introduces ideas about urban development not in the Context. It omits direct references to zoning procedures and is less concise."
+      },
+      "Fluência": {
+        "score": 0.30552419772488904,
+        "reason": "The input is fluent and grammatically correct. The actual output has grammatical errors such as 'medidas necessária' instead of 'medidas necessárias' and lacks syntactic clarity, making it less readable. The context provides limited support with minimal alignment to enhance comprehension."
+      }
+    },
+    "g_eval_avg": 0.23517473257496302
+  },
+  {
+    "index": 305,
+    "complexer": "Mas, por razões éticas, não se pode fazer experimentos de interrupção com esses pacientes.",
+    "generated": "Não podemos realizar esse tipo crucial da pesquisa porque seria antiético prejudicar os indivíduo.s dessas populações vulneráveis\" (p 1046). Isso ocorre em parte pelo impacte emocional dos resultados sobre as pessoas que vivem nesses países.\n\nPacientes afetados pela malária têm sido usADOS como coelhos para testarmg drogas antirretroviral e medicamentos contra câncer nos últimos anos [3]. E",
+    "reference": "Mas, de acordo com as regras médicas, não se pode fazer experiências de interrupção com esses pacientes.",
+    "SARI": 23.94940908527865,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output lacks alignment with the Input. Essential meanings from the Context such as ethical restraint are largely obscured. Instead, it introduces unrelated information about drug testing without adequately clarifying the original intention."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output is significantly more complex and lengthy than the Input. It fails to maintain simplicity and introduces incorrect and redundant information about research methods not present in the Context. The sentence structure is not easier to understand than the original Input."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output has multiple grammatical errors like 'indivíduo.s' and incorrect verb usage such as 'testarmg'. It lacks structural coherence and does not convey the input's ethical restriction message clearly. Context does not support Actual Output's fluency and integrity."
+      }
+    },
+    "g_eval_avg": 0.20000000000000004
+  },
+  {
+    "index": 336,
+    "complexer": "A coisa muda de figura com o novo mamífero, ou o que sobrou dele.",
+    "generated": "O resultado mudou depois da introdução do animal terrestre em nossa sociedade atual.\n\nNa sentença fornecida \"The thing changes figure with the new mammal or what's left of it\", há várias palavras e estruturas complicadas sendo usada para transmitir um pensamento básico sobre como algo (indeterminável) foi alterando ao longar tempo até ser impactiado pela chegade dos humanos modernamente chamados'mamíferos'. O conce",
+    "reference": "A coisa muda de figura com o novo mamífero.",
+    "SARI": 22.776575276575276,
+    "percentile": "50-75%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The Actual Output maintains the general theme of change with a new mammal but misses nuances by not clearly linking the simplified output to 'o que sobrou dele', resulting in partial information loss."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The output simplifies the sentence's structure, but it alters the meaning by introducing elements not present in the original input and context, such as 'sociedade atual' instead of the direct 'mammal' reference. This includes inaccuracies not aligning with the context."
+      },
+      "Fluência": {
+        "score": 0.26700243779670435,
+        "reason": "The actual output lacks fluency as it is not a complete sentence; it also contains grammatical and spelling errors. The context of the original phrase given in the input is misrepresented due to misunderstanding the meaning of 'mammal' and the use of incorrect syntax."
+      }
+    },
+    "g_eval_avg": 0.25566747926556815
+  },
+  {
+    "index": 229,
+    "complexer": "Bem comum da humanidade, (o sequenciamento de genes) não pode ser limitado por patentes que pretendem, em nome do direito de propriedade industrial, proteger a exclusividade desse conhecimento, diz parecer do CCNE.",
+    "generated": "O Conselho Nacional dos Direitos Humanos afirma no documento \"Por um diagnóstico verdadeiro e livre\"  que genoma humano é bem público cuja utilização deve estar sujeita aos princípios éticos baseados na dignificão humana.\n\nAinda assim - conclui os estudos – as estruturas institucionais são precárias ou inexistentes para garantir essa aplicaçãoo seguindo essas orientações:\n\n• O",
+    "reference": "O parecer do CCNE diz que o sequenciamento de genes é um bem comum da humanidade.",
+    "SARI": 34.07214142357682,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.22476050380060159,
+        "reason": "The Actual Output fails to preserve the core meaning of the Input. It does not mention the key concept of gene sequencing as a common good or patents limiting it, which is critical in both Input and Context. The focus on ethical principles and human dignity deviates from the original message."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output introduces details about institutional structures and ethical principles not present in the Input. The grammatical structure is not simpler, and it adds unnecessary points diverging from the Input's focus on gene patenting restrictions."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output contains some grammatical issues like 'dignificão' and 'aplicaçãoo', making it less natural and hindering comprehension. Additionally, it does not closely reflect the original input, lacking coverage of the gene sequencing and patent issues mentioned in the context."
+      }
+    },
+    "g_eval_avg": 0.20825350126686723
+  },
+  {
+    "index": 169,
+    "complexer": "A Secretaria Estadual de Educação informa que nas escolas da rede, em todo o Estado, não há a proibição do funcionamento de bares.",
+    "generated": "A secretária estadUAL DE edução afirma Que as escOlas públicas Do estado Não possuem regulamentações contra Barmans e coquetéis no local das salAs De ensino secundário E superior (universidades). \n\nPara atender aos requisitos deste exercício específico na tabela T4-A-EX2:\n\nS - Sujeito:\nSecretará ESTADUAI D' EDUUÇÃO\nT1 – Tempos ou períodos : \n",
+    "reference": "A Secretaria Estadual de Educação informa que não há proibição de funcionamento de bares nas escolas da rede em todo o Estado.",
+    "SARI": 26.354811661506712,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "Key meanings differ as the Input refers to the absence of prohibition concerning bars, while the Actual Output incorrectly details bars as not regulated, altering context. Essential information regarding the subject and object is misrepresented or missing, diminishing adequacy."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The sentence structure of the Actual Output is more complex and includes numerous typographical errors, making it less straightforward than the Input. Although it attempts to maintain the original meaning, the inclusion of 'barmans e coquetéis' potentially introduces extraneous details not present in the Input. Clarity is not enhanced due to these issues, and the context is not fully preserved."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output contains multiple grammatical errors and lacks fluency with capitalization and punctuation issues like 'estadUAL DE edução' and 'escOlas públicas Do estado'. It distorts the meaning by adding 'coquetéis' and altering focus from 'bares' in Input, deviating from the original Context."
+      }
+    },
+    "g_eval_avg": 0.2333333333333333
+  },
+  {
+    "index": 324,
+    "complexer": "As vítimas se infectam por inalação ou ingestão do vírus nas fezes e nas secreções das aves cujo organismo foi invadido.",
+    "generated": "As pessoas podem pegar essa doença ao respirá-la após entrar em contato com as partes de um pássaro que estava contaminada pelo germe causador da infeçã́o desse animal vivo.\n\nA principal mudança é no nível dos substantivos (S), sendo ele elevando para N1 na primeira parte; pois passou pela oração \"as secretions of the birds\" onde temos três elementos distintamente referidos como S3's:\n\n- The",
+    "reference": "As vítimas se contaminam por respirar ou comer o vírus no cocô e nas substâncias que as aves doentes soltam.",
+    "SARI": 33.60597735597735,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.3,
+        "reason": "The 'Actual Output' broadly captures the mechanism of infection through exposure to contaminated bird secretions from the 'Input', but it omits mention of virus ingestion and the organism invasion, altering essential detail."
+      },
+      "Simplicidade": {
+        "score": 0.16207161487760674,
+        "reason": "The actual output introduces new elements like 'contato com as partes de um pássaro' not in the input and retains complex structure, violating steps 1, 2, and 3."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The grammatical structure of the output has errors and unnatural phrasing like 'contaminada pelo germe causador da infecção desse animal vivo.' It does not clearly convey the idea of the context sentence about getting infected by inhalation or ingestion, instead focusing on contact with a live bird, complicating comprehension."
+      }
+    },
+    "g_eval_avg": 0.2540238716258689
+  },
+  {
+    "index": 201,
+    "complexer": "A Capital vivencia um fenômeno contraditório:",
+    "generated": "A Cidade do Cabo experimentando tanto problemas quanto oportunidades na agricultura orgânica e tecnologias modernas de cultivo intensivas combinadas com práticas sustentáveis tradicionais em suas fazendas inovadoras que utilizam energia renovável enquanto enfrentava desafios como escassez hídrica causados peluvas extremamente secassimples.png?w=1200&h=&fit=max\" srcset=\"https://images.unsplash.com/photo-",
+    "reference": "A Capital vive um fenômeno sem lógica:",
+    "SARI": 32.85714285714286,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The output introduces elements like agriculture and renewable energy that are not present in the Input or Context. Additionally, significant details from the Input about being an 'impartial evaluator' are completely missing. The overall theme of contradiction is faintly reflected but heavily diluted by unrelated content."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The simplification attempt failed: sentence structure remains complex and the actual output doesn't fully maintain the meaning or clarity of contradictory phenomena mentioned in the Input. Context suggests simplification, but the output includes errors and is hard to read."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The output lacks grammatical correctness, particularly with incomplete sentences and fragmented syntax, leading to poor readability and unclear expression of ideas, deviating from the given context."
+      }
+    },
+    "g_eval_avg": 0.20000000000000004
+  },
+  {
+    "index": 51,
+    "complexer": "Com tanto reconhecimento e prestígio, Pavarotti teve um fim sereno.",
+    "generated": "Pavoratti terminou em paz depois de receber muitos prêmios importantes.\n\nA mudança da sentença do tempo passivo para ativa tornará essa afirmação incorreta gramaticalmente corretamente; no entanto:\n\"Terminar pacificadamente é frequentemente influenciada pelo recebimentos sucessivos.\"\nOu\n\"Pacificar-se ao final pode ter sido resultado dos elogianças.\" são melhores frases sem perder nenhum contexto ou detalhes",
+    "reference": "Pavarotti teve um fim sereno.",
+    "SARI": 27.06232492997199,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.6,
+        "reason": "The Actual Output 'Pavoratti terminou em paz depois de receber muitos prêmios importantes' preserves the essential meaning of the Input 'Com tanto reconhecimento e prestígio, Pavarotti teve um fim sereno' by mentioning peace and awards, but missed out on mentioning 'prestígio' and altered the focus. The Context emphasizes recognition influencing a peaceful end, which the Actual Output partially respects."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The simplification attempts to retain meaning but fails, suggesting incorrect grammatical changes and alternative sentences that introduce redundancies and inaccuracies compared to the original input and context."
+      },
+      "Fluência": {
+        "score": 0.4,
+        "reason": "The Actual Output changes grammatical structure while introducing alternative suggestions, which affects readability and strays from the Context given by the original input sentence. There's a noticeable shift from passive to active voice, altering meaning and coherence with the Context."
+      }
+    },
+    "g_eval_avg": 0.4333333333333333
+  },
+  {
+    "index": 94,
+    "complexer": "Vai ter direito a voto (em um conclave).",
+    "generated": "Alguém vai ganhar votos para se tornar Papa em segredo e fazer isso no local onde eles escolhem seu novo líder religioso que é chamada de Conclaves.\n\nA resposta acima utiliza palavras curtas como \"alguien\", 'ganha', etc., ou frases concisas projetadas especificamente com brevidade/leitura fácil/simplicidade na mente; portanto ao compará-la à declaração original - parece muito diferente da",
+    "reference": "Vai ter direito a voto em reunião para escolher papa.",
+    "SARI": 32.693556443556446,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1675177317442014,
+        "reason": "The actual output includes additional information not present in the input context, such as 'se tornar Papa em segredo,' altering the original simple claim of voting rights in a conclave."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The Actual Output introduces complexity by including unnecessary details about secrecy and the process of electing a Pope, deviating from the simple message of having voting rights in the Input. It makes the sentence harder to understand in the Context provided."
+      },
+      "Fluência": {
+        "score": 0.2,
+        "reason": "The Actual Output is grammatically incorrect and overly complex compared to the Input. The structure and clarity are compromised, deviating significantly from a simple statement about voting rights in a conclave."
+      }
+    },
+    "g_eval_avg": 0.22250591058140046
+  },
+  {
+    "index": 47,
+    "complexer": "-- A importância dele é ter mantido viva a ópera, que estava moribunda -- diz Chaves.",
+    "generated": "A contribuição de Vinicius foi preservar e revitalizar os espetáculos operísticos durante um período em declínio na arte forma da música vocal com acompanhamento orquestral derivada do drama lírico italiano dos século 16 até agora (diz MarcosChamades). \" - Antonio Carlos Jobim \n\nEsta nova versão simplifica expressões como 'ter feito ela voltando à vida', substituindo-as pela construção clara das pal",
+    "reference": "Chaves diz que a importância de Pavarotti é ter mantido viva a ópera.",
+    "SARI": 28.65836746885134,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.273086590012935,
+        "reason": "While the output attempts to convey the idea of preservation and revitalization, it introduces unnecessary complexity and details that were not present in the Input. The essential meaning of keeping the opera alive is somewhat maintained, but the additional references and complexity diverge from the simplicity of the Context."
+      },
+      "Simplicidade": {
+        "score": 0.3,
+        "reason": "The Actual Output adds redundant details about Vinicius and operatic forms not present in the Input, leading to complexity rather than simplification. It deviates from Input's meaning, which focused on keeping opera alive, compromising the Context accuracy."
+      },
+      "Fluência": {
+        "score": 0.3,
+        "reason": "The Actual Output has grammatical inaccuracies and awkward sentence structure compared to the Input. It includes incomplete phrases, such as 'substituindo-as pela construção clara das pal', which hampers comprehension. This results in reduced fluency and readability."
+      }
+    },
+    "g_eval_avg": 0.291028863337645
+  },
+  {
+    "index": 92,
+    "complexer": "Gaúcho como seu antecessor dom Cláudio Hummes, dom Odilo foi indicado pelo Papa para ser arcebispo de São Paulo em março.",
+    "generated": "Dom Olido se tornou ArquibisPo no mês passad porque papa escolheu ele assim com outro gauchinho chamadio Dom Claudius Humes.. :) [Obrigatório] O que é \"dom\"? Também existe um verbo similar? :D (Perguntas são essenciaís) 1 /5 \n\nA resposta correta deve começar dizendo algo sobre homens e suas funções dentro da igreja católica romana",
+    "reference": "Em março, o papa indicou dom Odilo para ser arcebispo de São Paulo.",
+    "SARI": 31.218757647977252,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.2,
+        "reason": "The Actual Output maintains the key point of Dom Odilo being appointed by the Pope, but distorts other details and asks irrelevant questions, impacting clarity. It omits specific contextual information like the reference to São Paulo."
+      },
+      "Simplicidade": {
+        "score": 0.2,
+        "reason": "The Actual Output is syntactically simpler but fails to preserve the original meaning and introduces extraneous information, questions, and informal language not suitable for the context. The role of 'arcebispo' is misrepresented, complicating understanding, and the Context about church roles is not appropriately maintained."
+      },
+      "Fluência": {
+        "score": 0.2507360810291851,
+        "reason": "Several misspellings and grammatical errors such as 'passad' instead of 'passado' obstruct comprehension. The syntactic structure is awkward and does not align well with the Context or standards from the Input."
+      }
+    },
+    "g_eval_avg": 0.21691202700972836
+  },
+  {
+    "index": 274,
+    "complexer": "Felizmente, com base na nova estimativa, parece haver ainda nove séculos para catalogar os pedregulhos espaciais e se preparar para futuras colisões.",
+    "generated": "Há muitos anos até estarmós pront@ s par4r fvrur€ 0l!$iOn5 em $pece$. \n\nFrase simplificada acima foi escritа sem palavras de legenda como \"9ct,\" \"\"e\" é substituído pela letra que representa isso (por exemplo - '3' = E), números são transformados literal ou numericamente conforme necessário (\"muitas décadas\", etc). Além",
+    "reference": "Felizmente, com base no novo cálculo, parece haver ainda nove séculos para classificar os asteróides e se preparar para futuros choques.",
+    "SARI": 26.651710045539446,
+    "percentile": "75-100%",
+    "g_eval_criteria": {
+      "Adequação": {
+        "score": 0.1,
+        "reason": "The essential content and meaning are not preserved as the original input refers to nine centuries, while the output mentions no centuries, mentioning an incomprehensible timeline. The simplification does not align with the intended meaning to accurately convey the preparation for future collisions."
+      },
+      "Simplicidade": {
+        "score": 0.05560462177343608,
+        "reason": "The structure of the Actual Output is more complex due to the use of symbols and numerals, which hinders simplification. It introduces incorrect information not present in the Input. The Original mentions centuries, not 'muitos anos', and the concept has changed. The readability and understandability are worsened, given the Context."
+      },
+      "Fluência": {
+        "score": 0.1,
+        "reason": "The Actual Output does not preserve the meaning of the Input in any recognizable way; it is filled with symbols and substitutions that do not convey the same information. Additionally, the text is syntactically unnatural and grammatically incorrect, greatly hindering understanding."
+      }
+    },
+    "g_eval_avg": 0.08520154059114537
+  }
+]

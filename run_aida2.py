@@ -5,12 +5,12 @@ import text_metrics
 
 # Path to the CSV
 csv_file_path = 'new_gens_0425.csv'
-output_file_path = 'gemma-3-12b_output.json'
+output_file_path = 'gemma-3-27b_output.json'
 
 # Read the CSV into a DataFrame
 df = pd.read_csv(csv_file_path)
 
-df = df[df['generator_model'] == 'gemma-3-12b']
+df = df[df['generator_model'] == 'gemma-3-27b']
 
 print(len(df))
 

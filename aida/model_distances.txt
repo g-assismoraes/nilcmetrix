@@ -2,202 +2,330 @@ Distances to Reference: analises_metrics_output.json
 
 --- Metric Group: simplicidade ---
 Model: gpt_metrics_output.json
-  Avg Dist: 0.7856357296009032
-  Std Dist: 0.4048367918833614
+  Avg Dist: 0.7330946490321619
+  Std Dist: 0.3884081234693367
 
 Model: mistral_metrics_output.json
-  Avg Dist: 0.842934861338413
-  Std Dist: 0.40937974367736746
+  Avg Dist: 0.7753376024870775
+  Std Dist: 0.38600597419757277
 
 Model: command_metrics_output.json
-  Avg Dist: 0.723881819511839
-  Std Dist: 0.4036677157645227
+  Avg Dist: 0.6770841568884778
+  Std Dist: 0.38958783201232705
 
 Model: sabia_metrics_output.json
-  Avg Dist: 0.7210850958985722
-  Std Dist: 0.3754628315879389
+  Avg Dist: 0.6790165013949552
+  Std Dist: 0.36781526259015485
 
 Model: llama_metrics_output.json
-  Avg Dist: 0.7569845002029459
-  Std Dist: 0.38429940171979543
+  Avg Dist: 0.7099282581749734
+  Std Dist: 0.3693118377149125
 
 Model: gemma_metrics_output.json
-  Avg Dist: 0.7678108694134917
-  Std Dist: 0.3757374721969654
+  Avg Dist: 0.7174341261892058
+  Std Dist: 0.3599722945123602
+
+Model: gemma-3-12b_output.json
+  Avg Dist: 0.6706159496411551
+  Std Dist: 0.3673155890967493
+
+Model: gemma-3-27b_output.json
+  Avg Dist: 0.6759945207815146
+  Std Dist: 0.37724661057319303
+
+Model: mistral-3-24b_output.json
+  Avg Dist: 0.679908241927416
+  Std Dist: 0.3655738540885051
+
+Model: llama-4-scout_output.json
+  Avg Dist: 0.6348009370790829
+  Std Dist: 0.37440751050094856
 
 --- Metric Group: coesao_referencial ---
 Model: gpt_metrics_output.json
-  Avg Dist: 0.5030485267254601
-  Std Dist: 0.27562537211761906
+  Avg Dist: 0.48481763874850886
+  Std Dist: 0.2686449376029069
 
 Model: mistral_metrics_output.json
-  Avg Dist: 0.8754471884925253
-  Std Dist: 0.45052127123051156
+  Avg Dist: 0.856073303099501
+  Std Dist: 0.44301587135225867
 
 Model: command_metrics_output.json
-  Avg Dist: 0.4676760425057591
-  Std Dist: 0.2854092606250577
+  Avg Dist: 0.45007814756808195
+  Std Dist: 0.27708388971424774
 
 Model: sabia_metrics_output.json
-  Avg Dist: 0.44988102265972224
-  Std Dist: 0.2847855843324258
+  Avg Dist: 0.43395623861543087
+  Std Dist: 0.2745615700558146
 
 Model: llama_metrics_output.json
-  Avg Dist: 0.6208302078961144
-  Std Dist: 0.2747620375594729
+  Avg Dist: 0.6001718570716289
+  Std Dist: 0.26176347780122056
 
 Model: gemma_metrics_output.json
-  Avg Dist: 0.49754787265048195
-  Std Dist: 0.3116286400467188
+  Avg Dist: 0.4807510951787639
+  Std Dist: 0.30001234309125363
+
+Model: gemma-3-12b_output.json
+  Avg Dist: 0.7203909038902324
+  Std Dist: 0.3189826513863284
+
+Model: gemma-3-27b_output.json
+  Avg Dist: 0.47596965123021195
+  Std Dist: 0.2591138106391589
+
+Model: mistral-3-24b_output.json
+  Avg Dist: 0.44746566755589495
+  Std Dist: 0.25898922849267275
+
+Model: llama-4-scout_output.json
+  Avg Dist: 0.4790525201577886
+  Std Dist: 0.28236484354513763
 
 --- Metric Group: coesao_semantica ---
 Model: gpt_metrics_output.json
-  Avg Dist: 0.5377644162998714
-  Std Dist: 0.37285917476179387
+  Avg Dist: 0.4618162139107789
+  Std Dist: 0.32008104491422606
 
 Model: mistral_metrics_output.json
-  Avg Dist: 0.6652421117149275
-  Std Dist: 0.4718615301615825
+  Avg Dist: 0.5635861159021194
+  Std Dist: 0.3883994645967287
 
 Model: command_metrics_output.json
-  Avg Dist: 0.6299726058579039
-  Std Dist: 0.36200369963409856
+  Avg Dist: 0.5596609324799847
+  Std Dist: 0.3276193595562126
 
 Model: sabia_metrics_output.json
-  Avg Dist: 0.7235129669477542
-  Std Dist: 0.22450966430213976
+  Avg Dist: 0.6470933307955796
+  Std Dist: 0.19803979094362678
 
 Model: llama_metrics_output.json
-  Avg Dist: 0.5616408135883855
-  Std Dist: 0.2475567644924685
+  Avg Dist: 0.4988047388385274
+  Std Dist: 0.21306353603907774
 
 Model: gemma_metrics_output.json
-  Avg Dist: 0.7559407902890596
-  Std Dist: 0.3882620131227647
+  Avg Dist: 0.6715889351581542
+  Std Dist: 0.34897205581382695
+
+Model: gemma-3-12b_output.json
+  Avg Dist: 0.6455890989391877
+  Std Dist: 0.2714126913497764
+
+Model: gemma-3-27b_output.json
+  Avg Dist: 0.6025140882607772
+  Std Dist: 0.25315087624487653
+
+Model: mistral-3-24b_output.json
+  Avg Dist: 0.5742435509079474
+  Std Dist: 0.4217664136188296
+
+Model: llama-4-scout_output.json
+  Avg Dist: 0.49784850834970584
+  Std Dist: 0.2762549129684623
 
 --- Metric Group: complexidade_sintatica ---
 Model: gpt_metrics_output.json
-  Avg Dist: 0.4197994848067983
-  Std Dist: 0.21877313776828783
+  Avg Dist: 0.39118550713433337
+  Std Dist: 0.21217277032031795
 
 Model: mistral_metrics_output.json
-  Avg Dist: 0.4748905396542402
-  Std Dist: 0.26108214339934477
+  Avg Dist: 0.4442141526198372
+  Std Dist: 0.24860670340288765
 
 Model: command_metrics_output.json
-  Avg Dist: 0.41095154512844506
-  Std Dist: 0.20057419825468778
+  Avg Dist: 0.3833606312195202
+  Std Dist: 0.18871263363044258
 
 Model: sabia_metrics_output.json
-  Avg Dist: 0.4022406186316283
-  Std Dist: 0.21372621964037908
+  Avg Dist: 0.37456191029852326
+  Std Dist: 0.20514707609948488
 
 Model: llama_metrics_output.json
-  Avg Dist: 0.44413502235853136
-  Std Dist: 0.24417847453642108
+  Avg Dist: 0.4130293308140889
+  Std Dist: 0.23117100515788508
 
 Model: gemma_metrics_output.json
-  Avg Dist: 0.39112103538229803
-  Std Dist: 0.20128803835542716
+  Avg Dist: 0.3649466739088807
+  Std Dist: 0.19052535488429148
+
+Model: gemma-3-12b_output.json
+  Avg Dist: 0.3677072207275755
+  Std Dist: 0.19897442354431713
+
+Model: gemma-3-27b_output.json
+  Avg Dist: 0.37169259629104306
+  Std Dist: 0.1969619352358196
+
+Model: mistral-3-24b_output.json
+  Avg Dist: 0.3860937562795272
+  Std Dist: 0.20142520247156695
+
+Model: llama-4-scout_output.json
+  Avg Dist: 0.39443749193808664
+  Std Dist: 0.17927513407429002
 
 --- Metric Group: leiturabilidade ---
 Model: gpt_metrics_output.json
-  Avg Dist: 0.4294474283659686
-  Std Dist: 0.19244690236013193
+  Avg Dist: 0.38136903580129966
+  Std Dist: 0.1827662389320873
 
 Model: mistral_metrics_output.json
-  Avg Dist: 0.5415459327942506
-  Std Dist: 0.2597189116729979
+  Avg Dist: 0.459983950174054
+  Std Dist: 0.23563481159032224
 
 Model: command_metrics_output.json
-  Avg Dist: 0.44483130725789677
-  Std Dist: 0.15699222547047237
+  Avg Dist: 0.394230312447035
+  Std Dist: 0.14577493942249448
 
 Model: sabia_metrics_output.json
-  Avg Dist: 0.458810757415578
-  Std Dist: 0.18856001980254855
+  Avg Dist: 0.4067594644119201
+  Std Dist: 0.18314603901114276
 
 Model: llama_metrics_output.json
-  Avg Dist: 0.6209959676092648
-  Std Dist: 0.21057607892103267
+  Avg Dist: 0.4789120277337497
+  Std Dist: 0.17502186692441002
 
 Model: gemma_metrics_output.json
-  Avg Dist: 0.411683856762768
-  Std Dist: 0.1615959445987954
+  Avg Dist: 0.3568830996229725
+  Std Dist: 0.14071733281654436
+
+Model: gemma-3-12b_output.json
+  Avg Dist: 0.34737747931266066
+  Std Dist: 0.16016247967001138
+
+Model: gemma-3-27b_output.json
+  Avg Dist: 0.35088241207312065
+  Std Dist: 0.15897284170133844
+
+Model: mistral-3-24b_output.json
+  Avg Dist: 0.41349444022962095
+  Std Dist: 0.21959320122002118
+
+Model: llama-4-scout_output.json
+  Avg Dist: 0.37185524373031303
+  Std Dist: 0.15194086996412692
 
 --- Metric Group: morfosintaxe ---
 Model: gpt_metrics_output.json
-  Avg Dist: 1.176557814615505
-  Std Dist: 0.40210629546603144
+  Avg Dist: 1.1259431797107535
+  Std Dist: 0.3900231674046088
 
 Model: mistral_metrics_output.json
-  Avg Dist: 1.2712765227204705
-  Std Dist: 0.3951185841969295
+  Avg Dist: 1.2109013830358093
+  Std Dist: 0.3845539317808581
 
 Model: command_metrics_output.json
-  Avg Dist: 1.2182592500514595
-  Std Dist: 0.37579669712050734
+  Avg Dist: 1.1643513980147484
+  Std Dist: 0.36441677387447763
 
 Model: sabia_metrics_output.json
-  Avg Dist: 1.2526198065002891
-  Std Dist: 0.3791901033416077
+  Avg Dist: 1.1991382115492804
+  Std Dist: 0.36959496294127314
 
 Model: llama_metrics_output.json
-  Avg Dist: 1.2075500787133728
-  Std Dist: 0.35945266378558616
+  Avg Dist: 1.1599394610318676
+  Std Dist: 0.3509910892843906
 
 Model: gemma_metrics_output.json
-  Avg Dist: 1.2861648883251218
-  Std Dist: 0.36865434550391624
+  Avg Dist: 1.2368513487434274
+  Std Dist: 0.3524350599219369
+
+Model: gemma-3-12b_output.json
+  Avg Dist: 1.1712864289536813
+  Std Dist: 0.3528318634087651
+
+Model: gemma-3-27b_output.json
+  Avg Dist: 1.1354340897761868
+  Std Dist: 0.36625755661813997
+
+Model: mistral-3-24b_output.json
+  Avg Dist: 1.205209305982278
+  Std Dist: 0.4607888669626955
+
+Model: llama-4-scout_output.json
+  Avg Dist: 1.1959136014576466
+  Std Dist: 0.3600576554358533
 
 --- Metric Group: info_semantica ---
 Model: gpt_metrics_output.json
-  Avg Dist: 0.5540399689536056
-  Std Dist: 0.2279870120053231
+  Avg Dist: 0.5463572751222744
+  Std Dist: 0.22476601994766993
 
 Model: mistral_metrics_output.json
-  Avg Dist: 0.5161730432777497
-  Std Dist: 0.17783931264519504
+  Avg Dist: 0.5076192147783242
+  Std Dist: 0.17378616176649025
 
 Model: command_metrics_output.json
-  Avg Dist: 0.5829720992440791
-  Std Dist: 0.2326238556597071
+  Avg Dist: 0.5749289430947929
+  Std Dist: 0.2297011922906981
 
 Model: sabia_metrics_output.json
-  Avg Dist: 0.5561830741126118
-  Std Dist: 0.1994219680582477
+  Avg Dist: 0.5491052080418064
+  Std Dist: 0.19641477292802856
 
 Model: llama_metrics_output.json
-  Avg Dist: 0.4956544828035332
-  Std Dist: 0.18783836816695204
+  Avg Dist: 0.4884966122478964
+  Std Dist: 0.1842754106337229
 
 Model: gemma_metrics_output.json
-  Avg Dist: 0.5679934643668527
-  Std Dist: 0.16239535024790064
+  Avg Dist: 0.5602028889579306
+  Std Dist: 0.16144486899071114
+
+Model: gemma-3-12b_output.json
+  Avg Dist: 0.4754470390838059
+  Std Dist: 0.13744837433321555
+
+Model: gemma-3-27b_output.json
+  Avg Dist: 0.48969720022705576
+  Std Dist: 0.14665813909172273
+
+Model: mistral-3-24b_output.json
+  Avg Dist: 0.5444986408559839
+  Std Dist: 0.2371441283476899
+
+Model: llama-4-scout_output.json
+  Avg Dist: 0.4808052759578595
+  Std Dist: 0.13894423543177384
 
 --- Metric Group: all ---
 Model: gpt_metrics_output.json
-  Avg Dist: 1.8846297580488292
-  Std Dist: 0.5805161724202261
+  Avg Dist: 1.7784290470492932
+  Std Dist: 0.5424061867124108
 
 Model: mistral_metrics_output.json
-  Avg Dist: 2.186323545159831
-  Std Dist: 0.6763378021204728
+  Avg Dist: 2.0487623800014103
+  Std Dist: 0.6153153868215311
 
 Model: command_metrics_output.json
-  Avg Dist: 1.9257383883811137
-  Std Dist: 0.5075011125069226
+  Avg Dist: 1.8184642423966635
+  Std Dist: 0.4841233859341938
 
 Model: sabia_metrics_output.json
-  Avg Dist: 1.9475483579509658
-  Std Dist: 0.4907664057195031
+  Avg Dist: 1.8415010751933838
+  Std Dist: 0.4721045832115644
 
 Model: llama_metrics_output.json
-  Avg Dist: 1.9713447416146723
-  Std Dist: 0.47682062053502494
+  Avg Dist: 1.8399622425558864
+  Std Dist: 0.45068862479001653
 
 Model: gemma_metrics_output.json
-  Avg Dist: 2.0302718800307833
-  Std Dist: 0.4514120004943868
+  Avg Dist: 1.9155262212410662
+  Std Dist: 0.4237329844808618
+
+Model: gemma-3-12b_output.json
+  Avg Dist: 1.8844116206326187
+  Std Dist: 0.45526824775625996
+
+Model: gemma-3-27b_output.json
+  Avg Dist: 1.7661451400686499
+  Std Dist: 0.45914916881989165
+
+Model: mistral-3-24b_output.json
+  Avg Dist: 1.8396892865999048
+  Std Dist: 0.6425088187213284
+
+Model: llama-4-scout_output.json
+  Avg Dist: 1.77617202579314
+  Std Dist: 0.42564094599541913
 
 Done.

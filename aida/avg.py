@@ -118,6 +118,10 @@ json_filenames = [
     "sabia_metrics_output.json",
     "llama_metrics_output.json",
     "gemma_metrics_output.json",
+    "gemma-3-12b_output.json",
+    "gemma-3-27b_output.json",
+    "mistral-3-24b_output.json",
+    "llama-4-scout_output.json"
 ]
 
 # 1) Load all JSON data

@@ -1,0 +1,569 @@
+{
+  "2013": {
+    "2013_filipe_brum_cunha": [
+      "2013_gpt4o_temp03",
+      "2013_gpt4o_temp05",
+      "2013_gpt4o_temp07",
+      "2013_command-r-plus-08-2024_temp03",
+      "2013_command-r-plus-08-2024_temp07",
+      "2013_gemma_27b_temp03",
+      "2013_gemma_27b_temp05",
+      "2013_gemma_27b_temp07",
+      "2013_gemma-2-9b-it-temp05",
+      "2013_gemma-2-9b-it-temp07",
+      "2013_llama_405b_temp07",
+      "2013_mixtral_22b_temp03",
+      "2013_mixtral_22b_temp05",
+      "2013_mistral-7b-instruct-v0.3-temp03",
+      "2013_mistral-7b-instruct-v0.3-temp05",
+      "2013_phi-3-small-8k-instruct-temp05",
+      "2013_phi-3-small-8k-instruct-temp07",
+      "2013_phi_4_temp03",
+      "2013_phi_4_temp05",
+      "2013_phi_4_temp07",
+      "2013_qwen2.5-7b-instruct-temp03",
+      "2013_qwen2.5-7b-instruct-temp05",
+      "2013_qwen2.5-7b-instruct-temp07"
+    ],
+    "2013_mariana_ferreira_cardoso_da_silva": [
+      "2013_llama_405b_temp05",
+      "2013_qwen_72b_temp03",
+      "2013_qwen_72b_temp05"
+    ],
+    "2013_pedro_piacesi_de_souza": [
+      "2013_command-r-plus-08-2024_temp05"
+    ],
+    "2013_anônimo": [
+      "2013_gemma-2-9b-it-temp03",
+      "2013_llama_405b_temp03",
+      "2013_llama-3.1-8b-instruct-temp03",
+      "2013_llama-3.1-8b-instruct-temp05",
+      "2013_llama-3.1-8b-instruct-temp07",
+      "2013_mixtral_22b_temp07",
+      "2013_mistral-7b-instruct-v0.3-temp07",
+      "2013_phi-3-small-8k-instruct-temp03",
+      "2013_qwen_72b_temp07",
+      "2013_sabia3_temp03",
+      "2013_sabia3_temp05",
+      "2013_sabia3_temp07"
+    ]
+  },
+  "2014": {
+    "2014_candidato1": [
+      "2014_qwen_72b_temp07"
+    ],
+    "2014_candidato2": [
+      "2014_command-r-plus-08-2024_temp03",
+      "2014_command-r-plus-08-2024_temp05",
+      "2014_command-r-plus-08-2024_temp07",
+      "2014_llama_405b_temp03",
+      "2014_llama_405b_temp05",
+      "2014_llama_405b_temp07",
+      "2014_mixtral_22b_temp03",
+      "2014_mixtral_22b_temp05",
+      "2014_mixtral_22b_temp07",
+      "2014_mistral-7b-instruct-v0.3-temp07",
+      "2014_phi_4_temp03",
+      "2014_qwen2.5-7b-instruct-temp03",
+      "2014_qwen2.5-7b-instruct-temp05"
+    ],
+    "2014_candidato3": [
+      "2014_llama-3.1-8b-instruct-temp07"
+    ],
+    "2014_candidato4": [
+      "2014_gpt4o_temp03",
+      "2014_gpt4o_temp05",
+      "2014_gpt4o_temp07",
+      "2014_gemma_27b_temp03",
+      "2014_gemma_27b_temp05",
+      "2014_gemma_27b_temp07",
+      "2014_gemma-2-9b-it-temp03",
+      "2014_gemma-2-9b-it-temp07",
+      "2014_phi-3-small-8k-instruct-temp03",
+      "2014_phi-3-small-8k-instruct-temp05",
+      "2014_phi-3-small-8k-instruct-temp07",
+      "2014_phi_4_temp05",
+      "2014_phi_4_temp07",
+      "2014_qwen2.5-7b-instruct-temp07"
+    ],
+    "2014_candidato5": [],
+    "2014_candidato6": [
+      "2014_sabia3_temp05"
+    ],
+    "2014_candidato7": [
+      "2014_llama-3.1-8b-instruct-temp03"
+    ],
+    "2014_candidato8": [],
+    "2014_candidato9": [
+      "2014_mistral-7b-instruct-v0.3-temp03",
+      "2014_mistral-7b-instruct-v0.3-temp05"
+    ],
+    "2014_candidato10": [],
+    "2014_candidato11": [
+      "2014_sabia3_temp03"
+    ],
+    "2014_candidato12": [
+      "2014_gemma-2-9b-it-temp05"
+    ],
+    "2014_candidato13": [
+      "2014_qwen_72b_temp03",
+      "2014_qwen_72b_temp05"
+    ],
+    "2014_candidato14": [
+      "2014_llama-3.1-8b-instruct-temp05"
+    ],
+    "2014_candidato15": [],
+    "2014_candidato16": [
+      "2014_sabia3_temp07"
+    ],
+    "2014_candidato17": [],
+    "2014_candidato18": []
+  },
+  "2015": {
+    "2015_pedro_barreto_da_rocha_paranhos": [],
+    "2015_camilla_corá": [
+      "2015_gemma_27b_temp05",
+      "2015_gemma-2-9b-it-temp07",
+      "2015_mixtral_22b_temp07",
+      "2015_phi_4_temp07",
+      "2015_qwen_72b_temp05",
+      "2015_qwen2.5-7b-instruct-temp05",
+      "2015_sabia3_temp05"
+    ],
+    "2015_daniel_leão_sousa": [
+      "2015_mistral-7b-instruct-v0.3-temp05",
+      "2015_phi-3-small-8k-instruct-temp05"
+    ],
+    "2015_wallace_medeiros_de_melo_alves": [],
+    "2015_alexandre_de_paula_oliveira": [
+      "2015_llama_405b_temp03",
+      "2015_mixtral_22b_temp05"
+    ],
+    "2015_ramiro_januário_dos_santos_neto": [
+      "2015_llama-3.1-8b-instruct-temp05"
+    ],
+    "2015_pedro_gazzinelli_colares": [],
+    "2015_anônimo1": [],
+    "2015_isadora_loreto_da_silveira": [
+      "2015_gpt4o_temp05",
+      "2015_llama-3.1-8b-instruct-temp03",
+      "2015_mistral-7b-instruct-v0.3-temp07",
+      "2015_phi_4_temp03",
+      "2015_qwen2.5-7b-instruct-temp07",
+      "2015_sabia3_temp07"
+    ],
+    "2015_anônimo2": [
+      "2015_command-r-plus-08-2024_temp07",
+      "2015_gemma_27b_temp03",
+      "2015_gemma-2-9b-it-temp03",
+      "2015_qwen_72b_temp07",
+      "2015_qwen2.5-7b-instruct-temp03",
+      "2015_sabia3_temp03"
+    ],
+    "2015_guilherme_fernando_rennó_kisteumacher": [
+      "2015_gpt4o_temp03",
+      "2015_llama_405b_temp05",
+      "2015_llama_405b_temp07",
+      "2015_mixtral_22b_temp03",
+      "2015_phi_4_temp05"
+    ],
+    "2015_anônimo3": [
+      "2015_gpt4o_temp07",
+      "2015_command-r-plus-08-2024_temp05"
+    ],
+    "2015_anônimo4": [
+      "2015_command-r-plus-08-2024_temp03",
+      "2015_gemma_27b_temp07",
+      "2015_gemma-2-9b-it-temp05",
+      "2015_llama-3.1-8b-instruct-temp07",
+      "2015_mistral-7b-instruct-v0.3-temp03",
+      "2015_phi-3-small-8k-instruct-temp03",
+      "2015_phi-3-small-8k-instruct-temp07"
+    ],
+    "2015_riane_laís_tarnovski": [
+      "2015_qwen_72b_temp03"
+    ],
+    "2015_anônimo5": [],
+    "2015_anônimo6": []
+  },
+  "2016": {
+    "2016_débora_antônia_lobato_cândido": [
+      "2016_gpt4o_temp05",
+      "2016_command-r-plus-08-2024_temp05",
+      "2016_command-r-plus-08-2024_temp07",
+      "2016_gemma-2-9b-it-temp07",
+      "2016_mixtral_22b_temp03",
+      "2016_mistral-7b-instruct-v0.3-temp05"
+    ],
+    "2016_daniel_tavares_vidal": [
+      "2016_gpt4o_temp03",
+      "2016_gemma_27b_temp05"
+    ],
+    "2016_felipe_pinheiro_mello": [
+      "2016_mixtral_22b_temp07",
+      "2016_qwen_72b_temp05"
+    ],
+    "2016_douglas_nascimento_santana": [
+      "2016_gemma_27b_temp07",
+      "2016_gemma-2-9b-it-temp03",
+      "2016_mistral-7b-instruct-v0.3-temp07"
+    ],
+    "2016_matheus_pires_uller": [
+      "2016_gemma_27b_temp03",
+      "2016_llama_405b_temp03",
+      "2016_llama_405b_temp05",
+      "2016_llama_405b_temp07",
+      "2016_llama-3.1-8b-instruct-temp03",
+      "2016_llama-3.1-8b-instruct-temp05",
+      "2016_llama-3.1-8b-instruct-temp07",
+      "2016_mistral-7b-instruct-v0.3-temp03",
+      "2016_phi-3-small-8k-instruct-temp03",
+      "2016_phi-3-small-8k-instruct-temp05",
+      "2016_phi-3-small-8k-instruct-temp07",
+      "2016_phi_4_temp05",
+      "2016_phi_4_temp07",
+      "2016_qwen_72b_temp03",
+      "2016_qwen_72b_temp07",
+      "2016_sabia3_temp03",
+      "2016_sabia3_temp07"
+    ],
+    "2016_igor_moreira_moraes": [
+      "2016_phi_4_temp03",
+      "2016_qwen2.5-7b-instruct-temp03",
+      "2016_qwen2.5-7b-instruct-temp05",
+      "2016_qwen2.5-7b-instruct-temp07"
+    ],
+    "2016_rafael_spirandeli_galera": [],
+    "2016_julia_salles_amaral": [
+      "2016_mixtral_22b_temp05"
+    ],
+    "2016_diego_alfieri": [
+      "2016_gpt4o_temp07"
+    ],
+    "2016_anônimo": [
+      "2016_command-r-plus-08-2024_temp03",
+      "2016_gemma-2-9b-it-temp05",
+      "2016_sabia3_temp05"
+    ]
+  },
+  "2017": {
+    "2017_paulo_mendes_de_carvalho_guedes": [
+      "2017_gpt4o_temp03",
+      "2017_command-r-plus-08-2024_temp05",
+      "2017_llama_405b_temp05",
+      "2017_phi_4_temp05",
+      "2017_phi_4_temp07"
+    ],
+    "2017_larissa_ferreira_da_silva": [
+      "2017_gpt4o_temp05",
+      "2017_gpt4o_temp07",
+      "2017_command-r-plus-08-2024_temp03",
+      "2017_phi_4_temp03",
+      "2017_sabia3_temp07"
+    ],
+    "2017_fernando_josé_caldeira_bastos_neto": [
+      "2017_llama_405b_temp03",
+      "2017_llama-3.1-8b-instruct-temp03",
+      "2017_llama-3.1-8b-instruct-temp05",
+      "2017_mixtral_22b_temp03",
+      "2017_mixtral_22b_temp05",
+      "2017_mixtral_22b_temp07",
+      "2017_qwen_72b_temp03",
+      "2017_qwen_72b_temp05",
+      "2017_qwen_72b_temp07"
+    ],
+    "2017_fábio_coelho_caetano_baptista": [],
+    "2017_rafael_rodrigues_alves": [],
+    "2017_bruno_palazon_imparato": [
+      "2017_llama_405b_temp07",
+      "2017_llama-3.1-8b-instruct-temp07",
+      "2017_phi-3-small-8k-instruct-temp03",
+      "2017_phi-3-small-8k-instruct-temp07"
+    ],
+    "2017_fernando_sousa_leite": [
+      "2017_gemma_27b_temp05",
+      "2017_gemma_27b_temp07",
+      "2017_gemma-2-9b-it-temp07",
+      "2017_mistral-7b-instruct-v0.3-temp03",
+      "2017_mistral-7b-instruct-v0.3-temp05",
+      "2017_mistral-7b-instruct-v0.3-temp07",
+      "2017_sabia3_temp05"
+    ],
+    "2017_maybi_rodrigues_mota": [
+      "2017_phi-3-small-8k-instruct-temp05",
+      "2017_qwen2.5-7b-instruct-temp07"
+    ],
+    "2017_anônimo": [
+      "2017_command-r-plus-08-2024_temp07",
+      "2017_gemma_27b_temp03",
+      "2017_gemma-2-9b-it-temp03",
+      "2017_gemma-2-9b-it-temp05",
+      "2017_qwen2.5-7b-instruct-temp03",
+      "2017_qwen2.5-7b-instruct-temp05",
+      "2017_sabia3_temp03"
+    ]
+  },
+  "2018": {
+    "2018_angelo_paulo_sales_dos_santos": [
+      "2018_gemma_27b_temp05",
+      "2018_gemma_27b_temp07",
+      "2018_phi-3-small-8k-instruct-temp05",
+      "2018_qwen2.5-7b-instruct-temp03"
+    ],
+    "2018_luiz_eduardo_andrade_de_souza": [
+      "2018_gpt4o_temp05",
+      "2018_gemma-2-9b-it-temp05"
+    ],
+    "2018_rafael_mendes_bernardes": [
+      "2018_llama_405b_temp03",
+      "2018_llama_405b_temp07",
+      "2018_llama-3.1-8b-instruct-temp03",
+      "2018_llama-3.1-8b-instruct-temp05",
+      "2018_llama-3.1-8b-instruct-temp07",
+      "2018_mixtral_22b_temp05",
+      "2018_mistral-7b-instruct-v0.3-temp05",
+      "2018_phi_4_temp03",
+      "2018_qwen_72b_temp03",
+      "2018_qwen_72b_temp07",
+      "2018_sabia3_temp03",
+      "2018_sabia3_temp05",
+      "2018_sabia3_temp07"
+    ],
+    "2018_victor_born_portella": [
+      "2018_gpt4o_temp03",
+      "2018_command-r-plus-08-2024_temp03",
+      "2018_command-r-plus-08-2024_temp07",
+      "2018_gemma-2-9b-it-temp07",
+      "2018_mistral-7b-instruct-v0.3-temp07",
+      "2018_phi-3-small-8k-instruct-temp03",
+      "2018_phi_4_temp05",
+      "2018_phi_4_temp07",
+      "2018_qwen2.5-7b-instruct-temp05",
+      "2018_qwen2.5-7b-instruct-temp07"
+    ],
+    "2018_maurício_gurjão_bezerra_heleno": [
+      "2018_llama_405b_temp05",
+      "2018_mixtral_22b_temp07",
+      "2018_mistral-7b-instruct-v0.3-temp03",
+      "2018_phi-3-small-8k-instruct-temp07",
+      "2018_qwen_72b_temp05"
+    ],
+    "2018_anônimo": [
+      "2018_gpt4o_temp07",
+      "2018_command-r-plus-08-2024_temp05",
+      "2018_gemma_27b_temp03",
+      "2018_gemma-2-9b-it-temp03",
+      "2018_mixtral_22b_temp03"
+    ]
+  },
+  "2019": {
+    "2019_luiz_carlos_keppe_nogueira": [
+      "2019_llama-3.1-8b-instruct-temp03",
+      "2019_llama-3.1-8b-instruct-temp07",
+      "2019_mistral-7b-instruct-v0.3-temp03",
+      "2019_mistral-7b-instruct-v0.3-temp05"
+    ],
+    "2019_arthur_lomonaco_beltrame": [
+      "2019_mixtral_22b_temp07"
+    ],
+    "2019_luis_felipe_yonezawa_fernandes": [
+      "2019_llama-3.1-8b-instruct-temp05",
+      "2019_mixtral_22b_temp03"
+    ],
+    "2019_joão_paulo_melo_nacarate": [],
+    "2019_paulo_henrique_de_sousa_cavalcante": [
+      "2019_command-r-plus-08-2024_temp05",
+      "2019_command-r-plus-08-2024_temp07",
+      "2019_llama_405b_temp05",
+      "2019_mixtral_22b_temp05",
+      "2019_phi_4_temp03",
+      "2019_phi_4_temp07",
+      "2019_qwen2.5-7b-instruct-temp05",
+      "2019_sabia3_temp03",
+      "2019_sabia3_temp07"
+    ],
+    "2019_taciano_scheidt_zimmermann": [
+      "2019_gpt4o_temp05",
+      "2019_gemma_27b_temp05",
+      "2019_gemma_27b_temp07",
+      "2019_llama_405b_temp03",
+      "2019_llama_405b_temp07",
+      "2019_mistral-7b-instruct-v0.3-temp07",
+      "2019_phi-3-small-8k-instruct-temp05",
+      "2019_phi-3-small-8k-instruct-temp07",
+      "2019_phi_4_temp05",
+      "2019_qwen_72b_temp03",
+      "2019_qwen2.5-7b-instruct-temp03",
+      "2019_sabia3_temp05"
+    ],
+    "2019_joaquim_pedro_strunck_da_silva_pinto": [
+      "2019_gpt4o_temp03",
+      "2019_gpt4o_temp07",
+      "2019_command-r-plus-08-2024_temp03",
+      "2019_gemma_27b_temp03",
+      "2019_gemma-2-9b-it-temp03",
+      "2019_gemma-2-9b-it-temp05",
+      "2019_gemma-2-9b-it-temp07",
+      "2019_phi-3-small-8k-instruct-temp03",
+      "2019_qwen_72b_temp05",
+      "2019_qwen_72b_temp07",
+      "2019_qwen2.5-7b-instruct-temp07"
+    ]
+  },
+  "2020-2021": {
+    "2020-2021_joão_paulo": [
+      "2020-2021_gemma_27b_temp05",
+      "2020-2021_gemma_27b_temp07",
+      "2020-2021_gemma-2-9b-it-temp07",
+      "2020-2021_llama_405b_temp03",
+      "2020-2021_mistral-7b-instruct-v0.3-temp07",
+      "2020-2021_phi_4_temp03",
+      "2020-2021_phi_4_temp05",
+      "2020-2021_phi_4_temp07",
+      "2020-2021_sabia3_temp07"
+    ],
+    "2020-2021_pedro_mahin": [
+      "2020-2021_gpt4o_temp03",
+      "2020-2021_gpt4o_temp07",
+      "2020-2021_mixtral_22b_temp07",
+      "2020-2021_qwen2.5-7b-instruct-temp03",
+      "2020-2021_qwen2.5-7b-instruct-temp05"
+    ],
+    "2020-2021_gersínio_dos_anjos": [
+      "2020-2021_gpt4o_temp05",
+      "2020-2021_phi-3-small-8k-instruct-temp07"
+    ],
+    "2020-2021_essi_rafael": [],
+    "2020-2021_fernando_simões": [
+      "2020-2021_command-r-plus-08-2024_temp03",
+      "2020-2021_command-r-plus-08-2024_temp05",
+      "2020-2021_command-r-plus-08-2024_temp07",
+      "2020-2021_gemma-2-9b-it-temp03",
+      "2020-2021_gemma-2-9b-it-temp05",
+      "2020-2021_llama_405b_temp05",
+      "2020-2021_llama_405b_temp07",
+      "2020-2021_llama-3.1-8b-instruct-temp03",
+      "2020-2021_llama-3.1-8b-instruct-temp05",
+      "2020-2021_llama-3.1-8b-instruct-temp07",
+      "2020-2021_mixtral_22b_temp03",
+      "2020-2021_mixtral_22b_temp05",
+      "2020-2021_mistral-7b-instruct-v0.3-temp05",
+      "2020-2021_phi-3-small-8k-instruct-temp05",
+      "2020-2021_qwen_72b_temp03",
+      "2020-2021_qwen_72b_temp05",
+      "2020-2021_qwen_72b_temp07",
+      "2020-2021_sabia3_temp03",
+      "2020-2021_sabia3_temp05"
+    ],
+    "2020-2021_anônimo": [
+      "2020-2021_gemma_27b_temp03",
+      "2020-2021_mistral-7b-instruct-v0.3-temp03",
+      "2020-2021_phi-3-small-8k-instruct-temp03",
+      "2020-2021_qwen2.5-7b-instruct-temp07"
+    ]
+  },
+  "2022": {
+    "2022_ana_luiza": [
+      "2022_sabia3_temp07"
+    ],
+    "2022_gabriel_joaquim": [
+      "2022_command_r_plus_08_2024_temp07",
+      "2022_llama_405b_temp07",
+      "2022_phi_3.5_vision_temp03",
+      "2022_phi_3.5_vision_temp05",
+      "2022_qwen2_72b_temp05",
+      "2022_sabia3_temp03"
+    ],
+    "2022_leonardo_maciura": [
+      "2022_llama_8b_temp03",
+      "2022_llama_8b_temp05",
+      "2022_llama_8b_temp07",
+      "2022_qwen2_72b_temp03",
+      "2022_qwen2_7b_temp07",
+      "2022_sabia3_temp05"
+    ],
+    "2022_mateus_de_andrade": [
+      "2022_gpt4o_temp03",
+      "2022_gpt4o_temp05",
+      "2022_gpt4o_temp07",
+      "2022_llama_405b_temp03",
+      "2022_llama_405b_temp05",
+      "2022_mixtral_8x22b_temp03",
+      "2022_mixtral_8x22b_temp07",
+      "2022_mixtral_8x7b_temp03",
+      "2022_mixtral_8x7b_temp07",
+      "2022_qwen2_72b_temp07",
+      "2022_qwen2_7b_temp03",
+      "2022_qwen2_7b_temp05"
+    ],
+    "2022_patrícia_camargo": [
+      "2022_mixtral_8x7b_temp05"
+    ],
+    "2022_pedro_guilherme": [
+      "2022_command_r_plus_08_2024_temp03",
+      "2022_command_r_plus_08_2024_temp05",
+      "2022_gemma_27b_temp03",
+      "2022_gemma_27b_temp05",
+      "2022_gemma_27b_temp07",
+      "2022_gemma_9b_temp03",
+      "2022_gemma_9b_temp05",
+      "2022_gemma_9b_temp07",
+      "2022_mixtral_8x22b_temp05",
+      "2022_phi_3_mini_temp03",
+      "2022_phi_3_mini_temp05",
+      "2022_phi_3_mini_temp07",
+      "2022_phi_3.5_vision_temp07"
+    ]
+  },
+  "2023": {
+    "2023_leonardo_feldman": [
+      "2023_gpt4o_temp05",
+      "2023_command-r-plus-08-2024_temp07",
+      "2023_llama_405b_temp05",
+      "2023_llama_405b_temp07",
+      "2023_mixtral_8x22b_temp03",
+      "2023_mixtral_8x22b_temp05",
+      "2023_mixtral_8x22b_temp07",
+      "2023_qwen2_72b_temp03",
+      "2023_qwen2_72b_temp05",
+      "2023_qwen2_72b_temp07"
+    ],
+    "2023_lara_mendes": [
+      "2023_gpt4o_temp07",
+      "2023_gemma_27b_temp05",
+      "2023_gemma_9b_temp03",
+      "2023_gemma_9b_temp05",
+      "2023_gemma_9b_temp07"
+    ],
+    "2023_marcus_paulo": [
+      "2023_gemma_27b_temp03",
+      "2023_phi_3_mini_temp03",
+      "2023_phi_3_mini_temp05",
+      "2023_phi_3_mini_temp07",
+      "2023_phi-4-temp05",
+      "2023_phi-4-temp07"
+    ],
+    "2023_sergio_cavalieri": [
+      "2023_command-r-plus-08-2024_temp03",
+      "2023_command-r-plus-08-2024_temp05",
+      "2023_llama_405b_temp03",
+      "2023_llama_8b_temp03",
+      "2023_llama_8b_temp05",
+      "2023_llama_8b_temp07",
+      "2023_mixtral_8x7b_temp03",
+      "2023_mixtral_8x7b_temp05",
+      "2023_mixtral_8x7b_temp07",
+      "2023_qwen2_7b_temp03",
+      "2023_qwen2_7b_temp05",
+      "2023_qwen2_7b_temp07",
+      "2023_sabia3_temp03",
+      "2023_sabia3_temp05",
+      "2023_sabia3_temp07"
+    ],
+    "2023_bruno_variani": [
+      "2023_gpt4o_temp03",
+      "2023_gemma_27b_temp07",
+      "2023_phi-4-temp03"
+    ]
+  }
+}
